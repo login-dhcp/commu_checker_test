@@ -134,30 +134,3 @@ footer {
     text-align: center;
 }
 
-div#timeText {
-    display: inline-block;
-}
-
-table#main_table td {
-    padding: 2px 5px 2px 5px;
-    text-align: right;
-}
-
-table#main_table td:first-child {
-    text-align: center;
-}
-
-table#predict_table td {
-    padding: 2px 5px 2px 5px;
-    text-align: right;
-}
-
-table#predict_table td:first-child {
-    text-align: center;
-}
-
-table#ranking_table td {
-    padding: 2px 5px 2px 5px;
-    width: 50px;
-    text-align: center;
-}

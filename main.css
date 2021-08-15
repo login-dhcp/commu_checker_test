@@ -1,0 +1,35 @@
+input[type="checkbox"] {
+    opacity: 0;
+    width: 0;
+}
+
+input[type="checkbox"] + span {
+    opacity: 0.6;
+}
+
+input[type="checkbox"]:checked + span {
+    opacity: 1;
+}
+
+input[type="checkbox"] + img + span {
+    opacity: 0.6;
+}
+
+input[type="checkbox"]:checked + img + span {
+    opacity: 1;
+}
+
+input[type="checkbox"]:checked + img{
+	opacity: 1;
+}
+
+
+
+.selectibleIcon {
+	opacity: 0.6;
+}
+
+.commuIcon {
+	opacity: 0.6;
+	/*width: 96px;*/
+}
