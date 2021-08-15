@@ -17,14 +17,14 @@ function datasetToCheckboxesTable(data) {
     for (var i = 0; i < data.length; i++) {
         var item = data[i];
         table += '<tr>';
-        for (var j = 0; j < item.length; j++) {
-            table += '<td style="text-align: center">';
+        for (var j = 1; j < item.length; j++) {
+            table += '<td style="text-align: center; vertical-align: top;" width="100px" >';
             table += `<label style="cursor:pointer" for="checkbox_${i}_${j}">`;
             var IdolName = item[0].split('_')[0];
             if (item[j] !== "") {
                 table += `<input type="checkbox" id="checkbox_${i}_${j}">`;
-                if (j === 0) {
-                    table += `<img src="https://shinycolors.info/wiki/특수:넘겨주기/file/Icon_${item[j]}.png" class='selectibleIcon'>`;
+                if (j === 1) {
+                    table += `<img src="https://shinycolors.info/wiki/특수:넘겨주기/file/Icon_${item[0]}.png" class='selectibleIcon'>`;
                     table += `<span><br>${item[j]}</span>`;
                 } else {
                     table += `<img src="https://shinycolors.info/wiki/특수:넘겨주기/file/${IdolName}Icon.webp?width=96px" class='commuIcon'>`;
