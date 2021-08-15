@@ -25,10 +25,12 @@ function datasetToCheckboxesTable(data) {
                 table += `<input type="checkbox" id="checkbox_${i}_${j}">`;
                 if (j === 1) {
                     table += `<img src="https://shinycolors.info/wiki/특수:넘겨주기/file/Icon_${item[0]}.png" class='selectibleIcon'>`;
+                    `<a href="https://github.com/login-dhcp">github</a>`
                     table += `<span><br>${item[j]}</span>`;
                 } else {
                     table += `<img src="https://shinycolors.info/wiki/특수:넘겨주기/file/${IdolName}Icon.webp?width=96px" class='commuIcon'>`;
-                    table += `<span><br>${item[j]}</span>`;
+                    table += `<span><a href="https://shinycolors.info/wiki/커뮤니케이션:${item[1].replace(' ', '_')}/${item[j].replace(' ', '_')}">`;
+                    table += `<br>${item[j]}</a></span>`;
                 }
             }
             table += '</label>';
