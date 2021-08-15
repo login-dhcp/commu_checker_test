@@ -20,3 +20,4 @@ Mano_S_SSR_01,1,2,,,,,
 `
 
 buildHTMLWithDataset(text);
+getStateFromUrl();

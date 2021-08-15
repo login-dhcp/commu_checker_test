@@ -22,7 +22,7 @@ function datasetToCheckboxesTable(data) {
             table += `<label style="cursor:pointer" for="checkbox_${i}_${j}">`;
             var IdolName = item[0].split('_')[0];
             if (item[j] !== "") {
-                table += `<input type="checkbox" data-checkbox-id="${i}_${j}" id="checkbox_${i}_${j}">`;
+                table += `<input type="checkbox" id="checkbox_${i}_${j}">`;
                 if (j === 0) {
                     table += `<img src="https://shinycolors.info/wiki/특수:넘겨주기/file/Icon_${item[j]}.png" class='selectibleIcon'>`;
                     table += `<span><br>${item[j]}</span>`;
