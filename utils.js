@@ -23,16 +23,17 @@ function generateUrl() {
 
 function getStateFromUrl() {
     var url = document.location.href;
-    if (url.includes('state=')) {
-        var states = url.split('state=')[1];
+    if (url.includes('?state=')) {
+        var states = url.split('?state=')[1];
+        states = states.split('?')[0];
         if (states.length > 0) {
             var checkboxesToCheck = states.split('&');
             for (var i = 0; i < checkboxesToCheck.length; i++) {
                 var key = checkboxesToCheck[i];
-                console.log(key);
-                $(key).prop('checked', true);
-                // $(key).click();
+                var val = document.getElementById(key);
+                $(val).prop('checked', true);
             }
         }
     }
 }
+
