@@ -18,7 +18,8 @@ function generateUrl() {
     }
     // 5. URL을 표시
     // $(labelId).text(url);
-    console.log(url);
+    // console.log(url);
+    alert(url);
 }
 
 function getStateFromUrl() {
