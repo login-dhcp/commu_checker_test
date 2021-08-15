@@ -20,7 +20,7 @@ async function init() {
 
     $.ajax({
         type: "GET",
-        url: "./commu_list.csv",
+        url: "./commu_list.csv?version=210815",
         dataType: "text",
         success: function(data) { buildHTMLWithDataset(data, ','); }
     });
