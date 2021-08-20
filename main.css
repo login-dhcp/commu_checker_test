@@ -1,35 +1,62 @@
-input[type="checkbox"] {
+/*input[type="checkbox"] {
+    opacity: 0;
+    width: 0;
+}*/
+
+input[class="nonvisible"] {
     opacity: 0;
     width: 0;
 }
 
-input[type="checkbox"] + span {
+input[type="checkbox"]+span {
     opacity: 0.6;
 }
 
-input[type="checkbox"]:checked + span {
+input[type="checkbox"]:checked+span {
     opacity: 1;
 }
 
-input[type="checkbox"] + img + span {
+input[type="checkbox"]+img+span {
     opacity: 0.6;
 }
 
-input[type="checkbox"]:checked + img + span {
+input[type="checkbox"]:checked+img+span {
     opacity: 1;
 }
 
-input[type="checkbox"]:checked + img{
-	opacity: 1;
+input[type="checkbox"]:checked+img {
+    opacity: 1;
 }
 
 
 
 .selectibleIcon {
-	opacity: 0.6;
+    opacity: 0.6;
 }
 
 .commuIcon {
-	opacity: 0.6;
-	/*width: 96px;*/
+    opacity: 0.6;
+    position: relative;
+    /*width: 96px;*/
+}
+
+div.commuIcon[data-visible="true"] {
+    opacity: 1;
+}
+
+.commuIcon span {
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+    font-weight: bolder;
+}
+
+.categoryWindow {
+    /*display: none;*/
+    /*position: absolute; */
+    /*height: auto; */
+    /*    width: 600px; 
+    top: 140.922px; 
+    left: 309.188px; 
+    z-index: 102;*/
 }
