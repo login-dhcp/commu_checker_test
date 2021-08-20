@@ -5,13 +5,20 @@ function sleep(ms) {
 
 var replaceBlankTo = '_';
 var idSeperator = '-';
+const config = {
+    'Icons': {
+        '사쿠라기 마노': 'ManoIcon.webp',
+        '카자노 히오리': 'HioriIcon.webp',
+        'None': 'PIcon.webp',
+    },
+}
 
 $(document).ready(function(e) {
     init();
 });
 
 async function init() {
-    text = `아이돌,사쿠라기 마노,Icon Mano P SSR 01.png,【ほわっとスマイル】櫻木真乃,커뮤니케이션:사쿠라기 마노/P/SSR-1,ほわほわアイドル,真乃ならできる,成長の証,いつかの気持ち,ずっと続く夢の先へ
+    const text = `아이돌,사쿠라기 마노,Icon Mano P SSR 01.png,【ほわっとスマイル】櫻木真乃,커뮤니케이션:사쿠라기 마노/P/SSR-1,ほわほわアイドル,真乃ならできる,成長の証,いつかの気持ち,ずっと続く夢の先へ
 이벤트,None,Light up the illumination.jpg,Light up the illumination,커뮤니케이션:Light up the illumination,輝きの始まり,チカチカ、小さく瞬くみたいな,翳る前に、曇る前に,もう１度、ここから,１番輝く、そのために
 스페셜,None,Light up the illumination.jpg,스페셜,커뮤니케이션:Light up the illumination,輝きの始まり,チカチカ、小さく瞬くみたいな,翳る前に、曇る前に,もう１度、ここから,１番輝く、そのために
 아이돌,카자노 히오리,Icon Hiori S SR 01.png,【克服の特訓】風野灯織,커뮤니케이션카자노 히오리/P/SR-1,困難だって超えられる,めぐるのダンス教室,にぎやかな日常,,
@@ -22,6 +29,8 @@ async function init() {
     //     dataType: "text",
     //     success: function(data) { buildHTMLWithDataset(data, ','); }
     // });
+
+
 
     var parsed_data = csvToArray(text);
     datasetToHTML(parsed_data);
@@ -112,7 +121,7 @@ function datasetToHTML(data) {
 
         var categoryDialogHTML = '';
         var dialogID = `dialog${idSeperator}${category}`;
-        categoryDialogHTML += `<input type="button" id="${buttonID}" value="${category}">`;
+        categoryDialogHTML += `<input type="image" id="${buttonID}" value="${category}" src="./src/${category}.png" height="40">`;
         categoryDialogHTML += `<br>`;
         categoryDialogHTML += `<dialog id="${dialogID}" class="categoryWindow">`;
         categoryDialogHTML += `<span>category: ${category}<br></span>`;
@@ -132,7 +141,8 @@ function datasetToHTML(data) {
             var subCategoryDialogID = `${dialogID}${idSeperator}${subCategory}`;
 
             var buttonID_ = `${buttonID}${idSeperator}${subCategory}`;
-            subCategoryDialogHTML += `<input type="button" id="${buttonID_}" value="${subCategory}">`;
+            var subCategoryIcon = config['Icons'][subCategory.replace(replaceBlankTo, ' ')];
+            subCategoryDialogHTML += `<input type="image" id="${buttonID_}" value="${subCategory}" src="https://shinycolors.info/wiki/특수:넘겨주기/file/${subCategoryIcon}" height="96">`;
             subCategoryDialogHTML += `<br>`;
             subCategoryDialogHTML += `<dialog id=${subCategoryDialogID} class="categoryWindow">`;
             subCategoryDialogHTML += `<span> category: ${subCategory}<br></span>`;
@@ -185,6 +195,7 @@ function datasetToHTML(data) {
             document.getElementById(buttonID_).addEventListener('click', function(e) {
                 document.getElementById(this.id.replace('btn', 'dialog')).showModal();
             });
+            
         }
 
     }
