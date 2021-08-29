@@ -9,6 +9,9 @@ const config = {
     'Icons': {
         '사쿠라기 마노': 'ManoIcon.webp',
         '카자노 히오리': 'HioriIcon.webp',
+        '하치미야 메구루': 'MeguruIcon.webp',
+        '츠키오카 코가네': 'KoganeIcon.webp',
+        '타나카 마미미': 'MamimiIcon.webp',
         'None': 'PIcon.webp',
         '시나리오': 'PIcon.webp',
         '페스': 'PIcon.webp',
@@ -20,18 +23,19 @@ $(document).ready(function(e) {
 });
 
 async function init() {
+    var csv_data;
     $.ajax({
         type: "GET",
-        url: "./commu_list.csv?version=210829",
+        async: false,
+        url: "./commu_list.csv",
         dataType: "text",
         success: function(data) { 
-            const parsed_data = csvToArray(data); 
-            datasetToHTML(parsed_data);
+            csv_data = data;
         }
     });
-    
-    // var parsed_data = csvToArray(data);
-    // datasetToHTML(parsed_data);
+
+    var parsed_data = csvToArray(csv_data);
+    datasetToHTML(parsed_data);
 
     await sleep(1000);
     getStateFromUrl();
