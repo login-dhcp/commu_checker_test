@@ -10,6 +10,8 @@ const config = {
         '사쿠라기 마노': 'ManoIcon.webp',
         '카자노 히오리': 'HioriIcon.webp',
         'None': 'PIcon.webp',
+        '시나리오': 'PIcon.webp',
+        '페스': 'PIcon.webp',
     },
 }
 
@@ -18,10 +20,10 @@ $(document).ready(function(e) {
 });
 
 async function init() {
-    const text = `아이돌,사쿠라기 마노,Icon Mano P SSR 01.png,【ほわっとスマイル】櫻木真乃,커뮤니케이션:사쿠라기 마노/P/SSR-1,ほわほわアイドル,真乃ならできる,成長の証,いつかの気持ち,ずっと続く夢の先へ
-이벤트,None,Light up the illumination.jpg,Light up the illumination,커뮤니케이션:Light up the illumination,輝きの始まり,チカチカ、小さく瞬くみたいな,翳る前に、曇る前に,もう１度、ここから,１番輝く、そのために
-스페셜,None,Light up the illumination.jpg,스페셜,커뮤니케이션:Light up the illumination,輝きの始まり,チカチカ、小さく瞬くみたいな,翳る前に、曇る前に,もう１度、ここから,１番輝く、そのために
-아이돌,카자노 히오리,Icon Hiori S SR 01.png,【克服の特訓】風野灯織,커뮤니케이션카자노 히오리/P/SR-1,困難だって超えられる,めぐるのダンス教室,にぎやかな日常,,
+    const text = `아이돌,사쿠라기 마노,Icon Mano P SSR 01.png,【ほわっとスマイル】櫻木真乃,커뮤니케이션:사쿠라기 마노/P/SSR-1,ほわほわアイドル,真乃ならできる,成長の証,いつかの気持ち,ずっと続く夢の先へ,,
+이벤트,시나리오,Light up the illumination.jpg,Light up the illumination,커뮤니케이션:Light up the illumination,輝きの始まり,チカチカ、小さく瞬くみたいな,翳る前に、曇る前に,もう１度、ここから,１番輝く、そのために,,
+이벤트,시나리오,廻る歯車、運命の瞬間.png,廻る歯車、運命の瞬間,運命の鍵・プレリュード,走り続けるために,別腹☆カラオケタイムばい！,凛と咲く、そのために,you/i/we,心、揃えたいから……,『L'Antica』,運命の鍵・シンフォニー
+아이돌,카자노 히오리,Icon Hiori S SR 01.png,【克服の特訓】風野灯織,커뮤니케이션카자노 히오리/P/SR-1,困難だって超えられる,めぐるのダンス教室,にぎやかな日常,,,,
 `
     // $.ajax({
     //     type: "GET",
@@ -143,6 +145,8 @@ function datasetToHTML(data) {
             var buttonID_ = `${buttonID}${idSeperator}${subCategory}`;
             var subCategoryIcon = config['Icons'][subCategory.replace(replaceBlankTo, ' ')];
             subCategoryDialogHTML += `<input type="image" id="${buttonID_}" value="${subCategory}" src="https://shinycolors.info/wiki/특수:넘겨주기/file/${subCategoryIcon}" height="96">`;
+            subCategoryDialogHTML += `<br>`;
+            subCategoryDialogHTML += `${subCategory}`;
             subCategoryDialogHTML += `<br>`;
             subCategoryDialogHTML += `<dialog id=${subCategoryDialogID} class="categoryWindow">`;
             subCategoryDialogHTML += `<span> category: ${subCategory}<br></span>`;
