@@ -40,7 +40,7 @@ input[type="checkbox"]:checked+img {
     /*width: 96px;*/
 }
 
-div.commuIcon[data-visible="true"] {
+span.commuIcon[data-visible="true"] {
     opacity: 1;
 }
 
