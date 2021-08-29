@@ -12,9 +12,28 @@ const config = {
         '하치미야 메구루': 'MeguruIcon.webp',
         '츠키오카 코가네': 'KoganeIcon.webp',
         '타나카 마미미': 'MamimiIcon.webp',
+        '시라세 사쿠야': 'SakuyaIcon.webp',
+        '미츠미네 유이카': 'YuikaIcon.webp',
+        '유코쿠 키리코': 'KirikoIcon.webp',
+        '코미야 카호': 'KahoIcon.webp',
+        '소노다 치요코': 'ChiyokoIcon.webp',
+        '사이죠 쥬리': 'JuriIcon.webp',
+        '모리노 린제': 'RinzeIcon.webp',
+        '아리스가와 나츠하': 'NatsuhaIcon.webp',
+        '오사키 아마나': 'AmanaIcon.webp',
+        '오사키 텐카': 'TenkaIcon.webp',
+        '쿠와야마 치유키': 'ChiyukiIcon.webp',
+        '세리자와 아사히': 'AsahiIcon.webp',
+        '마유즈미 후유코': 'FuyukoIcon.webp',
+        '이즈미 메이': 'MeiIcon.webp',
+        '아사쿠라 토오루': 'ToruIcon.webp',
+        '히구치 마도카': 'MadokaIcon.webp',
+        '후쿠마루 코이토': 'KoitoIcon.webp',
+        '이치카와 히나나': 'HinanaIcon.webp',
+        '나나쿠사 니치카': 'NichikaIcon.webp',
+        '아케타 미코토': 'MikotoIcon.webp',
         'None': 'PIcon.webp',
         '시나리오': 'PIcon.webp',
-        '페스': 'PIcon.webp',
     },
 }
 
@@ -39,6 +58,9 @@ async function init() {
 
     await sleep(1000);
     getStateFromUrl();
+
+    await sleep(1000);
+    console.log('finished');
 
 }
 
