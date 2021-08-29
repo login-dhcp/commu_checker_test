@@ -29,6 +29,9 @@ async function init() {
             datasetToHTML(parsed_data);
         }
     });
+    
+    // var parsed_data = csvToArray(data);
+    // datasetToHTML(parsed_data);
 
     await sleep(1000);
     getStateFromUrl();
@@ -105,6 +108,17 @@ function commuItemToHTML(item) {
 
 }
 
+function parseHeader(data) {
+    var items = [];
+    var splitted = data.split(':');
+    items.push(splitted[0]); // category
+    var splitted_ = splitted[1].split('/');
+    for (item of splitted_) {
+        items.push(item);
+    }
+    return items;
+}
+
 function datasetToHTML(data) {
     // 1. build Categories Icons first
     const categoryKeys = Object.keys(data['categories']);
@@ -158,9 +172,26 @@ function datasetToHTML(data) {
                 var commuID = commuList[k];
                 var item_ = data['lines'][commuID];
                 var commuIconHTML = commuItemToHTML(item_);
-                if (k % 5 === 4) {
-                    commuIconHTML += `<br>`;
+
+                // 1.2.2.1 split commuItems with cardType, rarity
+                if (k !== commuList.length-1) {
+                    var commuIDNext = commuList[k+1];
+                    var item_Next = data['lines'][commuIDNext];
+                    var header = item_[4];
+                    var headerNext = item_Next[4];
+                    var metadata = parseHeader(header);
+                    var metadataNext = parseHeader(headerNext);
+                    if (metadata.length > 2) {
+                        var cardType = metadata[2];
+                        var rarity = metadata[3].split('-')[0];
+                        var cardTypeNext = metadataNext[2];
+                        var rarityNext = metadataNext[3].split('-')[0];
+                        if (cardType !== cardTypeNext || rarity !== rarityNext) {
+                            commuIconHTML += `<br>`;
+                        }
+                    }
                 }
+
                 document.getElementById(subCategoryDialogID).insertAdjacentHTML('beforeend', commuIconHTML);
 
                 var commuName_ = item_[3];
