@@ -20,27 +20,15 @@ $(document).ready(function(e) {
 });
 
 async function init() {
-    const text = `아이돌,사쿠라기 마노,Icon Mano P SSR 01.png,【ほわっとスマイル】櫻木真乃,커뮤니케이션:사쿠라기 마노/P/SSR-1,ほわほわアイドル,真乃ならできる,成長の証,いつかの気持ち,ずっと続く夢の先へ,,,
-아이돌,카자노 히오리,Icon Hiori S SR 01.png,【克服の特訓】風野灯織,커뮤니케이션카자노 히오리/P/SR-1,困難だって超えられる,めぐるのダンス教室,にぎやかな日常,,,,,
-이벤트,시나리오,Light up the illumination.jpg,Light up the illumination,커뮤니케이션:Light up the illumination,輝きの始まり,チカチカ、小さく瞬くみたいな,翳る前に、曇る前に,もう１度、ここから,１番輝く、そのために,,,
-이벤트,시나리오,廻る歯車、運命の瞬間.png,廻る歯車、運命の瞬間,커뮤니케이션:運命の鍵・プレリュード,走り続けるために,別腹☆カラオケタイムばい！,凛と咲く、そのために,you/i/we,心、揃えたいから……,『L'Antica』,運命の鍵・シンフォニー,
-이벤트,시나리오,五色 爆発！合宿クライマッス！.jpg,五色 爆発！合宿クライマッス！,커뮤니케이션:五色 爆発！合宿クライマッス！,特訓！？レッスン合宿は学校で,SCHOOL COOL SCHOOL,ちょこ先輩のユウシ,白熱★枕投げ大会！！,座禅ってすごいのよ,肝試し★6人一緒なら怖くない！,灯る想いは写真の中に,クライマックスは終わらない！
-이벤트,시나리오,満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─.jpg,満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─,커뮤니케이션:満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─,私たちの目的地,パールホワイト,天と地、屈折,甜花の敵じゃない,私をもっと知りたくて,まごころ・みっつ重ねて,私達の幸福論,花ざかり、これからも。
-이벤트,시나리오,夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～.jpg,夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～,커뮤니케이션:夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～,夏の依頼は突然に,ヤキソバ・プロテイン・藁人形,Mission:Break,放課後、想いは置手紙に込めて,いつもよりサイコー,ハプニングはピーヒョロロ,トリ戻す大作戦！,きっと忘れない夏の光
-이벤트,시나리오,真夜中発、ハロウィンワールドの旅人.jpg,真夜中発、ハロウィンワールドの旅人,커뮤니케이션:真夜中発、ハロウィンワールドの旅人,ようこそL'Antica WORLD,イタズラ or Trick,運命の鍵・捜索中……,送出大作戦☆君に会えてよかった,いらっしゃいませ、いただきます,絵画迷宮・解き明かさないで,救出大作戦☆信じるのは、君,私の大切な人
-이벤트,시나리오,オペレーション・サンタ！～包囲せよ２８３プロ～.jpg,オペレーション・サンタ！～包囲せよ２８３プロ～,커뮤니케이션:オペレーション・サンタ！～包囲せよ２８３プロ～,パーティー・チューニング,泥棒！？,危険なクリスマスイブ,キラキラノンシュガートラップ,この味を飲み干して……,くいあらためてください,観念せよ！トナカイ,サンタさんつかまえた
-`
-    // $.ajax({
-    //     type: "GET",
-    //     url: "./commu_list2.csv?version=210815",
-    //     dataType: "text",
-    //     success: function(data) { buildHTMLWithDataset(data, ','); }
-    // });
-
-
-
-    var parsed_data = csvToArray(text);
-    datasetToHTML(parsed_data);
+    $.ajax({
+        type: "GET",
+        url: "./commu_list.csv?version=210829",
+        dataType: "text",
+        success: function(data) { 
+            const parsed_data = csvToArray(data); 
+            datasetToHTML(parsed_data);
+        }
+    });
 
     await sleep(1000);
     getStateFromUrl();
@@ -96,9 +84,9 @@ function commuItemToHTML(item) {
         smallCommus.push(item[i]);
     }
     var commuHTML = '';
-    commuHTML += `<div class="commuItem">\n`;
-    commuHTML += `<div class="commuIcon" id="div${idSeperator}${commuName}" data-visible=false>\n`;
-    commuHTML += `<img id="icon${idSeperator}${commuName}" alt="${iconPath}" src="https://shinycolors.info/wiki/특수:넘겨주기/file/${iconPath}" height="96"><br>`;
+    commuHTML += `<span class="commuItem">\n`;
+    commuHTML += `<span class="commuIcon" id="div${idSeperator}${commuName}" data-visible=false>\n`;
+    commuHTML += `<img id="icon${idSeperator}${commuName}" alt="${iconPath}" src="https://shinycolors.info/wiki/특수:넘겨주기/file/${iconPath}" height="96">`;
     commuHTML += `<span id="desc${idSeperator}${commuName}">0/n</span>`
     commuHTML += `<dialog id="dialog${idSeperator}${commuName}" class="commudialog">`;
     commuHTML += `<a href="https://shinycolors.info/wiki/${commuName}" target="_blank">${commuName}<br></a>`;
@@ -110,8 +98,8 @@ function commuItemToHTML(item) {
     }
 
     commuHTML += `</dialog>`;
-    commuHTML += `</div>`;
-    commuHTML += `</div>`;
+    commuHTML += `</span>`;
+    commuHTML += `</span>`;
 
     return commuHTML;
 
@@ -165,9 +153,14 @@ function datasetToHTML(data) {
 
             // 1.2.2. add commu Items
             var commuList = data['categories'][category][subCategory];
-            for (commuID of commuList) {
+            for (var k=0; k<commuList.length; k++) {
+            // for (commuID of commuList) {
+                var commuID = commuList[k];
                 var item_ = data['lines'][commuID];
                 var commuIconHTML = commuItemToHTML(item_);
+                if (k % 5 === 4) {
+                    commuIconHTML += `<br>`;
+                }
                 document.getElementById(subCategoryDialogID).insertAdjacentHTML('beforeend', commuIconHTML);
 
                 var commuName_ = item_[3];
@@ -177,8 +170,8 @@ function datasetToHTML(data) {
                 });
 
                 var smallCommus = [];
-                for (var k = 5; k < item_.length; k++) {
-                    smallCommus.push(item_[k]);
+                for (var l = 5; l < item_.length; l++) {
+                    smallCommus.push(item_[l]);
                 }
 
                 for (smallCommu of smallCommus) {
