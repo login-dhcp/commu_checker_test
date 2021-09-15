@@ -42,19 +42,105 @@ $(document).ready(function(e) {
 });
 
 async function init() {
-    var csv_data;
-    $.ajax({
-        type: "GET",
-        async: false,
-        url: "./commu_list.csv",
-        dataType: "text",
-        success: function(data) { 
-            csv_data = data;
-        }
-    });
+    var raw_data;
+    // $.ajax({
+    //     type: "GET",
+    //     async: false,
+    //     url: "./commu_list.json",
+    //     dataType: "json",
+    //     success: function(data) { 
+    //         raw_data = data;
+    //     }
+    // });
 
-    var parsed_data = csvToArray(csv_data);
-    datasetToHTML(parsed_data);
+    raw_data = [
+    {
+        "Type": "event",
+        "Category": "scenario",
+        "Title": "Light up the illumination",
+        "Icon": "https://shinycolors.info/w/images/b/be/Light_up_the_illumination_Banner.png",
+        "Link": "https://shinycolors.info/wiki/Light_up_the_illumination",
+        "Commus": [
+            {
+                "NameJP": "輝きの始まり",
+                "NameKR": "빛의 시작",
+                "Link": "https://shinycolors.info/wiki/Light_up_the_illumination/輝きの始まり",
+            },
+            {
+                "NameJP": "チカチカ、小さく瞬くみたいな",
+                "NameKR": "반짝반짝, 자그마하게 반짝이는 것 같은",
+                "Link": "https://shinycolors.info/wiki/Light_up_the_illumination/チカチカ、小さく瞬くみたいな",
+            },
+            {
+                "NameJP": "翳る前に、曇る前に",
+                "NameKR": "그늘지기 전에, 흐려지기 전에",
+                "Link": "https://shinycolors.info/wiki/Light_up_the_illumination/翳る前に、曇る前に",
+            },
+            {
+                "NameJP": "もう１度、ここから",
+                "NameKR": "다시 한 번, 여기서부터",
+                "Link": "https://shinycolors.info/wiki/Light_up_the_illumination/もう１度、ここから",
+            },
+            {
+                "NameJP": "１番輝く、そのために",
+                "NameKR": "가장 반짝인다, 그것을 위해서",
+                "Link": "https://shinycolors.info/wiki/Light_up_the_illumination/１番輝く、そのために",
+            },
+            {
+                "NameJP": "３人だから灯せたもの",
+                "NameKR": "세 명이기에 밝힐 수 있는 것",
+                "Link": "https://shinycolors.info/wiki/Light_up_the_illumination/３人だから灯せたもの",
+            },
+            {
+                "NameJP": "想いを重ねて、支えを光に",
+                "NameKR": "마음을 쌓아, 기둥을 빛으로",
+                "Link": "https://shinycolors.info/wiki/Light_up_the_illumination/想いを重ねて、支えを光に",
+            },
+            {
+                "NameJP": "illumination STARS",
+                "NameKR": "illumination STARS",
+                "Link": "https://shinycolors.info/wiki/Light_up_the_illumination/illumination STARS",
+            },
+        ],
+    },
+    {
+        "Type": "Idol",
+        "Category": "櫻木真乃",
+        "Title": "【ほわっとスマイル】櫻木真乃",
+        "Icon": "https://shinycolors.info/w/images/a/af/Icon_Mano_P_SSR_01.png",
+        "Link":"https://shinycolors.info/wiki/【ほわっとスマイル】櫻木真乃",
+        "Commus":[
+            {
+                "NameJP": "ほわほわアイドル",
+                "NameKR": "포근포근 아이돌",
+                "Link": "https://shinycolors.info/wiki/사쿠라기_마노/P/SSR-1/ほわほわアイドル",
+            },
+            {
+                "NameJP": "真乃ならできる",
+                "NameKR": "마노라면 할 수 있어",
+                "Link": "https://shinycolors.info/wiki/사쿠라기_마노/P/SSR-1/真乃ならできる",
+            },
+            {
+                "NameJP": "成長の証",
+                "NameKR": "성장의 증거",
+                "Link": "https://shinycolors.info/wiki/사쿠라기_마노/P/SSR-1/成長の証",
+            },
+            {
+                "NameJP": "いつかの気持ち",
+                "NameKR": "언젠가의 마음",
+                "Link": "https://shinycolors.info/wiki/사쿠라기_마노/P/SSR-1/いつかの気持ち",
+            },
+            {
+                "NameJP": "True End: ずっと続く夢の先へ",
+                "NameKR": "True End:계속되는 꿈의 끝에",
+                "Link": "https://shinycolors.info/wiki/사쿠라기_마노/P/SSR-1/ずっと続く夢の先へ",
+            },
+        ],
+    },
+]
+
+    var dataset = parse_raw(raw_data);
+    datasetToHTML(dataset);
 
     await sleep(1000);
     getStateFromUrl();
@@ -64,199 +150,124 @@ async function init() {
 
 }
 
-function csvToArray(data) {
-    // csv Description:
-    // 0열: 커뮤 대분류
-    // 1열: 커뮤 소분류
-    // 2열: 커뮤 아이콘
-    // 3열: 아이콘 하단 텍스트(=위키 문서 제목)
-    // 4열: 위키 커뮤 데이터 구분자
-    // 5열~: 커뮤 이름
-    var textLines = data.split(/\r\n|\n/);
-    var lines = [];
-    var categories = {};
-    var subCategories = {};
-
-    for (var i = 0; i < textLines.length; i++) {
-        var line = textLines[i].replaceAll(' ', replaceBlankTo).split(',');
-
-        if (line[0].length > 0) {
-            lines.push(line);
-            var commuCategory = line[0];
-            if (!(commuCategory in categories)) {
-                categories[commuCategory] = {};
-            }
-
-            var commuSubCategory = line[1];
-            if (!(commuSubCategory in categories[commuCategory])) {
-                categories[commuCategory][commuSubCategory] = [];
-            }
-            categories[commuCategory][commuSubCategory].push(i);
-        }
-    }
-
-    var returnData = {
-        'lines': lines,
-        'categories': categories,
-    }
-    return returnData;
+function parse_raw(data) {
+    return data;
 }
 
-function commuItemToHTML(item) {
-    var category = item[0];
-    var subcategory = item[1];
-    var iconPath = item[2];
-    var commuName = item[3];
-    var header = item[4];
-    var smallCommus = [];
-    for (var i = 5; i < item.length; i++) {
-        smallCommus.push(item[i]);
-    }
+function commuItemToHTML(commudata) {
     var commuHTML = '';
     commuHTML += `<span class="commuItem">\n`;
-    commuHTML += `<span class="commuIcon" id="div${idSeperator}${commuName}" data-visible=false>\n`;
-    commuHTML += `<img id="icon${idSeperator}${commuName}" alt="${iconPath}" src="https://shinycolors.info/wiki/특수:넘겨주기/file/${iconPath}" height="96">`;
-    commuHTML += `<span id="desc${idSeperator}${commuName}">0/n</span>`
-    commuHTML += `<dialog id="dialog${idSeperator}${commuName}" class="commudialog">`;
-    commuHTML += `<a href="https://shinycolors.info/wiki/${commuName}" target="_blank">${commuName}<br></a>`;
-    for (commu of smallCommus) {
-        if (commu.length > 0) {
-            commuHTML += `<label><input type="checkbox" id="btn${idSeperator}${commuName}${idSeperator}${commu}">${commu}</label>`;
-            commuHTML += `&nbsp;<a href="https://shinycolors.info/wiki/${header}/${commu}" target="_blank">링크<br></a>`
-        }
+    commuHTML += `<span class="commuIcon" id="div${idSeperator}${commudata['Title']}" data-visible=false>\n`;
+    commuHTML += `<img id="icon${idSeperator}${commudata['Title']}" 
+                    alt="${commudata['Icon']}" 
+                    src="${commudata['Icon']}" height="96">`;
+    commuHTML += `<span id="desc${idSeperator}${commudata['Title']}">0/0</span>`
+    commuHTML += `<dialog id="dialog${idSeperator}${commudata['Title']}" class="commudialog">`;
+    commuHTML += `<a href="${commudata['Link']}" target="_blank">${commudata['Title']}<br></a>`;
+    for (var commu of commudata['Commus']) {
+        commuHTML += `<label><input type="checkbox" id="btn${idSeperator}${commudata['Title']}${idSeperator}${commu['NameJP']}">${commu['NameJP']}</label>`;
+        commuHTML += `&nbsp;<a href="${commu['Link']}" target="_blank">링크<br></a>`
     }
-
     commuHTML += `</dialog>`;
     commuHTML += `</span>`;
     commuHTML += `</span>`;
 
     return commuHTML;
-
-}
-
-function parseHeader(data) {
-    var items = [];
-    var splitted = data.split(':');
-    items.push(splitted[0]); // category
-    var splitted_ = splitted[1].split('/');
-    for (item of splitted_) {
-        items.push(item);
-    }
-    return items;
 }
 
 function datasetToHTML(data) {
-    // 1. build Categories Icons first
-    const categoryKeys = Object.keys(data['categories']);
-    for (var i = 0; i < categoryKeys.length; i++) {
-        // 1.1. make button
-        // 1.2. make dialog
-        var category = categoryKeys[i];
-        var buttonHTML = '';
-        var buttonID = `btn${idSeperator}${category}`;
+    // 1. build commutype dialogs
+    // 1.1. get commutype keys
+    var commuTypes = new Set();
+    for (var commu of data) {
+        var commuType = commu['Type'];
+        commuTypes.add(commuType);
+    }
+    commuTypes = new Set(Array.from(commuTypes).sort());
 
-        var categoryDialogHTML = '';
-        var dialogID = `dialog${idSeperator}${category}`;
-        categoryDialogHTML += `<input type="image" id="${buttonID}" value="${category}" src="./src/${category}.png" height="40">`;
-        categoryDialogHTML += `<br>`;
-        categoryDialogHTML += `<dialog id="${dialogID}" class="categoryWindow">`;
-        categoryDialogHTML += `<span>category: ${category}<br></span>`;
-        categoryDialogHTML += `</dialog>`;
-        document.getElementById('commu_list').insertAdjacentHTML('beforeend', categoryDialogHTML);
-        // 1.2.3. add eventlistener to show dialogs
+    // 1.2. make button & dialog
+    for (var commuType of commuTypes) {
+        var buttonID = `btn${idSeperator}${commuType}`;
+        var dialogID = `dialog${idSeperator}${commuType}`;
+        var dialogIconPath = `./src/Type_${commuType}.png`;
+        var dialogHTML = '';
+        dialogHTML += `<input type="image" id="${buttonID}" value="${commuType}" src="${dialogIconPath}" height="40">`;
+        dialogHTML += `<br>`;
+        dialogHTML += `<dialog id="${dialogID}" class="customDialog">`;
+        dialogHTML += `<span>CommuType: ${commuType}<br></span>`;
+        dialogHTML += `</dialog>`;
+        document.getElementById('commu_list').insertAdjacentHTML('beforeend', dialogHTML);
         document.getElementById(buttonID).addEventListener('click', function(e) {
             document.getElementById(this.id.replace('btn', 'dialog')).showModal();
         });
-
-
-        // 1.2.1. add subcategory Dialog
-        var subCategoryKeys = Object.keys(data['categories'][category]);
-        for (var j = 0; j < subCategoryKeys.length; j++) {
-            var subCategory = subCategoryKeys[j];
-            var subCategoryDialogHTML = ``;
-            var subCategoryDialogID = `${dialogID}${idSeperator}${subCategory}`;
-
-            var buttonID_ = `${buttonID}${idSeperator}${subCategory}`;
-            var subCategoryIcon = config['Icons'][subCategory.replace(replaceBlankTo, ' ')];
-            subCategoryDialogHTML += `<input type="image" id="${buttonID_}" value="${subCategory}" src="https://shinycolors.info/wiki/특수:넘겨주기/file/${subCategoryIcon}" height="96">`;
-            subCategoryDialogHTML += `<br>`;
-            subCategoryDialogHTML += `${subCategory}`;
-            subCategoryDialogHTML += `<br>`;
-            subCategoryDialogHTML += `<dialog id=${subCategoryDialogID} class="categoryWindow">`;
-            subCategoryDialogHTML += `<span> category: ${subCategory}<br></span>`;
-            subCategoryDialogHTML += `</dialog>`;
-            document.getElementById(dialogID).insertAdjacentHTML('beforeend', subCategoryDialogHTML);
-
-            document.getElementById(buttonID_).addEventListener('click', function(e) {
-                document.getElementById(this.id.replace('btn', 'dialog')).showModal();
-            });
-
-            // 1.2.2. add commu Items
-            var commuList = data['categories'][category][subCategory];
-            for (var k=0; k<commuList.length; k++) {
-            // for (commuID of commuList) {
-                var commuID = commuList[k];
-                var item_ = data['lines'][commuID];
-                var commuIconHTML = commuItemToHTML(item_);
-
-                // 1.2.2.1 split commuItems with cardType, rarity
-                if (k !== commuList.length-1) {
-                    var commuIDNext = commuList[k+1];
-                    var item_Next = data['lines'][commuIDNext];
-                    var header = item_[4];
-                    var headerNext = item_Next[4];
-                    var metadata = parseHeader(header);
-                    var metadataNext = parseHeader(headerNext);
-                    if (metadata.length > 2) {
-                        var cardType = metadata[2];
-                        var rarity = metadata[3].split('-')[0];
-                        var cardTypeNext = metadataNext[2];
-                        var rarityNext = metadataNext[3].split('-')[0];
-                        if (cardType !== cardTypeNext || rarity !== rarityNext) {
-                            commuIconHTML += `<br>`;
-                        }
-                    }
-                }
-
-                document.getElementById(subCategoryDialogID).insertAdjacentHTML('beforeend', commuIconHTML);
-
-                var commuName_ = item_[3];
-                var commuIconID = `icon${idSeperator}${commuName_}`;
-                document.getElementById(commuIconID).addEventListener('click', function(e) {
-                    document.getElementById(this.id.replace('icon', 'dialog')).showModal();
-                });
-
-                var smallCommus = [];
-                for (var l = 5; l < item_.length; l++) {
-                    smallCommus.push(item_[l]);
-                }
-
-                for (smallCommu of smallCommus) {
-                    if (smallCommu.length > 0) {
-                        document.getElementById(`btn${idSeperator}${commuName_}${idSeperator}${smallCommu}`).addEventListener('change', function() {
-                            var commuName__ = this.id.split(`${idSeperator}`)[1];
-                            var divID__ = `div${idSeperator}${commuName__}`;
-
-                            // 2.2.1. 각 commu checkbox에 img opacity 설정
-                            var checked = document.querySelectorAll(`input[id^=btn${idSeperator}${commuName__}]:checked`).length;
-                            var all = document.querySelectorAll(`input[id^=btn${idSeperator}${commuName__}]`).length;
-                            if (checked === all) {
-                                document.getElementById(divID__).dataset.visible = true;
-                            } else {
-                                document.getElementById(divID__).dataset.visible = false;
-                            }
-
-                            // 2.2.2. 각 icon에 selected된 commu 수 체크, visualize
-                            var span_ID_ = `desc${idSeperator}${commuName__}`;
-                            document.getElementById(span_ID_).innerHTML = `${checked}/${all}`;
-                        })
-                    }
-                }
-            }
-        }
     }
-}
 
+    // 2. build commuCategory dialogs
+    // 2.1. get commuCategory keys
+    var commuCategories = new Set();
+    for (var commu of data) {
+        var item = {
+            'Type': commu['Type'],
+            'Category': commu['Category'],
+        }
+        commuCategories.add(item);
+    }
+    commuCategories = new Set(Array.from(commuCategories).sort());
+
+    // 2.2. make button & dialog
+    for (var item of commuCategories) {
+        var buttonID = `btn${idSeperator}${item['Type']}${idSeperator}${item['Category']}`;
+        var dialogID = `dialog${idSeperator}${item['Type']}${idSeperator}${item['Category']}`;
+        var dialogIconPath = `./src/Category_${item['Category']}.png`;
+        var dialogHTML = ``;
+
+        dialogHTML += `<input type="image" id="${buttonID}" value="${item['Category']}" src="${dialogIconPath}" height="96">`;
+        dialogHTML += `<br>`;
+        dialogHTML += `${item['Category']}`;
+        dialogHTML += `<br>`;
+        dialogHTML += `<dialog id="${dialogID}" class="customDialog">`;
+        dialogHTML += `<span>Category: ${item['Category']}<br></span>`;
+        dialogHTML += `</dialog>`;
+        document.getElementById(`dialog${idSeperator}${item['Type']}`).insertAdjacentHTML('beforeend', dialogHTML);
+        document.getElementById(buttonID).addEventListener('click', function(e) {
+            document.getElementById(this.id.replace('btn', 'dialog')).showModal();
+        });
+    }
+
+    // 3. add Commus
+    for (var commu of data) {
+        var dialogID = `dialog${idSeperator}${commu['Type']}${idSeperator}${commu['Category']}`;
+        document.getElementById(dialogID).insertAdjacentHTML('beforeend', commuItemToHTML(commu));
+        document.getElementById(`icon-${commu['Title']}`).addEventListener('click', function(e) {
+            document.getElementById(this.id.replace('icon', 'dialog')).showModal();
+        });
+
+        // 3.1. 각 commu checkbox에 parent dialog icon opacity 설정 + count checkbox checked num
+        for (var smallCommu of commu['Commus']) {
+            var smallCommuID = `btn${idSeperator}${commu['Title']}${idSeperator}${smallCommu['NameJP']}`;
+            document.getElementById(smallCommuID).addEventListener('change', function() {
+                var commuTitle = this.id.split(`${idSeperator}`)[1]; // 0 for btn, 1 for title
+                var divID = `div${idSeperator}${commuTitle}`;
+
+                var all = document.querySelectorAll(`input[id^=btn${idSeperator}${commuTitle}]`).length;
+                var checked = document.querySelectorAll(`input[id^=btn${idSeperator}${commuTitle}]:checked`).length;
+
+                if (checked === all) {
+                    document.getElementById(divID).dataset.visible = true;
+                } else {
+                    document.getElementById(divID).dataset.visible = false;
+                }
+
+                var span_ID = `desc${idSeperator}${commuTitle}`;
+                document.getElementById(span_ID).innerHTML = `${checked}/${all}`;
+            })
+        }
+
+    }
+
+    // 3.1. Split Commus with cardType, rarity 
+    // TODO
+}
 
 function generateUrl() {
     // 1. 쿼리 파라미터를 제외한 현재 URL만 취득
