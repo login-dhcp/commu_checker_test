@@ -151,7 +151,8 @@ async function init() {
 }
 
 function parse_raw(data) {
-    return data;
+    var new_data = JSON.parse(JSON.stringify(data).replace(/\s+|\s+/g,`${replaceBlankTo}`));
+    return new_data;
 }
 
 function commuItemToHTML(commudata) {
