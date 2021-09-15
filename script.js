@@ -53,89 +53,334 @@ async function init() {
     //     }
     // });
 
-    raw_data = [
-    {
-        "Type": "event",
-        "Category": "scenario",
+    raw_data = [{
+        "Type": "Event",
+        "Category": "Scenario",
         "Title": "Light up the illumination",
-        "Icon": "https://shinycolors.info/w/images/b/be/Light_up_the_illumination_Banner.png",
-        "Link": "https://shinycolors.info/wiki/Light_up_the_illumination",
+        "Icon": "https://shinycolors.info/w/images/b/be/Light up the illumination_Banner.png",
+        "Link": "https://shinycolors.info/wiki/Light up the illumination",
         "Commus": [
             {
                 "NameJP": "輝きの始まり",
-                "NameKR": "빛의 시작",
-                "Link": "https://shinycolors.info/wiki/Light_up_the_illumination/輝きの始まり",
+                "Link": "https://shinycolors.info/wiki/Light up the illumination/輝きの始まり"
             },
             {
                 "NameJP": "チカチカ、小さく瞬くみたいな",
-                "NameKR": "반짝반짝, 자그마하게 반짝이는 것 같은",
-                "Link": "https://shinycolors.info/wiki/Light_up_the_illumination/チカチカ、小さく瞬くみたいな",
+                "Link": "https://shinycolors.info/wiki/Light up the illumination/チカチカ、小さく瞬くみたいな"
             },
             {
                 "NameJP": "翳る前に、曇る前に",
-                "NameKR": "그늘지기 전에, 흐려지기 전에",
-                "Link": "https://shinycolors.info/wiki/Light_up_the_illumination/翳る前に、曇る前に",
+                "Link": "https://shinycolors.info/wiki/Light up the illumination/翳る前に、曇る前に"
             },
             {
                 "NameJP": "もう１度、ここから",
-                "NameKR": "다시 한 번, 여기서부터",
-                "Link": "https://shinycolors.info/wiki/Light_up_the_illumination/もう１度、ここから",
+                "Link": "https://shinycolors.info/wiki/Light up the illumination/もう１度、ここから"
             },
             {
                 "NameJP": "１番輝く、そのために",
-                "NameKR": "가장 반짝인다, 그것을 위해서",
-                "Link": "https://shinycolors.info/wiki/Light_up_the_illumination/１番輝く、そのために",
+                "Link": "https://shinycolors.info/wiki/Light up the illumination/１番輝く、そのために"
+            }
+        ]
+    },
+    {
+        "Type": "Event",
+        "Category": "Scenario",
+        "Title": "廻る歯車、運命の瞬間",
+        "Icon": "https://shinycolors.info/w/images/8/84/廻る歯車、運命の瞬間_Banner.png",
+        "Link": "https://shinycolors.info/wiki/廻る歯車、運命の瞬間",
+        "Commus": [
+            {
+                "NameJP": "走り続けるために",
+                "Link": "https://shinycolors.info/wiki/廻る歯車、運命の瞬間/走り続けるために"
             },
             {
-                "NameJP": "３人だから灯せたもの",
-                "NameKR": "세 명이기에 밝힐 수 있는 것",
-                "Link": "https://shinycolors.info/wiki/Light_up_the_illumination/３人だから灯せたもの",
+                "NameJP": "別腹☆カラオケタイムばい！",
+                "Link": "https://shinycolors.info/wiki/廻る歯車、運命の瞬間/別腹☆カラオケタイムばい！"
             },
             {
-                "NameJP": "想いを重ねて、支えを光に",
-                "NameKR": "마음을 쌓아, 기둥을 빛으로",
-                "Link": "https://shinycolors.info/wiki/Light_up_the_illumination/想いを重ねて、支えを光に",
+                "NameJP": "凛と咲く、そのために",
+                "Link": "https://shinycolors.info/wiki/廻る歯車、運命の瞬間/凛と咲く、そのために"
             },
             {
-                "NameJP": "illumination STARS",
-                "NameKR": "illumination STARS",
-                "Link": "https://shinycolors.info/wiki/Light_up_the_illumination/illumination STARS",
+                "NameJP": "you/i/we",
+                "Link": "https://shinycolors.info/wiki/廻る歯車、運命の瞬間/you/i/we"
             },
-        ],
+            {
+                "NameJP": "心、揃えたいから……",
+                "Link": "https://shinycolors.info/wiki/廻る歯車、運命の瞬間/心、揃えたいから……"
+            },
+            {
+                "NameJP": "『L'Antica』",
+                "Link": "https://shinycolors.info/wiki/廻る歯車、運命の瞬間/『L'Antica』"
+            },
+            {
+                "NameJP": "運命の鍵・シンフォニー",
+                "Link": "https://shinycolors.info/wiki/廻る歯車、運命の瞬間/運命の鍵・シンフォニー"
+            }
+        ]
+    },
+    {
+        "Type": "Event",
+        "Category": "Scenario",
+        "Title": "五色 爆発！合宿クライマッス！",
+        "Icon": "https://shinycolors.info/w/images/9/94/五色 爆発！合宿クライマッス！_Banner.png",
+        "Link": "https://shinycolors.info/wiki/五色 爆発！合宿クライマッス！",
+        "Commus": [
+            {
+                "NameJP": "特訓！？レッスン合宿は学校で",
+                "Link": "https://shinycolors.info/wiki/五色 爆発！合宿クライマッス！/特訓！？レッスン合宿は学校で"
+            },
+            {
+                "NameJP": "SCHOOL COOL SCHOOL",
+                "Link": "https://shinycolors.info/wiki/五色 爆発！合宿クライマッス！/SCHOOL COOL SCHOOL"
+            },
+            {
+                "NameJP": "ちょこ先輩のユウシ",
+                "Link": "https://shinycolors.info/wiki/五色 爆発！合宿クライマッス！/ちょこ先輩のユウシ"
+            },
+            {
+                "NameJP": "白熱★枕投げ大会！！",
+                "Link": "https://shinycolors.info/wiki/五色 爆発！合宿クライマッス！/白熱★枕投げ大会！！"
+            },
+            {
+                "NameJP": "座禅ってすごいのよ",
+                "Link": "https://shinycolors.info/wiki/五色 爆発！合宿クライマッス！/座禅ってすごいのよ"
+            },
+            {
+                "NameJP": "肝試し★6人一緒なら怖くない！",
+                "Link": "https://shinycolors.info/wiki/五色 爆発！合宿クライマッス！/肝試し★6人一緒なら怖くない！"
+            },
+            {
+                "NameJP": "灯る想いは写真の中に",
+                "Link": "https://shinycolors.info/wiki/五色 爆発！合宿クライマッス！/灯る想いは写真の中に"
+            },
+            {
+                "NameJP": "クライマックスは終わらない！",
+                "Link": "https://shinycolors.info/wiki/五色 爆発！合宿クライマッス！/クライマックスは終わらない！"
+            }
+        ]
+    },
+    {
+        "Type": "Event",
+        "Category": "Scenario",
+        "Title": "満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─",
+        "Icon": "https://shinycolors.info/w/images/7/7d/満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─_Banner.png",
+        "Link": "https://shinycolors.info/wiki/満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─",
+        "Commus": [
+            {
+                "NameJP": "私たちの目的地",
+                "Link": "https://shinycolors.info/wiki/満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─/私たちの目的地"
+            },
+            {
+                "NameJP": "パールホワイト",
+                "Link": "https://shinycolors.info/wiki/満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─/パールホワイト"
+            },
+            {
+                "NameJP": "天と地、屈折",
+                "Link": "https://shinycolors.info/wiki/満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─/天と地、屈折"
+            },
+            {
+                "NameJP": "甜花の敵じゃない",
+                "Link": "https://shinycolors.info/wiki/満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─/甜花の敵じゃない"
+            },
+            {
+                "NameJP": "私をもっと知りたくて",
+                "Link": "https://shinycolors.info/wiki/満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─/私をもっと知りたくて"
+            },
+            {
+                "NameJP": "まごころ・みっつ重ねて",
+                "Link": "https://shinycolors.info/wiki/満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─/まごころ・みっつ重ねて"
+            },
+            {
+                "NameJP": "私達の幸福論",
+                "Link": "https://shinycolors.info/wiki/満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─/私達の幸福論"
+            },
+            {
+                "NameJP": "花ざかり、これからも。",
+                "Link": "https://shinycolors.info/wiki/満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─/花ざかり、これからも。"
+            }
+        ]
+    },
+    {
+        "Type": "Event",
+        "Category": "Scenario",
+        "Title": "夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～",
+        "Icon": "https://shinycolors.info/w/images/0/0c/夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～_Banner.png",
+        "Link": "https://shinycolors.info/wiki/夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～",
+        "Commus": [
+            {
+                "NameJP": "夏の依頼は突然に",
+                "Link": "https://shinycolors.info/wiki/夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～/夏の依頼は突然に"
+            },
+            {
+                "NameJP": "ヤキソバ・プロテイン・藁人形",
+                "Link": "https://shinycolors.info/wiki/夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～/ヤキソバ・プロテイン・藁人形"
+            },
+            {
+                "NameJP": "Mission:Break",
+                "Link": "https://shinycolors.info/wiki/夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～/Mission:Break"
+            },
+            {
+                "NameJP": "放課後、想いは置手紙に込めて",
+                "Link": "https://shinycolors.info/wiki/夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～/放課後、想いは置手紙に込めて"
+            },
+            {
+                "NameJP": "いつもよりサイコー",
+                "Link": "https://shinycolors.info/wiki/夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～/いつもよりサイコー"
+            },
+            {
+                "NameJP": "ハプニングはピーヒョロロ",
+                "Link": "https://shinycolors.info/wiki/夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～/ハプニングはピーヒョロロ"
+            },
+            {
+                "NameJP": "トリ戻す大作戦！",
+                "Link": "https://shinycolors.info/wiki/夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～/トリ戻す大作戦！"
+            },
+            {
+                "NameJP": "きっと忘れない夏の光",
+                "Link": "https://shinycolors.info/wiki/夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～/きっと忘れない夏の光"
+            }
+        ]
+    },
+    {
+        "Type": "Event",
+        "Category": "Scenario",
+        "Title": "真夜中発、ハロウィンワールドの旅人",
+        "Icon": "https://shinycolors.info/w/images/6/66/真夜中発、ハロウィンワールドの旅人_Banner.png",
+        "Link": "https://shinycolors.info/wiki/真夜中発、ハロウィンワールドの旅人",
+        "Commus": [
+            {
+                "NameJP": "ようこそL'Antica WORLD",
+                "Link": "https://shinycolors.info/wiki/真夜中発、ハロウィンワールドの旅人/ようこそL'Antica WORLD"
+            },
+            {
+                "NameJP": "イタズラ or Trick",
+                "Link": "https://shinycolors.info/wiki/真夜中発、ハロウィンワールドの旅人/イタズラ or Trick"
+            },
+            {
+                "NameJP": "運命の鍵・捜索中……",
+                "Link": "https://shinycolors.info/wiki/真夜中発、ハロウィンワールドの旅人/運命の鍵・捜索中……"
+            },
+            {
+                "NameJP": "送出大作戦☆君に会えてよかった",
+                "Link": "https://shinycolors.info/wiki/真夜中発、ハロウィンワールドの旅人/送出大作戦☆君に会えてよかった"
+            },
+            {
+                "NameJP": "いらっしゃいませ、いただきます",
+                "Link": "https://shinycolors.info/wiki/真夜中発、ハロウィンワールドの旅人/いらっしゃいませ、いただきます"
+            },
+            {
+                "NameJP": "絵画迷宮・解き明かさないで",
+                "Link": "https://shinycolors.info/wiki/真夜中発、ハロウィンワールドの旅人/絵画迷宮・解き明かさないで"
+            },
+            {
+                "NameJP": "救出大作戦☆信じるのは、君",
+                "Link": "https://shinycolors.info/wiki/真夜中発、ハロウィンワールドの旅人/救出大作戦☆信じるのは、君"
+            },
+            {
+                "NameJP": "私の大切な人",
+                "Link": "https://shinycolors.info/wiki/真夜中発、ハロウィンワールドの旅人/私の大切な人"
+            }
+        ]
+    },
+    {
+        "Type": "Event",
+        "Category": "Scenario",
+        "Title": "オペレーション・サンタ！～包囲せよ２８３プロ～",
+        "Icon": "https://shinycolors.info/w/images/8/8b/オペレーション・サンタ！～包囲せよ２８３プロ～_Banner.png",
+        "Link": "https://shinycolors.info/wiki/オペレーション・サンタ！～包囲せよ２８３プロ～",
+        "Commus": [
+            {
+                "NameJP": "パーティー・チューニング",
+                "Link": "https://shinycolors.info/wiki/オペレーション・サンタ！～包囲せよ２８３プロ～/パーティー・チューニング"
+            },
+            {
+                "NameJP": "泥棒！？",
+                "Link": "https://shinycolors.info/wiki/オペレーション・サンタ！～包囲せよ２８３プロ～/泥棒！？"
+            },
+            {
+                "NameJP": "危険なクリスマスイブ",
+                "Link": "https://shinycolors.info/wiki/オペレーション・サンタ！～包囲せよ２８３プロ～/危険なクリスマスイブ"
+            },
+            {
+                "NameJP": "キラキラノンシュガートラップ",
+                "Link": "https://shinycolors.info/wiki/オペレーション・サンタ！～包囲せよ２８３プロ～/キラキラノンシュガートラップ"
+            },
+            {
+                "NameJP": "この味を飲み干して……",
+                "Link": "https://shinycolors.info/wiki/オペレーション・サンタ！～包囲せよ２８３プロ～/この味を飲み干して……"
+            },
+            {
+                "NameJP": "くいあらためてください",
+                "Link": "https://shinycolors.info/wiki/オペレーション・サンタ！～包囲せよ２８３プロ～/くいあらためてください"
+            },
+            {
+                "NameJP": "観念せよ！トナカイ",
+                "Link": "https://shinycolors.info/wiki/オペレーション・サンタ！～包囲せよ２８３プロ～/観念せよ！トナカイ"
+            },
+            {
+                "NameJP": "サンタさんつかまえた",
+                "Link": "https://shinycolors.info/wiki/オペレーション・サンタ！～包囲せよ２８３プロ～/サンタさんつかまえた"
+            }
+        ]
     },
     {
         "Type": "Idol",
-        "Category": "櫻木真乃",
+        "Category": "사쿠라기 마노",
         "Title": "【ほわっとスマイル】櫻木真乃",
         "Icon": "https://shinycolors.info/w/images/a/af/Icon_Mano_P_SSR_01.png",
-        "Link":"https://shinycolors.info/wiki/【ほわっとスマイル】櫻木真乃",
-        "Commus":[
+        "Link": "https://shinycolors.info/wiki/【ほわっとスマイル】櫻木真乃",
+        "Commus": [
             {
                 "NameJP": "ほわほわアイドル",
-                "NameKR": "포근포근 아이돌",
-                "Link": "https://shinycolors.info/wiki/사쿠라기_마노/P/SSR-1/ほわほわアイドル",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-1/ほわほわアイドル"
             },
             {
                 "NameJP": "真乃ならできる",
-                "NameKR": "마노라면 할 수 있어",
-                "Link": "https://shinycolors.info/wiki/사쿠라기_마노/P/SSR-1/真乃ならできる",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-1/真乃ならできる"
             },
             {
                 "NameJP": "成長の証",
-                "NameKR": "성장의 증거",
-                "Link": "https://shinycolors.info/wiki/사쿠라기_마노/P/SSR-1/成長の証",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-1/成長の証"
             },
             {
                 "NameJP": "いつかの気持ち",
-                "NameKR": "언젠가의 마음",
-                "Link": "https://shinycolors.info/wiki/사쿠라기_마노/P/SSR-1/いつかの気持ち",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-1/いつかの気持ち"
             },
             {
-                "NameJP": "True End: ずっと続く夢の先へ",
-                "NameKR": "True End:계속되는 꿈의 끝에",
-                "Link": "https://shinycolors.info/wiki/사쿠라기_마노/P/SSR-1/ずっと続く夢の先へ",
+                "NameJP": "ずっと続く夢の先へ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-1/ずっと続く夢の先へ"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Title": "【ハ♡トフェルトゥギフト】櫻木真乃",
+        "Icon": "",
+        "Link": "https://shinycolors.info/wiki/【ハ♡トフェルトゥギフト】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "ぽかぽか陽気に誘われて",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-2/ぽかぽか陽気に誘われて"
             },
-        ],
+            {
+                "NameJP": "旅のお供に",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-2/旅のお供に"
+            },
+            {
+                "NameJP": "春の足音",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-2/春の足音"
+            },
+            {
+                "NameJP": "あなたへ贈り物",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-2/あなたへ贈り物"
+            },
+            {
+                "NameJP": "ゆるりと流れる時間の中で",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-2/ゆるりと流れる時間の中で"
+            }
+        ]
     },
 ]
 
@@ -207,29 +452,29 @@ function datasetToHTML(data) {
     // 2.1. get commuCategory keys
     var commuCategories = new Set();
     for (var commu of data) {
-        var item = {
-            'Type': commu['Type'],
-            'Category': commu['Category'],
-        }
+        var item = `${commu['Type']}|||${commu['Category']}`;
         commuCategories.add(item);
     }
     commuCategories = new Set(Array.from(commuCategories).sort());
 
     // 2.2. make button & dialog
     for (var item of commuCategories) {
-        var buttonID = `btn${idSeperator}${item['Type']}${idSeperator}${item['Category']}`;
-        var dialogID = `dialog${idSeperator}${item['Type']}${idSeperator}${item['Category']}`;
-        var dialogIconPath = `./src/Category_${item['Category']}.png`;
+        var item_parse = item.split('|||');
+        var commuType = item_parse[0];
+        var commuCategory = item_parse[1];
+        var buttonID = `btn${idSeperator}${commuType}${idSeperator}${commuCategory}`;
+        var dialogID = `dialog${idSeperator}${commuType}${idSeperator}${commuCategory}`;
+        var dialogIconPath = `./src/Category_${commuCategory}.png`;
         var dialogHTML = ``;
 
-        dialogHTML += `<input type="image" id="${buttonID}" value="${item['Category']}" src="${dialogIconPath}" height="96">`;
+        dialogHTML += `<input type="image" id="${buttonID}" value="${commuCategory}" src="${dialogIconPath}" height="96">`;
         dialogHTML += `<br>`;
-        dialogHTML += `${item['Category']}`;
+        dialogHTML += `${commuCategory}`;
         dialogHTML += `<br>`;
         dialogHTML += `<dialog id="${dialogID}" class="customDialog">`;
-        dialogHTML += `<span>Category: ${item['Category']}<br></span>`;
+        dialogHTML += `<span>Category: ${commuCategory}<br></span>`;
         dialogHTML += `</dialog>`;
-        document.getElementById(`dialog${idSeperator}${item['Type']}`).insertAdjacentHTML('beforeend', dialogHTML);
+        document.getElementById(`dialog${idSeperator}${commuType}`).insertAdjacentHTML('beforeend', dialogHTML);
         document.getElementById(buttonID).addEventListener('click', function(e) {
             document.getElementById(this.id.replace('btn', 'dialog')).showModal();
         });
