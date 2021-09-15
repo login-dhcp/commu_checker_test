@@ -1,0 +1,851 @@
+[
+    {
+        "Type": "Event",
+        "Category": "Scenario",
+        "Title": "Light up the illumination",
+        "Icon": "https://shinycolors.info/w/images/b/be/Light up the illumination_Banner.png",
+        "Link": "https://shinycolors.info/wiki/Light up the illumination",
+        "Commus": [
+            {
+                "NameJP": "輝きの始まり",
+                "Link": "https://shinycolors.info/wiki/Light up the illumination/輝きの始まり"
+            },
+            {
+                "NameJP": "チカチカ、小さく瞬くみたいな",
+                "Link": "https://shinycolors.info/wiki/Light up the illumination/チカチカ、小さく瞬くみたいな"
+            },
+            {
+                "NameJP": "翳る前に、曇る前に",
+                "Link": "https://shinycolors.info/wiki/Light up the illumination/翳る前に、曇る前に"
+            },
+            {
+                "NameJP": "もう１度、ここから",
+                "Link": "https://shinycolors.info/wiki/Light up the illumination/もう１度、ここから"
+            },
+            {
+                "NameJP": "１番輝く、そのために",
+                "Link": "https://shinycolors.info/wiki/Light up the illumination/１番輝く、そのために"
+            }
+        ]
+    },
+    {
+        "Type": "Event",
+        "Category": "Scenario",
+        "Title": "廻る歯車、運命の瞬間",
+        "Icon": "https://shinycolors.info/w/images/8/84/廻る歯車、運命の瞬間_Banner.png",
+        "Link": "https://shinycolors.info/wiki/廻る歯車、運命の瞬間",
+        "Commus": [
+            {
+                "NameJP": "走り続けるために",
+                "Link": "https://shinycolors.info/wiki/廻る歯車、運命の瞬間/走り続けるために"
+            },
+            {
+                "NameJP": "別腹☆カラオケタイムばい！",
+                "Link": "https://shinycolors.info/wiki/廻る歯車、運命の瞬間/別腹☆カラオケタイムばい！"
+            },
+            {
+                "NameJP": "凛と咲く、そのために",
+                "Link": "https://shinycolors.info/wiki/廻る歯車、運命の瞬間/凛と咲く、そのために"
+            },
+            {
+                "NameJP": "you/i/we",
+                "Link": "https://shinycolors.info/wiki/廻る歯車、運命の瞬間/you/i/we"
+            },
+            {
+                "NameJP": "心、揃えたいから……",
+                "Link": "https://shinycolors.info/wiki/廻る歯車、運命の瞬間/心、揃えたいから……"
+            },
+            {
+                "NameJP": "『L'Antica』",
+                "Link": "https://shinycolors.info/wiki/廻る歯車、運命の瞬間/『L'Antica』"
+            },
+            {
+                "NameJP": "運命の鍵・シンフォニー",
+                "Link": "https://shinycolors.info/wiki/廻る歯車、運命の瞬間/運命の鍵・シンフォニー"
+            }
+        ]
+    },
+    {
+        "Type": "Event",
+        "Category": "Scenario",
+        "Title": "五色 爆発！合宿クライマッス！",
+        "Icon": "https://shinycolors.info/w/images/9/94/五色 爆発！合宿クライマッス！_Banner.png",
+        "Link": "https://shinycolors.info/wiki/五色 爆発！合宿クライマッス！",
+        "Commus": [
+            {
+                "NameJP": "特訓！？レッスン合宿は学校で",
+                "Link": "https://shinycolors.info/wiki/五色 爆発！合宿クライマッス！/特訓！？レッスン合宿は学校で"
+            },
+            {
+                "NameJP": "SCHOOL COOL SCHOOL",
+                "Link": "https://shinycolors.info/wiki/五色 爆発！合宿クライマッス！/SCHOOL COOL SCHOOL"
+            },
+            {
+                "NameJP": "ちょこ先輩のユウシ",
+                "Link": "https://shinycolors.info/wiki/五色 爆発！合宿クライマッス！/ちょこ先輩のユウシ"
+            },
+            {
+                "NameJP": "白熱★枕投げ大会！！",
+                "Link": "https://shinycolors.info/wiki/五色 爆発！合宿クライマッス！/白熱★枕投げ大会！！"
+            },
+            {
+                "NameJP": "座禅ってすごいのよ",
+                "Link": "https://shinycolors.info/wiki/五色 爆発！合宿クライマッス！/座禅ってすごいのよ"
+            },
+            {
+                "NameJP": "肝試し★6人一緒なら怖くない！",
+                "Link": "https://shinycolors.info/wiki/五色 爆発！合宿クライマッス！/肝試し★6人一緒なら怖くない！"
+            },
+            {
+                "NameJP": "灯る想いは写真の中に",
+                "Link": "https://shinycolors.info/wiki/五色 爆発！合宿クライマッス！/灯る想いは写真の中に"
+            },
+            {
+                "NameJP": "クライマックスは終わらない！",
+                "Link": "https://shinycolors.info/wiki/五色 爆発！合宿クライマッス！/クライマックスは終わらない！"
+            }
+        ]
+    },
+    {
+        "Type": "Event",
+        "Category": "Scenario",
+        "Title": "満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─",
+        "Icon": "https://shinycolors.info/w/images/7/7d/満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─_Banner.png",
+        "Link": "https://shinycolors.info/wiki/満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─",
+        "Commus": [
+            {
+                "NameJP": "私たちの目的地",
+                "Link": "https://shinycolors.info/wiki/満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─/私たちの目的地"
+            },
+            {
+                "NameJP": "パールホワイト",
+                "Link": "https://shinycolors.info/wiki/満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─/パールホワイト"
+            },
+            {
+                "NameJP": "天と地、屈折",
+                "Link": "https://shinycolors.info/wiki/満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─/天と地、屈折"
+            },
+            {
+                "NameJP": "甜花の敵じゃない",
+                "Link": "https://shinycolors.info/wiki/満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─/甜花の敵じゃない"
+            },
+            {
+                "NameJP": "私をもっと知りたくて",
+                "Link": "https://shinycolors.info/wiki/満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─/私をもっと知りたくて"
+            },
+            {
+                "NameJP": "まごころ・みっつ重ねて",
+                "Link": "https://shinycolors.info/wiki/満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─/まごころ・みっつ重ねて"
+            },
+            {
+                "NameJP": "私達の幸福論",
+                "Link": "https://shinycolors.info/wiki/満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─/私達の幸福論"
+            },
+            {
+                "NameJP": "花ざかり、これからも。",
+                "Link": "https://shinycolors.info/wiki/満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─/花ざかり、これからも。"
+            }
+        ]
+    },
+    {
+        "Type": "Event",
+        "Category": "Scenario",
+        "Title": "夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～",
+        "Icon": "https://shinycolors.info/w/images/0/0c/夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～_Banner.png",
+        "Link": "https://shinycolors.info/wiki/夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～",
+        "Commus": [
+            {
+                "NameJP": "夏の依頼は突然に",
+                "Link": "https://shinycolors.info/wiki/夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～/夏の依頼は突然に"
+            },
+            {
+                "NameJP": "ヤキソバ・プロテイン・藁人形",
+                "Link": "https://shinycolors.info/wiki/夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～/ヤキソバ・プロテイン・藁人形"
+            },
+            {
+                "NameJP": "Mission:Break",
+                "Link": "https://shinycolors.info/wiki/夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～/Mission:Break"
+            },
+            {
+                "NameJP": "放課後、想いは置手紙に込めて",
+                "Link": "https://shinycolors.info/wiki/夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～/放課後、想いは置手紙に込めて"
+            },
+            {
+                "NameJP": "いつもよりサイコー",
+                "Link": "https://shinycolors.info/wiki/夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～/いつもよりサイコー"
+            },
+            {
+                "NameJP": "ハプニングはピーヒョロロ",
+                "Link": "https://shinycolors.info/wiki/夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～/ハプニングはピーヒョロロ"
+            },
+            {
+                "NameJP": "トリ戻す大作戦！",
+                "Link": "https://shinycolors.info/wiki/夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～/トリ戻す大作戦！"
+            },
+            {
+                "NameJP": "きっと忘れない夏の光",
+                "Link": "https://shinycolors.info/wiki/夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～/きっと忘れない夏の光"
+            }
+        ]
+    },
+    {
+        "Type": "Event",
+        "Category": "Scenario",
+        "Title": "真夜中発、ハロウィンワールドの旅人",
+        "Icon": "https://shinycolors.info/w/images/6/66/真夜中発、ハロウィンワールドの旅人_Banner.png",
+        "Link": "https://shinycolors.info/wiki/真夜中発、ハロウィンワールドの旅人",
+        "Commus": [
+            {
+                "NameJP": "ようこそL'Antica WORLD",
+                "Link": "https://shinycolors.info/wiki/真夜中発、ハロウィンワールドの旅人/ようこそL'Antica WORLD"
+            },
+            {
+                "NameJP": "イタズラ or Trick",
+                "Link": "https://shinycolors.info/wiki/真夜中発、ハロウィンワールドの旅人/イタズラ or Trick"
+            },
+            {
+                "NameJP": "運命の鍵・捜索中……",
+                "Link": "https://shinycolors.info/wiki/真夜中発、ハロウィンワールドの旅人/運命の鍵・捜索中……"
+            },
+            {
+                "NameJP": "送出大作戦☆君に会えてよかった",
+                "Link": "https://shinycolors.info/wiki/真夜中発、ハロウィンワールドの旅人/送出大作戦☆君に会えてよかった"
+            },
+            {
+                "NameJP": "いらっしゃいませ、いただきます",
+                "Link": "https://shinycolors.info/wiki/真夜中発、ハロウィンワールドの旅人/いらっしゃいませ、いただきます"
+            },
+            {
+                "NameJP": "絵画迷宮・解き明かさないで",
+                "Link": "https://shinycolors.info/wiki/真夜中発、ハロウィンワールドの旅人/絵画迷宮・解き明かさないで"
+            },
+            {
+                "NameJP": "救出大作戦☆信じるのは、君",
+                "Link": "https://shinycolors.info/wiki/真夜中発、ハロウィンワールドの旅人/救出大作戦☆信じるのは、君"
+            },
+            {
+                "NameJP": "私の大切な人",
+                "Link": "https://shinycolors.info/wiki/真夜中発、ハロウィンワールドの旅人/私の大切な人"
+            }
+        ]
+    },
+    {
+        "Type": "Event",
+        "Category": "Scenario",
+        "Title": "オペレーション・サンタ！～包囲せよ２８３プロ～",
+        "Icon": "https://shinycolors.info/w/images/8/8b/オペレーション・サンタ！～包囲せよ２８３プロ～_Banner.png",
+        "Link": "https://shinycolors.info/wiki/オペレーション・サンタ！～包囲せよ２８３プロ～",
+        "Commus": [
+            {
+                "NameJP": "パーティー・チューニング",
+                "Link": "https://shinycolors.info/wiki/オペレーション・サンタ！～包囲せよ２８３プロ～/パーティー・チューニング"
+            },
+            {
+                "NameJP": "泥棒！？",
+                "Link": "https://shinycolors.info/wiki/オペレーション・サンタ！～包囲せよ２８３プロ～/泥棒！？"
+            },
+            {
+                "NameJP": "危険なクリスマスイブ",
+                "Link": "https://shinycolors.info/wiki/オペレーション・サンタ！～包囲せよ２８３プロ～/危険なクリスマスイブ"
+            },
+            {
+                "NameJP": "キラキラノンシュガートラップ",
+                "Link": "https://shinycolors.info/wiki/オペレーション・サンタ！～包囲せよ２８３プロ～/キラキラノンシュガートラップ"
+            },
+            {
+                "NameJP": "この味を飲み干して……",
+                "Link": "https://shinycolors.info/wiki/オペレーション・サンタ！～包囲せよ２８３プロ～/この味を飲み干して……"
+            },
+            {
+                "NameJP": "くいあらためてください",
+                "Link": "https://shinycolors.info/wiki/オペレーション・サンタ！～包囲せよ２８３プロ～/くいあらためてください"
+            },
+            {
+                "NameJP": "観念せよ！トナカイ",
+                "Link": "https://shinycolors.info/wiki/オペレーション・サンタ！～包囲せよ２８３プロ～/観念せよ！トナカイ"
+            },
+            {
+                "NameJP": "サンタさんつかまえた",
+                "Link": "https://shinycolors.info/wiki/オペレーション・サンタ！～包囲せよ２８３プロ～/サンタさんつかまえた"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Title": "【ほわっとスマイル】櫻木真乃",
+        "Icon": "https://shinycolors.info/w/images/a/af/Icon_Mano_P_SSR_01.png",
+        "Link": "https://shinycolors.info/wiki/【ほわっとスマイル】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "ほわほわアイドル",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-1/ほわほわアイドル"
+            },
+            {
+                "NameJP": "真乃ならできる",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-1/真乃ならできる"
+            },
+            {
+                "NameJP": "成長の証",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-1/成長の証"
+            },
+            {
+                "NameJP": "いつかの気持ち",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-1/いつかの気持ち"
+            },
+            {
+                "NameJP": "ずっと続く夢の先へ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-1/ずっと続く夢の先へ"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Title": "【ハ♡トフェルトゥギフト】櫻木真乃",
+        "Icon": "https://shinycolors.info/w/images/9/9d/Icon_Mano_P_SSR_02.png",
+        "Link": "https://shinycolors.info/wiki/【ハ♡トフェルトゥギフト】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "ぽかぽか陽気に誘われて",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-2/ぽかぽか陽気に誘われて"
+            },
+            {
+                "NameJP": "旅のお供に",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-2/旅のお供に"
+            },
+            {
+                "NameJP": "春の足音",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-2/春の足音"
+            },
+            {
+                "NameJP": "あなたへ贈り物",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-2/あなたへ贈り物"
+            },
+            {
+                "NameJP": "ゆるりと流れる時間の中で",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-2/ゆるりと流れる時間の中で"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Title": "【はじけてスマイル】櫻木真乃",
+        "Icon": "https://shinycolors.info/w/images/f/ff/Icon_Mano_P_SSR_03.png",
+        "Link": "https://shinycolors.info/wiki/【はじけてスマイル】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "緑色が運ぶ、夏の",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-3/緑色が運ぶ、夏の"
+            },
+            {
+                "NameJP": "狙う、その間の",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-3/狙う、その間の"
+            },
+            {
+                "NameJP": "交す、ことばの",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-3/交す、ことばの"
+            },
+            {
+                "NameJP": "涼やかな、夏の",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-3/涼やかな、夏の"
+            },
+            {
+                "NameJP": "気遣い、一粒",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-3/気遣い、一粒"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Title": "【深染め、いろみぐさ】櫻木真乃",
+        "Icon": "https://shinycolors.info/w/images/9/94/Icon_Mano_P_SSR_04.png",
+        "Link": "https://shinycolors.info/wiki/【深染め、いろみぐさ】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "秋香る",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-4/秋香る"
+            },
+            {
+                "NameJP": "響くやわらか",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-4/響くやわらか"
+            },
+            {
+                "NameJP": "空の下",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-4/空の下"
+            },
+            {
+                "NameJP": "染まる景色に",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-4/染まる景色に"
+            },
+            {
+                "NameJP": "薫る秋",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-4/薫る秋"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Title": "【ソラを跳ね】櫻木真乃",
+        "Icon": "https://shinycolors.info/w/images/1/13/Icon_Mano_P_SSR_05.png",
+        "Link": "https://shinycolors.info/wiki/【ソラを跳ね】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "ささやかな",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-5/ささやかな"
+            },
+            {
+                "NameJP": "あめのひ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-5/あめのひ"
+            },
+            {
+                "NameJP": "そらをおよぐ鳥",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-5/そらをおよぐ鳥"
+            },
+            {
+                "NameJP": "ゆっくりでいい。そうきみにも",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-5/ゆっくりでいい。そうきみにも"
+            },
+            {
+                "NameJP": "たとえ何光年離れていたとしても",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-5/たとえ何光年離れていたとしても"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Title": "【花風Smiley】櫻木真乃",
+        "Icon": "https://shinycolors.info/w/images/8/82/Icon_Mano_P_SSR_06.png",
+        "Link": "https://shinycolors.info/wiki/【花風Smiley】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "はずむ、こころ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-6/はずむ、こころ"
+            },
+            {
+                "NameJP": "カメラレッスン",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-6/カメラレッスン"
+            },
+            {
+                "NameJP": "やわらかくつつんで、春",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-6/やわらかくつつんで、春"
+            },
+            {
+                "NameJP": "想い、その手にのせて",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-6/想い、その手にのせて"
+            },
+            {
+                "NameJP": "散りつもるように、幸福",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SSR-6/散りつもるように、幸福"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Title": "【ナチュラルモード】櫻木真乃",
+        "Icon": "https://shinycolors.info/w/images/3/30/Icon_Mano_P_SR_01.png",
+        "Link": "https://shinycolors.info/wiki/【ナチュラルモード】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "ショッピング日和",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SR-1/ショッピング日和"
+            },
+            {
+                "NameJP": "自然とはずむ心",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SR-1/自然とはずむ心"
+            },
+            {
+                "NameJP": "感謝を形に",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SR-1/感謝を形に"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Title": "【ぐうぜんBOOKS】櫻木真乃",
+        "Icon": "https://shinycolors.info/w/images/c/cb/Icon_Mano_P_SR_02.png",
+        "Link": "https://shinycolors.info/wiki/【ぐうぜんBOOKS】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "想いが重なる瞬間",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SR-2/想いが重なる瞬間"
+            },
+            {
+                "NameJP": "お腹が……",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SR-2/お腹が……"
+            },
+            {
+                "NameJP": "癒して、癒されて",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SR-2/癒して、癒されて"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Title": "【しじまに華ひととき】櫻木真乃",
+        "Icon": "https://shinycolors.info/w/images/3/35/Icon_Mano_P_SR_03.png",
+        "Link": "https://shinycolors.info/wiki/【しじまに華ひととき】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "しばしお別れ、しかしすぐに",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SR-3/しばしお別れ、しかしすぐに"
+            },
+            {
+                "NameJP": "迎春の巡り逢い",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SR-3/迎春の巡り逢い"
+            },
+            {
+                "NameJP": "あのときの願い",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SR-3/あのときの願い"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Title": "【花結びゆくゆく】櫻木真乃",
+        "Icon": "https://shinycolors.info/w/images/a/af/Icon_Mano_P_SR_04.png",
+        "Link": "https://shinycolors.info/wiki/【花結びゆくゆく】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "まだ、かたく",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SR-4/まだ、かたく"
+            },
+            {
+                "NameJP": "春へ、浮かされて",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SR-4/春へ、浮かされて"
+            },
+            {
+                "NameJP": "ほころびる",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SR-4/ほころびる"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Title": "【一番星の魔法】櫻木真乃",
+        "Icon": "https://shinycolors.info/w/images/0/04/Icon_Mano_P_SR_05.png",
+        "Link": "https://shinycolors.info/wiki/【一番星の魔法】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "星降るよるに",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SR-5/星降るよるに"
+            },
+            {
+                "NameJP": "きをつけて",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SR-5/きをつけて"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Title": "【トリプルイルミネーション】櫻木真乃",
+        "Icon": "https://shinycolors.info/w/images/9/9e/Icon_Mano_S_SSR_01.png",
+        "Link": "https://shinycolors.info/wiki/【トリプルイルミネーション】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "始まりのステップ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-1/始まりのステップ"
+            },
+            {
+                "NameJP": "特訓の成果",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-1/特訓の成果"
+            },
+            {
+                "NameJP": "輝き始めた3人",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-1/輝き始めた3人"
+            },
+            {
+                "NameJP": "3人で、手をつないで",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-1/3人で、手をつないで"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Title": "【お揃いスナップ】櫻木真乃",
+        "Icon": "https://shinycolors.info/w/images/3/36/Icon_Mano_S_SSR_02.png",
+        "Link": "https://shinycolors.info/wiki/【お揃いスナップ】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "夏と言えば……",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-2/夏と言えば……"
+            },
+            {
+                "NameJP": "サマータイム！",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-2/サマータイム！"
+            },
+            {
+                "NameJP": "色褪せないもの",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-2/色褪せないもの"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Title": "【スプラッシュビート】櫻木真乃",
+        "Icon": "https://shinycolors.info/w/images/4/4c/Icon_Mano_S_SSR_03.png",
+        "Link": "https://shinycolors.info/wiki/【スプラッシュビート】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "プールインサイド",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-3/プールインサイド"
+            },
+            {
+                "NameJP": "ほんの少しのアドベンチャー",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-3/ほんの少しのアドベンチャー"
+            },
+            {
+                "NameJP": "ハッピーアイスクリーム",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-3/ハッピーアイスクリーム"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Title": "【はじまりのエピローグ】櫻木真乃",
+        "Icon": "https://shinycolors.info/w/images/d/d4/Icon_Mano_S_SSR_04.png",
+        "Link": "https://shinycolors.info/wiki/【はじまりのエピローグ】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "心はずむパーティーグッズ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-4/心はずむパーティーグッズ"
+            },
+            {
+                "NameJP": "希望の数字",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-4/希望の数字"
+            },
+            {
+                "NameJP": "ぽかぽかの秘密",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-4/ぽかぽかの秘密"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Title": "【冬街イルミネート】櫻木真乃",
+        "Icon": "https://shinycolors.info/w/images/9/9f/Icon_Mano_S_SSR_05.png",
+        "Link": "https://shinycolors.info/wiki/【冬街イルミネート】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "冬のとおり道",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-5/冬のとおり道"
+            },
+            {
+                "NameJP": "一緒に行けたなら",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-5/一緒に行けたなら"
+            },
+            {
+                "NameJP": "きっと、何よりも輝いて",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-5/きっと、何よりも輝いて"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Title": "【駅線上の日常】櫻木真乃",
+        "Icon": "https://shinycolors.info/w/images/d/d1/Icon_Mano_S_SSR_06.png",
+        "Link": "https://shinycolors.info/wiki/【駅線上の日常】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "お　い　し　い",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-6/お　い　し　い"
+            },
+            {
+                "NameJP": "期限切れにご注意を",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-6/期限切れにご注意を"
+            },
+            {
+                "NameJP": "みっつステップ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-6/みっつステップ"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Title": "【つむぎ、まばゆく。星屑たち】櫻木真乃",
+        "Icon": "https://shinycolors.info/w/images/5/54/Icon_Mano_S_SSR_07.png",
+        "Link": "https://shinycolors.info/wiki/【つむぎ、まばゆく。星屑たち】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "両手に持てるだけの星屑",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-7/両手に持てるだけの星屑"
+            },
+            {
+                "NameJP": "今はとけても。いつかは.",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-7/今はとけても。いつかは."
+            },
+            {
+                "NameJP": "いずれもまばゆい宝物",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-7/いずれもまばゆい宝物"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Title": "【こころ、えんにならんで】櫻木真乃",
+        "Icon": "https://shinycolors.info/w/images/1/13/Icon_Mano_S_SSR_08.png",
+        "Link": "https://shinycolors.info/wiki/【こころ、えんにならんで】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "ステージ。あの日の",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-8/ステージ。あの日の"
+            },
+            {
+                "NameJP": "変らない、まいにち",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-8/変らない、まいにち"
+            },
+            {
+                "NameJP": "さんにん。で──",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-8/さんにん。で──"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Title": "【泡沫の石たちに乾杯】櫻木真乃",
+        "Icon": "https://shinycolors.info/w/images/1/1c/Icon_Mano_S_SSR_09.png",
+        "Link": "https://shinycolors.info/wiki/【泡沫の石たちに乾杯】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "今日、カクテルドレスで",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-9/今日、カクテルドレスで"
+            },
+            {
+                "NameJP": "グラスの中の宝石",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-9/グラスの中の宝石"
+            },
+            {
+                "NameJP": "青にはためく",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-9/青にはためく"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Title": "【夏風渡るdiary】櫻木真乃",
+        "Icon": "https://shinycolors.info/w/images/1/11/Icon_Mano_S_SSR_10.png",
+        "Link": "https://shinycolors.info/wiki/【夏風渡るdiary】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "お姉ちゃんと呼んだ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-10/お姉ちゃんと呼んだ"
+            },
+            {
+                "NameJP": "茜にとけた、こころ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-10/茜にとけた、こころ"
+            },
+            {
+                "NameJP": "また会おうね、３人とも",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SSR-10/また会おうね、３人とも"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Title": "【天然色ピクニック】櫻木真乃",
+        "Icon": "https://shinycolors.info/w/images/3/3c/Icon_Mano_S_SR_01.png",
+        "Link": "https://shinycolors.info/wiki/【天然色ピクニック】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "公園と約束",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SR-1/公園と約束"
+            },
+            {
+                "NameJP": "おそろいの気持ち",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SR-1/おそろいの気持ち"
+            },
+            {
+                "NameJP": "ふたりの好きなもの",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SR-1/ふたりの好きなもの"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Title": "【音、雨、パシャ、リ】櫻木真乃",
+        "Icon": "https://shinycolors.info/w/images/8/89/Icon_Mano_S_SR_02.png",
+        "Link": "https://shinycolors.info/wiki/【音、雨、パシャ、リ】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "天気になぁれ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SR-2/天気になぁれ"
+            },
+            {
+                "NameJP": "雨でも、晴れでも",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SR-2/雨でも、晴れでも"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Title": "【by to illuminate】櫻木真乃",
+        "Icon": "https://shinycolors.info/w/images/2/20/Icon_Mano_S_SR_03.png",
+        "Link": "https://shinycolors.info/wiki/【by to illuminate】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "みんなとお仕事！",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SR-3/みんなとお仕事！"
+            },
+            {
+                "NameJP": "私たちのお仕事",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SR-3/私たちのお仕事"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Title": "【まわる音色、君色のかおり】櫻木真乃",
+        "Icon": "https://shinycolors.info/w/images/2/28/Icon_Mano_S_SR_04.png",
+        "Link": "https://shinycolors.info/wiki/【まわる音色、君色のかおり】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "きみはお日様のように",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SR-4/きみはお日様のように"
+            },
+            {
+                "NameJP": "お日様の香り",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/SR-4/お日様の香り"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Title": "【283プロのヒナ】櫻木真乃",
+        "Icon": "https://shinycolors.info/w/images/c/c0/Icon_Mano_S_R_01.png",
+        "Link": "https://shinycolors.info/wiki/【283プロのヒナ】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "私たち次第",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/R-1/私たち次第"
+            },
+            {
+                "NameJP": "誰のこと？",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/S/R-1/誰のこと？"
+            }
+        ]
+    },
+]
