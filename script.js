@@ -42,20 +42,9 @@ $(document).ready(function(e) {
 });
 
 async function init() {
-    var raw_data;
-    $.ajax({
-        type: "GET",
-        async: false,
-        url: "./commu_list.json",
-        dataType: "json",
-        success: function(data) { 
-            raw_data = data;
-        }
+    $.getJSON("commu_list.json", function(json) {
+        datasetToHTML(parse_raw(raw_data));
     });
-
-    var dataset = parse_raw(raw_data);
-    datasetToHTML(dataset);
-
     await sleep(1000);
     getStateFromUrl();
 
