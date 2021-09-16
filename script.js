@@ -43,7 +43,7 @@ $(document).ready(function(e) {
 
 async function init() {
     $.getJSON("commu_list.json", function(json) {
-        datasetToHTML(parse_raw(raw_data));
+        datasetToHTML(parse_raw(json));
     });
     await sleep(1000);
     getStateFromUrl();
