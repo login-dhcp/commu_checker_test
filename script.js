@@ -52,6 +52,7 @@ async function init() {
 
     await sleep(1000);
     console.log('finished');
+    alert('page loading finished');
 
 }
 
@@ -255,7 +256,7 @@ function getStateFromUrl() {
                 var key = checkboxesToCheck[i];
                 key = decodeURIComponent(key);
                 var val = document.getElementById(key);
-                console.log(i,key, val);
+                // console.log(i,key, val);
                 $(val).prop('checked', false).click();
             }
         }
