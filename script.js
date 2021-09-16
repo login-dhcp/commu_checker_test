@@ -47,7 +47,7 @@ async function init() {
     });
 
     // datasetToHTML(parse_raw(raw_data));
-    await sleep(1000);
+    await sleep(10000);
     getStateFromUrl();
 
     await sleep(1000);
