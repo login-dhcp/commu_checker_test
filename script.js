@@ -152,7 +152,7 @@ function datasetToHTML(data) {
     // 2.1. get commuCategory keys
     var commuCategories = new Set();
     for (var commu of data) {
-        var item = `${commu['Type']}|||${commu['Category']}`;
+        var item = `${commu['Type']}|||${commu['Order']}`;
         commuCategories.add(item);
     }
     commuCategories = new Set(Array.from(commuCategories).sort());
