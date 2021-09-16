@@ -50,13 +50,6 @@ async function init() {
     });
     
     console.log('finished');
-
-function buildDatasetToHTML() {
-    return new Promise((resolve, reject) => {
-        $.getJSON("commu_list.json", function(json) {
-            datasetToHTML(parse_raw(json));
-        });
-    })
 }
 
 function parse_raw(data) {
