@@ -42,13 +42,14 @@ $(document).ready(function(e) {
 });
 
 async function init() {
-    await buildDatasetToHTML();
-    await getStateFromUrl();
-
-    await console.log('finished');
-    await alert('page loading finished');
-
-}
+    $.getJSON("commu_list.json", async function(json) {
+        var raw_data = json;
+        await datasetToHTML(parse_raw(raw_data));
+        await sleep(1000);
+        getStateFromUrl();
+    });
+    
+    console.log('finished');
 
 function buildDatasetToHTML() {
     return new Promise((resolve, reject) => {
