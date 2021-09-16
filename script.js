@@ -62,23 +62,23 @@ function buildDatasetToHTML() {
 
 function parse_raw(data) {
     var new_data = JSON.parse(JSON.stringify(data).replace(/\s+|\s+/g,`${replaceBlankTo}`));
-    // new_data.sort(function (a, b) {
-    //     if (a['Type'] > b['Type']) {
-    //         return 1;
-    //     }
-    //     else if (a['Type'] < b['Type']) {
-    //         return -1;
-    //     }
-    //     else {
-    //         if (a['Category'] > b['Category']) {
-    //             return 1;
-    //         }
-    //         else if (a['Category'] < b['Category']) {
-    //              return -1;
-    //         }
-    //         else return 0;
-    //     }
-    // })
+    new_data.sort(function (a, b) {
+        if (a['Type'] > b['Type']) {
+            return 1;
+        }
+        else if (a['Type'] < b['Type']) {
+            return -1;
+        }
+        else {
+            if (a['Order'] > b['Order']) {
+                return 1;
+            }
+            else if (a['Order'] < b['Order']) {
+                 return -1;
+            }
+            else return 0;
+        }
+    })
 
     return new_data;
 }

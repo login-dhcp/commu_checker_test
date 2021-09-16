@@ -2,6 +2,8 @@
     {
         "Type": "Event",
         "Category": "Scenario",
+        "Order": 0,
+        "Date": "",
         "Title": "Light up the illumination",
         "Icon": "./src/Light up the illumination_Banner.png",
         "Link": "https://shinycolors.info/wiki/Light up the illumination",
@@ -31,6 +33,8 @@
     {
         "Type": "Event",
         "Category": "Scenario",
+        "Order": 0,
+        "Date": "",
         "Title": "廻る歯車、運命の瞬間",
         "Icon": "./src/廻る歯車、運命の瞬間_Banner.png",
         "Link": "https://shinycolors.info/wiki/廻る歯車、運命の瞬間",
@@ -68,6 +72,8 @@
     {
         "Type": "Event",
         "Category": "Scenario",
+        "Order": 0,
+        "Date": "",
         "Title": "五色 爆発！合宿クライマッス！",
         "Icon": "./src/五色 爆発！合宿クライマッス！_Banner.png",
         "Link": "https://shinycolors.info/wiki/五色 爆発！合宿クライマッス！",
@@ -109,6 +115,8 @@
     {
         "Type": "Event",
         "Category": "Scenario",
+        "Order": 0,
+        "Date": "",
         "Title": "満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─",
         "Icon": "./src/満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─_Banner.png",
         "Link": "https://shinycolors.info/wiki/満開、アルストロメリア流幸福論─つなぐ・まごころ・みっつ─",
@@ -150,6 +158,8 @@
     {
         "Type": "Event",
         "Category": "Scenario",
+        "Order": 0,
+        "Date": "",
         "Title": "夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～",
         "Icon": "./src/夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～_Banner.png",
         "Link": "https://shinycolors.info/wiki/夏は短し海でしょ！乙女たち～お待ち遠サマ★ごちそうSUMMER!!～",
@@ -191,6 +201,8 @@
     {
         "Type": "Event",
         "Category": "Scenario",
+        "Order": 0,
+        "Date": "",
         "Title": "真夜中発、ハロウィンワールドの旅人",
         "Icon": "./src/真夜中発、ハロウィンワールドの旅人_Banner.png",
         "Link": "https://shinycolors.info/wiki/真夜中発、ハロウィンワールドの旅人",
@@ -232,6 +244,8 @@
     {
         "Type": "Event",
         "Category": "Scenario",
+        "Order": 0,
+        "Date": "",
         "Title": "オペレーション・サンタ！～包囲せよ２８３プロ～",
         "Icon": "./src/オペレーション・サンタ！～包囲せよ２８３プロ～_Banner.png",
         "Link": "https://shinycolors.info/wiki/オペレーション・サンタ！～包囲せよ２８３プロ～",
@@ -273,6 +287,8 @@
     {
         "Type": "Idol",
         "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
         "Title": "【ほわっとスマイル】櫻木真乃",
         "Icon": "./src/Icon Mano P SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【ほわっとスマイル】櫻木真乃",
@@ -302,6 +318,8 @@
     {
         "Type": "Idol",
         "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
         "Title": "【ハ♡トフェルトゥギフト】櫻木真乃",
         "Icon": "./src/Icon Mano P SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【ハ♡トフェルトゥギフト】櫻木真乃",
@@ -331,6 +349,8 @@
     {
         "Type": "Idol",
         "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
         "Title": "【はじけてスマイル】櫻木真乃",
         "Icon": "./src/Icon Mano P SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【はじけてスマイル】櫻木真乃",
@@ -360,6 +380,8 @@
     {
         "Type": "Idol",
         "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
         "Title": "【深染め、いろみぐさ】櫻木真乃",
         "Icon": "./src/Icon Mano P SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【深染め、いろみぐさ】櫻木真乃",
@@ -389,6 +411,8 @@
     {
         "Type": "Idol",
         "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
         "Title": "【ソラを跳ね】櫻木真乃",
         "Icon": "./src/Icon Mano P SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【ソラを跳ね】櫻木真乃",
@@ -418,6 +442,8 @@
     {
         "Type": "Idol",
         "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
         "Title": "【花風Smiley】櫻木真乃",
         "Icon": "./src/Icon Mano P SSR 06.png",
         "Link": "https://shinycolors.info/wiki/【花風Smiley】櫻木真乃",
@@ -447,6 +473,8 @@
     {
         "Type": "Idol",
         "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
         "Title": "【ナチュラルモード】櫻木真乃",
         "Icon": "./src/Icon Mano P SR 01.png",
         "Link": "https://shinycolors.info/wiki/【ナチュラルモード】櫻木真乃",
@@ -468,6 +496,8 @@
     {
         "Type": "Idol",
         "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
         "Title": "【ぐうぜんBOOKS】櫻木真乃",
         "Icon": "./src/Icon Mano P SR 02.png",
         "Link": "https://shinycolors.info/wiki/【ぐうぜんBOOKS】櫻木真乃",
@@ -489,6 +519,8 @@
     {
         "Type": "Idol",
         "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
         "Title": "【しじまに華ひととき】櫻木真乃",
         "Icon": "./src/Icon Mano P SR 03.png",
         "Link": "https://shinycolors.info/wiki/【しじまに華ひととき】櫻木真乃",
@@ -510,6 +542,8 @@
     {
         "Type": "Idol",
         "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
         "Title": "【花結びゆくゆく】櫻木真乃",
         "Icon": "./src/Icon Mano P SR 04.png",
         "Link": "https://shinycolors.info/wiki/【花結びゆくゆく】櫻木真乃",
@@ -531,6 +565,8 @@
     {
         "Type": "Idol",
         "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
         "Title": "【一番星の魔法】櫻木真乃",
         "Icon": "./src/Icon Mano P SR 05.png",
         "Link": "https://shinycolors.info/wiki/【一番星の魔法】櫻木真乃",
@@ -548,6 +584,8 @@
     {
         "Type": "Idol",
         "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
         "Title": "【トリプルイルミネーション】櫻木真乃",
         "Icon": "./src/Icon Mano S SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【トリプルイルミネーション】櫻木真乃",
@@ -573,6 +611,8 @@
     {
         "Type": "Idol",
         "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
         "Title": "【お揃いスナップ】櫻木真乃",
         "Icon": "./src/Icon Mano S SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【お揃いスナップ】櫻木真乃",
@@ -594,6 +634,8 @@
     {
         "Type": "Idol",
         "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
         "Title": "【スプラッシュビート】櫻木真乃",
         "Icon": "./src/Icon Mano S SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【スプラッシュビート】櫻木真乃",
@@ -615,6 +657,8 @@
     {
         "Type": "Idol",
         "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
         "Title": "【はじまりのエピローグ】櫻木真乃",
         "Icon": "./src/Icon Mano S SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【はじまりのエピローグ】櫻木真乃",
@@ -636,6 +680,8 @@
     {
         "Type": "Idol",
         "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
         "Title": "【冬街イルミネート】櫻木真乃",
         "Icon": "./src/Icon Mano S SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【冬街イルミネート】櫻木真乃",
@@ -657,6 +703,8 @@
     {
         "Type": "Idol",
         "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
         "Title": "【駅線上の日常】櫻木真乃",
         "Icon": "./src/Icon Mano S SSR 06.png",
         "Link": "https://shinycolors.info/wiki/【駅線上の日常】櫻木真乃",
@@ -678,6 +726,8 @@
     {
         "Type": "Idol",
         "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
         "Title": "【つむぎ、まばゆく。星屑たち】櫻木真乃",
         "Icon": "./src/Icon Mano S SSR 07.png",
         "Link": "https://shinycolors.info/wiki/【つむぎ、まばゆく。星屑たち】櫻木真乃",
@@ -699,6 +749,8 @@
     {
         "Type": "Idol",
         "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
         "Title": "【こころ、えんにならんで】櫻木真乃",
         "Icon": "./src/Icon Mano S SSR 08.png",
         "Link": "https://shinycolors.info/wiki/【こころ、えんにならんで】櫻木真乃",
@@ -720,6 +772,8 @@
     {
         "Type": "Idol",
         "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
         "Title": "【泡沫の石たちに乾杯】櫻木真乃",
         "Icon": "./src/Icon Mano S SSR 09.png",
         "Link": "https://shinycolors.info/wiki/【泡沫の石たちに乾杯】櫻木真乃",
@@ -741,6 +795,8 @@
     {
         "Type": "Idol",
         "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
         "Title": "【夏風渡るdiary】櫻木真乃",
         "Icon": "./src/Icon Mano S SSR 10.png",
         "Link": "https://shinycolors.info/wiki/【夏風渡るdiary】櫻木真乃",
@@ -762,6 +818,8 @@
     {
         "Type": "Idol",
         "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
         "Title": "【天然色ピクニック】櫻木真乃",
         "Icon": "./src/Icon Mano S SR 01.png",
         "Link": "https://shinycolors.info/wiki/【天然色ピクニック】櫻木真乃",
@@ -783,6 +841,8 @@
     {
         "Type": "Idol",
         "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
         "Title": "【音、雨、パシャ、リ】櫻木真乃",
         "Icon": "./src/Icon Mano S SR 02.png",
         "Link": "https://shinycolors.info/wiki/【音、雨、パシャ、リ】櫻木真乃",
@@ -800,6 +860,8 @@
     {
         "Type": "Idol",
         "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
         "Title": "【by to illuminate】櫻木真乃",
         "Icon": "./src/Icon Mano S SR 03.png",
         "Link": "https://shinycolors.info/wiki/【by to illuminate】櫻木真乃",
@@ -817,6 +879,8 @@
     {
         "Type": "Idol",
         "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
         "Title": "【まわる音色、君色のかおり】櫻木真乃",
         "Icon": "./src/Icon Mano S SR 04.png",
         "Link": "https://shinycolors.info/wiki/【まわる音色、君色のかおり】櫻木真乃",
@@ -834,6 +898,8 @@
     {
         "Type": "Idol",
         "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
         "Title": "【283プロのヒナ】櫻木真乃",
         "Icon": "./src/Icon Mano S R 01.png",
         "Link": "https://shinycolors.info/wiki/【283プロのヒナ】櫻木真乃",
@@ -851,6 +917,8 @@
     {
         "Type": "Idol",
         "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
         "Title": "【柔らかな微笑み】風野灯織",
         "Icon": "./src/Icon Hiori P SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【柔らかな微笑み】風野灯織",
@@ -880,6 +948,8 @@
     {
         "Type": "Idol",
         "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
         "Title": "【淡雪の戯れ】風野灯織",
         "Icon": "./src/Icon Hiori P SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【淡雪の戯れ】風野灯織",
@@ -909,6 +979,8 @@
     {
         "Type": "Idol",
         "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
         "Title": "【伸ばす手に乗せるのは】風野灯織",
         "Icon": "./src/Icon Hiori P SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【伸ばす手に乗せるのは】風野灯織",
@@ -938,6 +1010,8 @@
     {
         "Type": "Idol",
         "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
         "Title": "【清閑に息をひそめて】風野灯織",
         "Icon": "./src/Icon Hiori P SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【清閑に息をひそめて】風野灯織",
@@ -967,6 +1041,8 @@
     {
         "Type": "Idol",
         "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
         "Title": "【黒百合前で待ち合わせ】風野灯織",
         "Icon": "./src/Icon Hiori P SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【黒百合前で待ち合わせ】風野灯織",
@@ -996,6 +1072,8 @@
     {
         "Type": "Idol",
         "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
         "Title": "【涼】風野灯織",
         "Icon": "./src/Icon Hiori P SSR 06.png",
         "Link": "https://shinycolors.info/wiki/【涼】風野灯織",
@@ -1025,6 +1103,8 @@
     {
         "Type": "Idol",
         "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
         "Title": "【手作りの心遣い】風野灯織",
         "Icon": "./src/Icon Hiori P SR 01.png",
         "Link": "https://shinycolors.info/wiki/【手作りの心遣い】風野灯織",
@@ -1046,6 +1126,8 @@
     {
         "Type": "Idol",
         "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
         "Title": "【マフラー直して、心は解けて】風野灯織",
         "Icon": "./src/Icon Hiori P SR 02.png",
         "Link": "https://shinycolors.info/wiki/【マフラー直して、心は解けて】風野灯織",
@@ -1067,6 +1149,8 @@
     {
         "Type": "Idol",
         "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
         "Title": "【落下予測地点】風野灯織",
         "Icon": "./src/Icon Hiori P SR 03.png",
         "Link": "https://shinycolors.info/wiki/【落下予測地点】風野灯織",
@@ -1088,6 +1172,8 @@
     {
         "Type": "Idol",
         "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
         "Title": "【インビジブルタイム】風野灯織",
         "Icon": "./src/Icon Hiori P SR 04.png",
         "Link": "https://shinycolors.info/wiki/【インビジブルタイム】風野灯織",
@@ -1105,6 +1191,8 @@
     {
         "Type": "Idol",
         "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
         "Title": "【みんなと結んだもの】風野灯織",
         "Icon": "./src/Icon Hiori S SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【みんなと結んだもの】風野灯織",
@@ -1126,6 +1214,8 @@
     {
         "Type": "Idol",
         "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
         "Title": "【風野署長の一日勤務回想録】風野灯織",
         "Icon": "./src/Icon Hiori S SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【風野署長の一日勤務回想録】風野灯織",
@@ -1147,6 +1237,8 @@
     {
         "Type": "Idol",
         "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
         "Title": "【星合アステリズム】風野灯織",
         "Icon": "./src/Icon Hiori S SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【星合アステリズム】風野灯織",
@@ -1168,6 +1260,8 @@
     {
         "Type": "Idol",
         "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
         "Title": "【星掬い藍仰ぐ】風野灯織",
         "Icon": "./src/Icon Hiori S SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【星掬い藍仰ぐ】風野灯織",
@@ -1189,6 +1283,8 @@
     {
         "Type": "Idol",
         "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
         "Title": "【宝石色のしおり】風野灯織",
         "Icon": "./src/Icon Hiori S SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【宝石色のしおり】風野灯織",
@@ -1210,6 +1306,8 @@
     {
         "Type": "Idol",
         "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
         "Title": "【水面を仰いで海の底】風野灯織",
         "Icon": "./src/Icon Hiori S SSR 06.png",
         "Link": "https://shinycolors.info/wiki/【水面を仰いで海の底】風野灯織",
@@ -1231,6 +1329,8 @@
     {
         "Type": "Idol",
         "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
         "Title": "【克服の特訓】風野灯織",
         "Icon": "./src/Icon Hiori S SR 01.png",
         "Link": "https://shinycolors.info/wiki/【克服の特訓】風野灯織",
@@ -1252,6 +1352,8 @@
     {
         "Type": "Idol",
         "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
         "Title": "【遊び疲れて……】風野灯織",
         "Icon": "./src/Icon Hiori S SR 02.png",
         "Link": "https://shinycolors.info/wiki/【遊び疲れて……】風野灯織",
@@ -1273,6 +1375,8 @@
     {
         "Type": "Idol",
         "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
         "Title": "【魔法の階段を上って……】風野灯織",
         "Icon": "./src/Icon Hiori S SR 03.png",
         "Link": "https://shinycolors.info/wiki/【魔法の階段を上って……】風野灯織",
@@ -1290,6 +1394,8 @@
     {
         "Type": "Idol",
         "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
         "Title": "【RPGのススメ】風野灯織",
         "Icon": "./src/Icon Hiori S SR 04.png",
         "Link": "https://shinycolors.info/wiki/【RPGのススメ】風野灯織",
@@ -1307,6 +1413,8 @@
     {
         "Type": "Idol",
         "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
         "Title": "【クローズ・トゥ・ユー】風野灯織",
         "Icon": "./src/Icon Hiori S SR 05.png",
         "Link": "https://shinycolors.info/wiki/【クローズ・トゥ・ユー】風野灯織",
@@ -1324,6 +1432,8 @@
     {
         "Type": "Idol",
         "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
         "Title": "【幾星霜の先に】風野灯織",
         "Icon": "./src/Icon Hiori S SR 06.png",
         "Link": "https://shinycolors.info/wiki/【幾星霜の先に】風野灯織",
@@ -1341,6 +1451,8 @@
     {
         "Type": "Idol",
         "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
         "Title": "【283プロのヒナ】風野灯織",
         "Icon": "./src/Icon Hiori S R 01.png",
         "Link": "https://shinycolors.info/wiki/【283プロのヒナ】風野灯織",
@@ -1358,6 +1470,8 @@
     {
         "Type": "Idol",
         "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
         "Title": "【金色の元気いっぱいガール】八宮めぐる",
         "Icon": "./src/Icon Meguru P SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【金色の元気いっぱいガール】八宮めぐる",
@@ -1387,6 +1501,8 @@
     {
         "Type": "Idol",
         "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
         "Title": "【夏に恋するピチカート！】八宮めぐる",
         "Icon": "./src/Icon Meguru P SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【夏に恋するピチカート！】八宮めぐる",
@@ -1416,6 +1532,8 @@
     {
         "Type": "Idol",
         "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
         "Title": "【シュカのまにまに】八宮めぐる",
         "Icon": "./src/Icon Meguru P SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【シュカのまにまに】八宮めぐる",
@@ -1445,6 +1563,8 @@
     {
         "Type": "Idol",
         "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
         "Title": "【日々を紡ぐインヴェルノ】八宮めぐる",
         "Icon": "./src/Icon Meguru P SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【日々を紡ぐインヴェルノ】八宮めぐる",
@@ -1474,6 +1594,8 @@
     {
         "Type": "Idol",
         "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
         "Title": "【アイの誓い】八宮めぐる",
         "Icon": "./src/Icon Meguru P SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【アイの誓い】八宮めぐる",
@@ -1503,6 +1625,8 @@
     {
         "Type": "Idol",
         "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
         "Title": "【たまゆらフレーミング】八宮めぐる",
         "Icon": "./src/Icon Meguru P SSR 06.png",
         "Link": "https://shinycolors.info/wiki/【たまゆらフレーミング】八宮めぐる",
@@ -1532,6 +1656,8 @@
     {
         "Type": "Idol",
         "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
         "Title": "【キネマ・リリックで夢見て】八宮めぐる",
         "Icon": "./src/Icon Meguru P SR 01.png",
         "Link": "https://shinycolors.info/wiki/【キネマ・リリックで夢見て】八宮めぐる",
@@ -1549,6 +1675,8 @@
     {
         "Type": "Idol",
         "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
         "Title": "【小さな夜のトロイメライ】八宮めぐる",
         "Icon": "./src/Icon Meguru P SR 02.png",
         "Link": "https://shinycolors.info/wiki/【小さな夜のトロイメライ】八宮めぐる",
@@ -1570,6 +1698,8 @@
     {
         "Type": "Idol",
         "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
         "Title": "【チエルアルコは流星の】八宮めぐる",
         "Icon": "./src/Icon Meguru P SR 03.png",
         "Link": "https://shinycolors.info/wiki/【チエルアルコは流星の】八宮めぐる",
@@ -1591,6 +1721,8 @@
     {
         "Type": "Idol",
         "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
         "Title": "【ハロー・ワールド】八宮めぐる",
         "Icon": "./src/Icon Meguru P SR 04.png",
         "Link": "https://shinycolors.info/wiki/【ハロー・ワールド】八宮めぐる",
@@ -1608,6 +1740,8 @@
     {
         "Type": "Idol",
         "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
         "Title": "【スタァライトショウタイム】八宮めぐる",
         "Icon": "./src/Icon Meguru S SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【スタァライトショウタイム】八宮めぐる",
@@ -1633,6 +1767,8 @@
     {
         "Type": "Idol",
         "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
         "Title": "【キャプテン★パンプキン】八宮めぐる",
         "Icon": "./src/Icon Meguru S SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【キャプテン★パンプキン】八宮めぐる",
@@ -1654,6 +1790,8 @@
     {
         "Type": "Idol",
         "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
         "Title": "【花笑み咲匂う】八宮めぐる",
         "Icon": "./src/Icon Meguru S SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【花笑み咲匂う】八宮めぐる",
@@ -1675,6 +1813,8 @@
     {
         "Type": "Idol",
         "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
         "Title": "【ああひかりよ】八宮めぐる",
         "Icon": "./src/Icon Meguru S SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【ああひかりよ】八宮めぐる",
@@ -1696,6 +1836,8 @@
     {
         "Type": "Idol",
         "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
         "Title": "【アップ・トゥ・ユー】八宮めぐる",
         "Icon": "./src/Icon Meguru S SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【アップ・トゥ・ユー】八宮めぐる",
@@ -1717,6 +1859,8 @@
     {
         "Type": "Idol",
         "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
         "Title": "【ハッピー・バレンタイン？】八宮めぐる",
         "Icon": "./src/Icon Meguru S SSR 06.png",
         "Link": "https://shinycolors.info/wiki/【ハッピー・バレンタイン？】八宮めぐる",
@@ -1738,6 +1882,8 @@
     {
         "Type": "Idol",
         "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
         "Title": "【Scoop up Scraps】八宮めぐる",
         "Icon": "./src/Icon Meguru S SSR 07.png",
         "Link": "https://shinycolors.info/wiki/【Scoop up Scraps】八宮めぐる",
@@ -1759,6 +1905,8 @@
     {
         "Type": "Idol",
         "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
         "Title": "【友情の花吹雪】八宮めぐる",
         "Icon": "./src/Icon Meguru S SR 01.png",
         "Link": "https://shinycolors.info/wiki/【友情の花吹雪】八宮めぐる",
@@ -1780,6 +1928,8 @@
     {
         "Type": "Idol",
         "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
         "Title": "【友達という灯り】八宮めぐる",
         "Icon": "./src/Icon Meguru S SR 02.png",
         "Link": "https://shinycolors.info/wiki/【友達という灯り】八宮めぐる",
@@ -1801,6 +1951,8 @@
     {
         "Type": "Idol",
         "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
         "Title": "【アイムカミングスーン】八宮めぐる",
         "Icon": "./src/Icon Meguru S SR 03.png",
         "Link": "https://shinycolors.info/wiki/【アイムカミングスーン】八宮めぐる",
@@ -1818,6 +1970,8 @@
     {
         "Type": "Idol",
         "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
         "Title": "【サンシャインシエスタ！】八宮めぐる",
         "Icon": "./src/Icon Meguru S SR 04.png",
         "Link": "https://shinycolors.info/wiki/【サンシャインシエスタ！】八宮めぐる",
@@ -1835,6 +1989,8 @@
     {
         "Type": "Idol",
         "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
         "Title": "【283プロのヒナ】八宮めぐる",
         "Icon": "./src/Icon Meguru S R 01.png",
         "Link": "https://shinycolors.info/wiki/【283プロのヒナ】八宮めぐる",
@@ -1852,6 +2008,8 @@
     {
         "Type": "Idol",
         "Category": "츠키오카 코가네",
+        "Order": 4,
+        "Date": "",
         "Title": "【ばりうまかブルース】月岡恋鐘",
         "Icon": "./src/Icon Kogane P SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【ばりうまかブルース】月岡恋鐘",
@@ -1881,6 +2039,8 @@
     {
         "Type": "Idol",
         "Category": "츠키오카 코가네",
+        "Order": 4,
+        "Date": "",
         "Title": "【月の浜辺で待っとって】月岡恋鐘",
         "Icon": "./src/Icon Kogane P SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【月の浜辺で待っとって】月岡恋鐘",
@@ -1910,6 +2070,8 @@
     {
         "Type": "Idol",
         "Category": "츠키오카 코가네",
+        "Order": 4,
+        "Date": "",
         "Title": "【風吹く丘にはよ来んね】月岡恋鐘",
         "Icon": "./src/Icon Kogane P SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【風吹く丘にはよ来んね】月岡恋鐘",
@@ -1939,6 +2101,8 @@
     {
         "Type": "Idol",
         "Category": "츠키오카 코가네",
+        "Order": 4,
+        "Date": "",
         "Title": "【うちのリボンは恋結び】月岡恋鐘",
         "Icon": "./src/Icon Kogane P SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【うちのリボンは恋結び】月岡恋鐘",
@@ -1968,6 +2132,8 @@
     {
         "Type": "Idol",
         "Category": "츠키오카 코가네",
+        "Order": 4,
+        "Date": "",
         "Title": "【心の鐘が鳴っとるけん】月岡恋鐘",
         "Icon": "./src/Icon Kogane P SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【心の鐘が鳴っとるけん】月岡恋鐘",
@@ -1997,6 +2163,8 @@
     {
         "Type": "Idol",
         "Category": "츠키오카 코가네",
+        "Order": 4,
+        "Date": "",
         "Title": "【ばってん長崎恋岬】月岡恋鐘",
         "Icon": "./src/Icon Kogane P SR 01.png",
         "Link": "https://shinycolors.info/wiki/【ばってん長崎恋岬】月岡恋鐘",
@@ -2018,6 +2186,8 @@
     {
         "Type": "Idol",
         "Category": "츠키오카 코가네",
+        "Order": 4,
+        "Date": "",
         "Title": "【ビ～♡バップ海岸】月岡恋鐘",
         "Icon": "./src/Icon Kogane P SR 02.png",
         "Link": "https://shinycolors.info/wiki/【ビ～♡バップ海岸】月岡恋鐘",
@@ -2039,6 +2209,8 @@
     {
         "Type": "Idol",
         "Category": "츠키오카 코가네",
+        "Order": 4,
+        "Date": "",
         "Title": "【は～と♡に火をつけて】月岡恋鐘",
         "Icon": "./src/Icon Kogane P SR 03.png",
         "Link": "https://shinycolors.info/wiki/【は～と♡に火をつけて】月岡恋鐘",
@@ -2056,6 +2228,8 @@
     {
         "Type": "Idol",
         "Category": "츠키오카 코가네",
+        "Order": 4,
+        "Date": "",
         "Title": "【猫道カントリー】月岡恋鐘",
         "Icon": "./src/Icon Kogane P SR 04.png",
         "Link": "https://shinycolors.info/wiki/【猫道カントリー】月岡恋鐘",
@@ -2073,6 +2247,8 @@
     {
         "Type": "Idol",
         "Category": "츠키오카 코가네",
+        "Order": 4,
+        "Date": "",
         "Title": "【ふっふ～ん、ふふ～ん♪】月岡恋鐘",
         "Icon": "./src/Icon Kogane S SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【ふっふ～ん、ふふ～ん♪】月岡恋鐘",
@@ -2098,6 +2274,8 @@
     {
         "Type": "Idol",
         "Category": "츠키오카 코가네",
+        "Order": 4,
+        "Date": "",
         "Title": "【これ、なんの話～？】月岡恋鐘",
         "Icon": "./src/Icon Kogane S SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【これ、なんの話～？】月岡恋鐘",
@@ -2119,6 +2297,8 @@
     {
         "Type": "Idol",
         "Category": "츠키오카 코가네",
+        "Order": 4,
+        "Date": "",
         "Title": "【SIDE：K】月岡恋鐘",
         "Icon": "./src/Icon Kogane S SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【SIDE：K】月岡恋鐘",
@@ -2140,6 +2320,8 @@
     {
         "Type": "Idol",
         "Category": "츠키오카 코가네",
+        "Order": 4,
+        "Date": "",
         "Title": "【夏、どがんね～？】月岡恋鐘",
         "Icon": "./src/Icon Kogane S SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【夏、どがんね～？】月岡恋鐘",
@@ -2161,6 +2343,8 @@
     {
         "Type": "Idol",
         "Category": "츠키오카 코가네",
+        "Order": 4,
+        "Date": "",
         "Title": "【晴れ、よかばい～！】月岡恋鐘",
         "Icon": "./src/Icon Kogane S SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【晴れ、よかばい～！】月岡恋鐘",
@@ -2182,6 +2366,8 @@
     {
         "Type": "Idol",
         "Category": "츠키오카 코가네",
+        "Order": 4,
+        "Date": "",
         "Title": "【会いに行かんば～！】月岡恋鐘",
         "Icon": "./src/Icon Kogane S SSR 06.png",
         "Link": "https://shinycolors.info/wiki/【会いに行かんば～！】月岡恋鐘",
@@ -2203,6 +2389,8 @@
     {
         "Type": "Idol",
         "Category": "츠키오카 코가네",
+        "Order": 4,
+        "Date": "",
         "Title": "【ビコーズ・ラブ】月岡恋鐘",
         "Icon": "./src/Icon Kogane S SSR 07.png",
         "Link": "https://shinycolors.info/wiki/【ビコーズ・ラブ】月岡恋鐘",
@@ -2220,6 +2408,8 @@
     {
         "Type": "Idol",
         "Category": "츠키오카 코가네",
+        "Order": 4,
+        "Date": "",
         "Title": "【やけん、なんの話～！？】月岡恋鐘",
         "Icon": "./src/Icon Kogane S SR 01.png",
         "Link": "https://shinycolors.info/wiki/【やけん、なんの話～！？】月岡恋鐘",
@@ -2237,6 +2427,8 @@
     {
         "Type": "Idol",
         "Category": "츠키오카 코가네",
+        "Order": 4,
+        "Date": "",
         "Title": "【と〜りゃんせ！】月岡恋鐘",
         "Icon": "./src/Icon Kogane S SR 02.png",
         "Link": "https://shinycolors.info/wiki/【と〜りゃんせ！】月岡恋鐘",
@@ -2254,6 +2446,8 @@
     {
         "Type": "Idol",
         "Category": "츠키오카 코가네",
+        "Order": 4,
+        "Date": "",
         "Title": "【秋、どがんね～？】月岡恋鐘",
         "Icon": "./src/Icon Kogane S SR 03.png",
         "Link": "https://shinycolors.info/wiki/【秋、どがんね～？】月岡恋鐘",
@@ -2271,6 +2465,8 @@
     {
         "Type": "Idol",
         "Category": "츠키오카 코가네",
+        "Order": 4,
+        "Date": "",
         "Title": "【冬、どがんね～？】月岡恋鐘",
         "Icon": "./src/Icon Kogane S SR 04.png",
         "Link": "https://shinycolors.info/wiki/【冬、どがんね～？】月岡恋鐘",
@@ -2288,6 +2484,8 @@
     {
         "Type": "Idol",
         "Category": "츠키오카 코가네",
+        "Order": 4,
+        "Date": "",
         "Title": "【283プロのヒナ】月岡恋鐘",
         "Icon": "./src/Icon Kogane S R 01.png",
         "Link": "https://shinycolors.info/wiki/【283プロのヒナ】月岡恋鐘",
@@ -2305,6 +2503,8 @@
     {
         "Type": "Idol",
         "Category": "타나카 마미미",
+        "Order": 5,
+        "Date": "",
         "Title": "【トリッキーナイト】田中摩美々",
         "Icon": "./src/Icon Mamimi P SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【トリッキーナイト】田中摩美々",
@@ -2334,6 +2534,8 @@
     {
         "Type": "Idol",
         "Category": "타나카 마미미",
+        "Order": 5,
+        "Date": "",
         "Title": "【摩的・アンチテーゼ】田中摩美々",
         "Icon": "./src/Icon Mamimi P SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【摩的・アンチテーゼ】田中摩美々",
@@ -2363,6 +2565,8 @@
     {
         "Type": "Idol",
         "Category": "타나카 마미미",
+        "Order": 5,
+        "Date": "",
         "Title": "【パープル・ミラージュ】田中摩美々",
         "Icon": "./src/Icon Mamimi P SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【パープル・ミラージュ】田中摩美々",
@@ -2392,6 +2596,8 @@
     {
         "Type": "Idol",
         "Category": "타나카 마미미",
+        "Order": 5,
+        "Date": "",
         "Title": "【フィドル・ファドル】田中摩美々",
         "Icon": "./src/Icon Mamimi P SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【フィドル・ファドル】田中摩美々",
@@ -2421,6 +2627,8 @@
     {
         "Type": "Idol",
         "Category": "타나카 마미미",
+        "Order": 5,
+        "Date": "",
         "Title": "【真・TRAVELER】田中摩美々",
         "Icon": "./src/Icon Mamimi P SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【真・TRAVELER】田中摩美々",
@@ -2450,6 +2658,8 @@
     {
         "Type": "Idol",
         "Category": "타나카 마미미",
+        "Order": 5,
+        "Date": "",
         "Title": "【アバウト-ナイト-ライト】田中摩美",
         "Icon": "./src/Icon Mamimi P SSR 06.png",
         "Link": "https://shinycolors.info/wiki/【アバウト-ナイト-ライト】田中摩美",
@@ -2479,6 +2689,8 @@
     {
         "Type": "Idol",
         "Category": "타나카 마미미",
+        "Order": 5,
+        "Date": "",
         "Title": "【裏腹あまのじゃく】田中摩美々",
         "Icon": "./src/Icon Mamimi P SR 01.png",
         "Link": "https://shinycolors.info/wiki/【裏腹あまのじゃく】田中摩美々",
@@ -2500,6 +2712,8 @@
     {
         "Type": "Idol",
         "Category": "타나카 마미미",
+        "Order": 5,
+        "Date": "",
         "Title": "【夕つ方まみみチック】田中摩美々",
         "Icon": "./src/Icon Mamimi P SR 02.png",
         "Link": "https://shinycolors.info/wiki/【夕つ方まみみチック】田中摩美々",
@@ -2517,6 +2731,8 @@
     {
         "Type": "Idol",
         "Category": "타나카 마미미",
+        "Order": 5,
+        "Date": "",
         "Title": "【そのまみみ無気力につき】田中摩美々",
         "Icon": "./src/Icon Mamimi P SR 03.png",
         "Link": "https://shinycolors.info/wiki/【そのまみみ無気力につき】田中摩美々",
@@ -2538,6 +2754,8 @@
     {
         "Type": "Idol",
         "Category": "타나카 마미미",
+        "Order": 5,
+        "Date": "",
         "Title": "【FANCY 24g】田中摩美々",
         "Icon": "./src/Icon Mamimi P SR 04.png",
         "Link": "https://shinycolors.info/wiki/【FANCY 24g】田中摩美々",
@@ -2555,6 +2773,8 @@
     {
         "Type": "Idol",
         "Category": "타나카 마미미",
+        "Order": 5,
+        "Date": "",
         "Title": "【ゴシックデコレーション】田中摩美々",
         "Icon": "./src/Icon Mamimi S SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【ゴシックデコレーション】田中摩美々",
@@ -2580,6 +2800,8 @@
     {
         "Type": "Idol",
         "Category": "타나카 마미미",
+        "Order": 5,
+        "Date": "",
         "Title": "【闇鍋上等】田中摩美々",
         "Icon": "./src/Icon Mamimi S SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【闇鍋上等】田中摩美々",
@@ -2601,6 +2823,8 @@
     {
         "Type": "Idol",
         "Category": "타나카 마미미",
+        "Order": 5,
+        "Date": "",
         "Title": "【夜夜中ワンダーラスト】田中摩美々",
         "Icon": "./src/Icon Mamimi S SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【夜夜中ワンダーラスト】田中摩美々",
@@ -2622,6 +2846,8 @@
     {
         "Type": "Idol",
         "Category": "타나카 마미미",
+        "Order": 5,
+        "Date": "",
         "Title": "【きまぐれのめぐみ】田中摩美々",
         "Icon": "./src/Icon Mamimi S SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【きまぐれのめぐみ】田中摩美々",
@@ -2643,6 +2869,8 @@
     {
         "Type": "Idol",
         "Category": "타나카 마미미",
+        "Order": 5,
+        "Date": "",
         "Title": "【デタラメハッシュタグ】田中摩美々",
         "Icon": "./src/Icon Mamimi S SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【デタラメハッシュタグ】田中摩美々",
@@ -2664,6 +2892,8 @@
     {
         "Type": "Idol",
         "Category": "타나카 마미미",
+        "Order": 5,
+        "Date": "",
         "Title": "【スプリング・フィッシュ】田中摩美々",
         "Icon": "./src/Icon Mamimi S SSR 06.png",
         "Link": "https://shinycolors.info/wiki/【スプリング・フィッシュ】田中摩美々",
@@ -2685,6 +2915,8 @@
     {
         "Type": "Idol",
         "Category": "타나카 마미미",
+        "Order": 5,
+        "Date": "",
         "Title": "【ソバニアル・サマー】田中摩美々",
         "Icon": "./src/Icon Mamimi S SSR 07.png",
         "Link": "https://shinycolors.info/wiki/【ソバニアル・サマー】田中摩美々",
@@ -2706,6 +2938,8 @@
     {
         "Type": "Idol",
         "Category": "타나카 마미미",
+        "Order": 5,
+        "Date": "",
         "Title": "【カラフルポップMIX】田中摩美々",
         "Icon": "./src/Icon Mamimi S SR 01.png",
         "Link": "https://shinycolors.info/wiki/【カラフルポップMIX】田中摩美々",
@@ -2727,6 +2961,8 @@
     {
         "Type": "Idol",
         "Category": "타나카 마미미",
+        "Order": 5,
+        "Date": "",
         "Title": "【アーリー・ナチュラリィ】田中摩美々",
         "Icon": "./src/Icon Mamimi S SR 02.png",
         "Link": "https://shinycolors.info/wiki/【アーリー・ナチュラリィ】田中摩美々",
@@ -2748,6 +2984,8 @@
     {
         "Type": "Idol",
         "Category": "타나카 마미미",
+        "Order": 5,
+        "Date": "",
         "Title": "【イン・ザ・ピンク】田中摩美々",
         "Icon": "./src/Icon Mamimi S SR 03.png",
         "Link": "https://shinycolors.info/wiki/【イン・ザ・ピンク】田中摩美々",
@@ -2765,6 +3003,8 @@
     {
         "Type": "Idol",
         "Category": "타나카 마미미",
+        "Order": 5,
+        "Date": "",
         "Title": "【283プロのヒナ】田中摩美々",
         "Icon": "./src/Icon Mamimi S R 01.png",
         "Link": "https://shinycolors.info/wiki/【283プロのヒナ】田中摩美々",
@@ -2782,6 +3022,8 @@
     {
         "Type": "Idol",
         "Category": "시라세 사쿠야",
+        "Order": 6,
+        "Date": "",
         "Title": "【紺碧のボーダーライン】白瀬咲耶",
         "Icon": "./src/Icon Sakuya P SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【紺碧のボーダーライン】白瀬咲耶",
@@ -2811,6 +3053,8 @@
     {
         "Type": "Idol",
         "Category": "시라세 사쿠야",
+        "Order": 6,
+        "Date": "",
         "Title": "【1/60・NaturalHeart】白瀬咲耶",
         "Icon": "./src/Icon Sakuya P SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【1/60・NaturalHeart】白瀬咲耶",
@@ -2840,6 +3084,8 @@
     {
         "Type": "Idol",
         "Category": "시라세 사쿠야",
+        "Order": 6,
+        "Date": "",
         "Title": "【幸福のリズム】白瀬咲耶",
         "Icon": "./src/Icon Sakuya P SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【幸福のリズム】白瀬咲耶",
@@ -2869,6 +3115,8 @@
     {
         "Type": "Idol",
         "Category": "시라세 사쿠야",
+        "Order": 6,
+        "Date": "",
         "Title": "【海と太陽のプロメッサ】白瀬咲耶",
         "Icon": "./src/Icon Sakuya P SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【海と太陽のプロメッサ】白瀬咲耶",
@@ -2898,6 +3146,8 @@
     {
         "Type": "Idol",
         "Category": "시라세 사쿠야",
+        "Order": 6,
+        "Date": "",
         "Title": "【乙女と交わすTrick】白瀬咲耶",
         "Icon": "./src/Icon Sakuya P SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【乙女と交わすTrick】白瀬咲耶",
@@ -2927,6 +3177,8 @@
     {
         "Type": "Idol",
         "Category": "시라세 사쿠야",
+        "Order": 6,
+        "Date": "",
         "Title": "【秘めやかファンサービス】白瀬咲耶",
         "Icon": "./src/Icon Sakuya P SR 01.png",
         "Link": "https://shinycolors.info/wiki/【秘めやかファンサービス】白瀬咲耶",
@@ -2948,6 +3200,8 @@
     {
         "Type": "Idol",
         "Category": "시라세 사쿠야",
+        "Order": 6,
+        "Date": "",
         "Title": "【ふれあい、おもいあい】白瀬咲耶",
         "Icon": "./src/Icon Sakuya P SR 02.png",
         "Link": "https://shinycolors.info/wiki/【ふれあい、おもいあい】白瀬咲耶",
@@ -2965,6 +3219,8 @@
     {
         "Type": "Idol",
         "Category": "시라세 사쿠야",
+        "Order": 6,
+        "Date": "",
         "Title": "【雪染めロマンティカ】白瀬咲耶",
         "Icon": "./src/Icon Sakuya P SR 03.png",
         "Link": "https://shinycolors.info/wiki/【雪染めロマンティカ】白瀬咲耶",
@@ -2982,6 +3238,8 @@
     {
         "Type": "Idol",
         "Category": "시라세 사쿠야",
+        "Order": 6,
+        "Date": "",
         "Title": "【真紅一輪】白瀬咲耶",
         "Icon": "./src/Icon Sakuya P SR 04.png",
         "Link": "https://shinycolors.info/wiki/【真紅一輪】白瀬咲耶",
@@ -3003,6 +3261,8 @@
     {
         "Type": "Idol",
         "Category": "시라세 사쿠야",
+        "Order": 6,
+        "Date": "",
         "Title": "【指先の煌めき】白瀬咲耶",
         "Icon": "./src/Icon Sakuya S SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【指先の煌めき】白瀬咲耶",
@@ -3028,6 +3288,8 @@
     {
         "Type": "Idol",
         "Category": "시라세 사쿠야",
+        "Order": 6,
+        "Date": "",
         "Title": "【街角フラワーガーデン】白瀬咲耶",
         "Icon": "./src/Icon Sakuya S SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【街角フラワーガーデン】白瀬咲耶",
@@ -3053,6 +3315,8 @@
     {
         "Type": "Idol",
         "Category": "시라세 사쿠야",
+        "Order": 6,
+        "Date": "",
         "Title": "【月映えのソワレ】白瀬咲耶",
         "Icon": "./src/Icon Sakuya S SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【月映えのソワレ】白瀬咲耶",
@@ -3074,6 +3338,8 @@
     {
         "Type": "Idol",
         "Category": "시라세 사쿠야",
+        "Order": 6,
+        "Date": "",
         "Title": "【prince×princess】白瀬咲耶",
         "Icon": "./src/Icon Sakuya S SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【prince×princess】白瀬咲耶",
@@ -3095,6 +3361,8 @@
     {
         "Type": "Idol",
         "Category": "시라세 사쿠야",
+        "Order": 6,
+        "Date": "",
         "Title": "【シー・イズ】白瀬咲耶",
         "Icon": "./src/Icon Sakuya S SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【シー・イズ】白瀬咲耶",
@@ -3116,6 +3384,8 @@
     {
         "Type": "Idol",
         "Category": "시라세 사쿠야",
+        "Order": 6,
+        "Date": "",
         "Title": "【あのねが言える場所】白瀬咲耶",
         "Icon": "./src/Icon Sakuya S SSR 06.png",
         "Link": "https://shinycolors.info/wiki/【あのねが言える場所】白瀬咲耶",
@@ -3137,6 +3407,8 @@
     {
         "Type": "Idol",
         "Category": "시라세 사쿠야",
+        "Order": 6,
+        "Date": "",
         "Title": "【それは途中の１ページ】白瀬咲耶",
         "Icon": "./src/Icon Sakuya S SSR 07.png",
         "Link": "https://shinycolors.info/wiki/【それは途中の１ページ】白瀬咲耶",
@@ -3158,6 +3430,8 @@
     {
         "Type": "Idol",
         "Category": "시라세 사쿠야",
+        "Order": 6,
+        "Date": "",
         "Title": "【雲間のモーメント】白瀬咲耶",
         "Icon": "./src/Icon Sakuya S SR 01.png",
         "Link": "https://shinycolors.info/wiki/【雲間のモーメント】白瀬咲耶",
@@ -3179,6 +3453,8 @@
     {
         "Type": "Idol",
         "Category": "시라세 사쿠야",
+        "Order": 6,
+        "Date": "",
         "Title": "【マジカル＊スカイレース】白瀬咲耶",
         "Icon": "./src/Icon Sakuya S SR 02.png",
         "Link": "https://shinycolors.info/wiki/【マジカル＊スカイレース】白瀬咲耶",
@@ -3196,6 +3472,8 @@
     {
         "Type": "Idol",
         "Category": "시라세 사쿠야",
+        "Order": 6,
+        "Date": "",
         "Title": "【咲耶と摩美々のぶらり旅】白瀬咲耶",
         "Icon": "./src/Icon Sakuya S SR 03.png",
         "Link": "https://shinycolors.info/wiki/【咲耶と摩美々のぶらり旅】白瀬咲耶",
@@ -3213,6 +3491,8 @@
     {
         "Type": "Idol",
         "Category": "시라세 사쿠야",
+        "Order": 6,
+        "Date": "",
         "Title": "【283プロのヒナ】白瀬咲耶",
         "Icon": "./src/Icon Sakuya S R 01.png",
         "Link": "https://shinycolors.info/wiki/【283プロのヒナ】白瀬咲耶",
@@ -3230,6 +3510,8 @@
     {
         "Type": "Idol",
         "Category": "미츠미네 유이카",
+        "Order": 7,
+        "Date": "",
         "Title": "【お試し／みつゴコロ】三峰結華",
         "Icon": "./src/Icon Yuika P SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【お試し／みつゴコロ】三峰結華",
@@ -3259,6 +3541,8 @@
     {
         "Type": "Idol",
         "Category": "미츠미네 유이카",
+        "Order": 7,
+        "Date": "",
         "Title": "【それなら目をつぶりましょう】三峰結華",
         "Icon": "./src/Icon Yuika P SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【それなら目をつぶりましょう】三峰結華",
@@ -3288,6 +3572,8 @@
     {
         "Type": "Idol",
         "Category": "미츠미네 유이카",
+        "Order": 7,
+        "Date": "",
         "Title": "【NOT≠EQUAL】三峰結華",
         "Icon": "./src/Icon Yuika P SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【NOT≠EQUAL】三峰結華",
@@ -3317,6 +3603,8 @@
     {
         "Type": "Idol",
         "Category": "미츠미네 유이카",
+        "Order": 7,
+        "Date": "",
         "Title": "【く ら く ら】三峰結華",
         "Icon": "./src/Icon Yuika P SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【く ら く ら】三峰結華",
@@ -3346,6 +3634,8 @@
     {
         "Type": "Idol",
         "Category": "미츠미네 유이카",
+        "Order": 7,
+        "Date": "",
         "Title": "【雨に祝福】三峰結華",
         "Icon": "./src/Icon Yuika P SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【雨に祝福】三峰結華",
@@ -3375,6 +3665,8 @@
     {
         "Type": "Idol",
         "Category": "미츠미네 유이카",
+        "Order": 7,
+        "Date": "",
         "Title": "【♡コメディ】三峰結華",
         "Icon": "./src/Icon Yuika P SSR 06.png",
         "Link": "https://shinycolors.info/wiki/【♡コメディ】三峰結華",
@@ -3404,6 +3696,8 @@
     {
         "Type": "Idol",
         "Category": "미츠미네 유이카",
+        "Order": 7,
+        "Date": "",
         "Title": "【カラフルメタモルフォーゼ】三峰結華",
         "Icon": "./src/Icon Yuika P SR 01.png",
         "Link": "https://shinycolors.info/wiki/【カラフルメタモルフォーゼ】三峰結華",
@@ -3425,6 +3719,8 @@
     {
         "Type": "Idol",
         "Category": "미츠미네 유이카",
+        "Order": 7,
+        "Date": "",
         "Title": "【雨色、上機嫌】三峰結華",
         "Icon": "./src/Icon Yuika P SR 02.png",
         "Link": "https://shinycolors.info/wiki/【雨色、上機嫌】三峰結華",
@@ -3446,6 +3742,8 @@
     {
         "Type": "Idol",
         "Category": "미츠미네 유이카",
+        "Order": 7,
+        "Date": "",
         "Title": "【お願い、ただの少女がいい】三峰結華",
         "Icon": "./src/Icon Yuika P SR 03.png",
         "Link": "https://shinycolors.info/wiki/【お願い、ただの少女がいい】三峰結華",
@@ -3463,6 +3761,8 @@
     {
         "Type": "Idol",
         "Category": "미츠미네 유이카",
+        "Order": 7,
+        "Date": "",
         "Title": "【等身大のレイニーデイ】三峰結華",
         "Icon": "./src/Icon Yuika S SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【等身大のレイニーデイ】三峰結華",
@@ -3488,6 +3788,8 @@
     {
         "Type": "Idol",
         "Category": "미츠미네 유이카",
+        "Order": 7,
+        "Date": "",
         "Title": "【ハロー、私の「いつも通り」】三峰結華",
         "Icon": "./src/Icon Yuika S SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【ハロー、私の「いつも通り」】三峰結華",
@@ -3509,6 +3811,8 @@
     {
         "Type": "Idol",
         "Category": "미츠미네 유이카",
+        "Order": 7,
+        "Date": "",
         "Title": "【賑やか四畳半】三峰結華",
         "Icon": "./src/Icon Yuika S SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【賑やか四畳半】三峰結華",
@@ -3530,6 +3834,8 @@
     {
         "Type": "Idol",
         "Category": "미츠미네 유이카",
+        "Order": 7,
+        "Date": "",
         "Title": "【プレゼントなら両手いっぱい】三峰結華",
         "Icon": "./src/Icon Yuika S SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【プレゼントなら両手いっぱい】三峰結華",
@@ -3551,6 +3857,8 @@
     {
         "Type": "Idol",
         "Category": "미츠미네 유이카",
+        "Order": 7,
+        "Date": "",
         "Title": "【おはようと日向に手を振る】三峰結華",
         "Icon": "./src/Icon Yuika S SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【おはようと日向に手を振る】三峰結華",
@@ -3572,6 +3880,8 @@
     {
         "Type": "Idol",
         "Category": "미츠미네 유이카",
+        "Order": 7,
+        "Date": "",
         "Title": "【リ・リフレクション】三峰結華",
         "Icon": "./src/Icon Yuika S SSR 06.png",
         "Link": "https://shinycolors.info/wiki/【リ・リフレクション】三峰結華",
@@ -3593,6 +3903,8 @@
     {
         "Type": "Idol",
         "Category": "미츠미네 유이카",
+        "Order": 7,
+        "Date": "",
         "Title": "【輪になって】三峰結華",
         "Icon": "./src/Icon Yuika S SR 01.png",
         "Link": "https://shinycolors.info/wiki/【輪になって】三峰結華",
@@ -3614,6 +3926,8 @@
     {
         "Type": "Idol",
         "Category": "미츠미네 유이카",
+        "Order": 7,
+        "Date": "",
         "Title": "【メロウビート・スローダウン】三峰結華",
         "Icon": "./src/Icon Yuika S SR 02.png",
         "Link": "https://shinycolors.info/wiki/【メロウビート・スローダウン】三峰結華",
@@ -3631,6 +3945,8 @@
     {
         "Type": "Idol",
         "Category": "미츠미네 유이카",
+        "Order": 7,
+        "Date": "",
         "Title": "【SIDE：Y】三峰結華",
         "Icon": "./src/Icon Yuika S SR 03.png",
         "Link": "https://shinycolors.info/wiki/【SIDE：Y】三峰結華",
@@ -3648,6 +3964,8 @@
     {
         "Type": "Idol",
         "Category": "미츠미네 유이카",
+        "Order": 7,
+        "Date": "",
         "Title": "【283プロのヒナ】三峰結華",
         "Icon": "./src/Icon Yuika S R 01.png",
         "Link": "https://shinycolors.info/wiki/【283プロのヒナ】三峰結華",
@@ -3665,6 +3983,8 @@
     {
         "Type": "Idol",
         "Category": "유코쿠 키리코",
+        "Order": 8,
+        "Date": "",
         "Title": "【霧・音・燦・燦】幽谷霧子",
         "Icon": "./src/Icon Kiriko P SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【霧・音・燦・燦】幽谷霧子",
@@ -3694,6 +4014,8 @@
     {
         "Type": "Idol",
         "Category": "유코쿠 키리코",
+        "Order": 8,
+        "Date": "",
         "Title": "【夕・音・鳴・鳴】幽谷霧子",
         "Icon": "./src/Icon Kiriko P SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【夕・音・鳴・鳴】幽谷霧子",
@@ -3723,6 +4045,8 @@
     {
         "Type": "Idol",
         "Category": "유코쿠 키리코",
+        "Order": 8,
+        "Date": "",
         "Title": "【菜・菜・輪・舞】幽谷霧子",
         "Icon": "./src/Icon Kiriko P SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【菜・菜・輪・舞】幽谷霧子",
@@ -3752,6 +4076,8 @@
     {
         "Type": "Idol",
         "Category": "유코쿠 키리코",
+        "Order": 8,
+        "Date": "",
         "Title": "【鱗・鱗・謹・賀】幽谷霧子",
         "Icon": "./src/Icon Kiriko P SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【鱗・鱗・謹・賀】幽谷霧子",
@@ -3781,6 +4107,8 @@
     {
         "Type": "Idol",
         "Category": "유코쿠 키리코",
+        "Order": 8,
+        "Date": "",
         "Title": "【琴・禽・空・華】幽谷霧子",
         "Icon": "./src/Icon Kiriko P SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【琴・禽・空・華】幽谷霧子",
@@ -3810,6 +4138,8 @@
     {
         "Type": "Idol",
         "Category": "유코쿠 키리코",
+        "Order": 8,
+        "Date": "",
         "Title": "【包・帯・組・曲】幽谷霧子",
         "Icon": "./src/Icon Kiriko P SR 01.png",
         "Link": "https://shinycolors.info/wiki/【包・帯・組・曲】幽谷霧子",
@@ -3831,6 +4161,8 @@
     {
         "Type": "Idol",
         "Category": "유코쿠 키리코",
+        "Order": 8,
+        "Date": "",
         "Title": "【伝・伝・心・音】幽谷霧子",
         "Icon": "./src/Icon Kiriko P SR 02.png",
         "Link": "https://shinycolors.info/wiki/【伝・伝・心・音】幽谷霧子",
@@ -3852,6 +4184,8 @@
     {
         "Type": "Idol",
         "Category": "유코쿠 키리코",
+        "Order": 8,
+        "Date": "",
         "Title": "【白・白・白・祈】幽谷霧子",
         "Icon": "./src/Icon Kiriko P SR 03.png",
         "Link": "https://shinycolors.info/wiki/【白・白・白・祈】幽谷霧子",
@@ -3873,6 +4207,8 @@
     {
         "Type": "Idol",
         "Category": "유코쿠 키리코",
+        "Order": 8,
+        "Date": "",
         "Title": "【天・天・白・布】幽谷霧子",
         "Icon": "./src/Icon Kiriko P SR 04.png",
         "Link": "https://shinycolors.info/wiki/【天・天・白・布】幽谷霧子",
@@ -3890,6 +4226,8 @@
     {
         "Type": "Idol",
         "Category": "유코쿠 키리코",
+        "Order": 8,
+        "Date": "",
         "Title": "【雨・雨・電・電】幽谷霧子",
         "Icon": "./src/Icon Kiriko P SR 05.png",
         "Link": "https://shinycolors.info/wiki/【雨・雨・電・電】幽谷霧子",
@@ -3907,6 +4245,8 @@
     {
         "Type": "Idol",
         "Category": "유코쿠 키리코",
+        "Order": 8,
+        "Date": "",
         "Title": "【霧・霧・奇・譚】幽谷霧子",
         "Icon": "./src/Icon Kiriko S SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【霧・霧・奇・譚】幽谷霧子",
@@ -3932,6 +4272,8 @@
     {
         "Type": "Idol",
         "Category": "유코쿠 키리코",
+        "Order": 8,
+        "Date": "",
         "Title": "【娘・娘・謹・賀】幽谷霧子",
         "Icon": "./src/Icon Kiriko S SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【娘・娘・謹・賀】幽谷霧子",
@@ -3953,6 +4295,8 @@
     {
         "Type": "Idol",
         "Category": "유코쿠 키리코",
+        "Order": 8,
+        "Date": "",
         "Title": "【潜・潜・夏・娘】幽谷霧子",
         "Icon": "./src/Icon Kiriko S SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【潜・潜・夏・娘】幽谷霧子",
@@ -3974,6 +4318,8 @@
     {
         "Type": "Idol",
         "Category": "유코쿠 키리코",
+        "Order": 8,
+        "Date": "",
         "Title": "【奇・綺・甘・甘】幽谷霧子",
         "Icon": "./src/Icon Kiriko S SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【奇・綺・甘・甘】幽谷霧子",
@@ -3995,6 +4341,8 @@
     {
         "Type": "Idol",
         "Category": "유코쿠 키리코",
+        "Order": 8,
+        "Date": "",
         "Title": "【数・数・娘・娘】幽谷霧子",
         "Icon": "./src/Icon Kiriko S SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【数・数・娘・娘】幽谷霧子",
@@ -4016,6 +4364,8 @@
     {
         "Type": "Idol",
         "Category": "유코쿠 키리코",
+        "Order": 8,
+        "Date": "",
         "Title": "【綿毛ノ想】幽谷霧子",
         "Icon": "./src/Icon Kiriko S SR 01.png",
         "Link": "https://shinycolors.info/wiki/【綿毛ノ想】幽谷霧子",
@@ -4037,6 +4387,8 @@
     {
         "Type": "Idol",
         "Category": "유코쿠 키리코",
+        "Order": 8,
+        "Date": "",
         "Title": "【娘・娘・金・魚】幽谷霧子",
         "Icon": "./src/Icon Kiriko S SR 02.png",
         "Link": "https://shinycolors.info/wiki/【娘・娘・金・魚】幽谷霧子",
@@ -4054,6 +4406,8 @@
     {
         "Type": "Idol",
         "Category": "유코쿠 키리코",
+        "Order": 8,
+        "Date": "",
         "Title": "【我・思・君・思】幽谷霧子",
         "Icon": "./src/Icon Kiriko S SR 03.png",
         "Link": "https://shinycolors.info/wiki/【我・思・君・思】幽谷霧子",
@@ -4071,6 +4425,8 @@
     {
         "Type": "Idol",
         "Category": "유코쿠 키리코",
+        "Order": 8,
+        "Date": "",
         "Title": "【君・空・我・空】幽谷霧子",
         "Icon": "./src/Icon Kiriko S SR 04.png",
         "Link": "https://shinycolors.info/wiki/【君・空・我・空】幽谷霧子",
@@ -4088,6 +4444,8 @@
     {
         "Type": "Idol",
         "Category": "유코쿠 키리코",
+        "Order": 8,
+        "Date": "",
         "Title": "【283プロのヒナ】幽谷霧子",
         "Icon": "./src/Icon Kiriko S R 01.png",
         "Link": "https://shinycolors.info/wiki/【283プロのヒナ】幽谷霧子",
@@ -4105,6 +4463,8 @@
     {
         "Type": "Idol",
         "Category": "코미야 카호",
+        "Order": 9,
+        "Date": "",
         "Title": "【第2形態アーマードタイプ】小宮果穂",
         "Icon": "./src/Icon Kaho P SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【第2形態アーマードタイプ】小宮果穂",
@@ -4134,6 +4494,8 @@
     {
         "Type": "Idol",
         "Category": "코미야 카호",
+        "Order": 9,
+        "Date": "",
         "Title": "【新装備・バブルバスター！】小宮果穂",
         "Icon": "./src/Icon Kaho P SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【新装備・バブルバスター！】小宮果穂",
@@ -4163,6 +4525,8 @@
     {
         "Type": "Idol",
         "Category": "코미야 카호",
+        "Order": 9,
+        "Date": "",
         "Title": "【潮騒のシーショア】小宮果穂",
         "Icon": "./src/Icon Kaho P SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【潮騒のシーショア】小宮果穂",
@@ -4192,6 +4556,8 @@
     {
         "Type": "Idol",
         "Category": "코미야 카호",
+        "Order": 9,
+        "Date": "",
         "Title": "【エクストリーム・ブレイク！】小宮果穂",
         "Icon": "./src/Icon Kaho P SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【エクストリーム・ブレイク！】小宮果穂",
@@ -4221,6 +4587,8 @@
     {
         "Type": "Idol",
         "Category": "코미야 카호",
+        "Order": 9,
+        "Date": "",
         "Title": "【日刊ウィズ・ユー！】小宮果穂",
         "Icon": "./src/Icon Kaho P SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【日刊ウィズ・ユー！】小宮果穂",
@@ -4250,6 +4618,8 @@
     {
         "Type": "Idol",
         "Category": "코미야 카호",
+        "Order": 9,
+        "Date": "",
         "Title": "【マメ丸と一緒！】小宮果穂",
         "Icon": "./src/Icon Kaho P SR 01.png",
         "Link": "https://shinycolors.info/wiki/【マメ丸と一緒！】小宮果穂",
@@ -4271,6 +4641,8 @@
     {
         "Type": "Idol",
         "Category": "코미야 카호",
+        "Order": 9,
+        "Date": "",
         "Title": "【デコって！ハッピークッキー】小宮果穂",
         "Icon": "./src/Icon Kaho P SR 02.png",
         "Link": "https://shinycolors.info/wiki/【デコって！ハッピークッキー】小宮果穂",
@@ -4288,6 +4660,8 @@
     {
         "Type": "Idol",
         "Category": "코미야 카호",
+        "Order": 9,
+        "Date": "",
         "Title": "【キャッチ・ザ・フォール！】小宮果穂",
         "Icon": "./src/Icon Kaho P SR 03.png",
         "Link": "https://shinycolors.info/wiki/【キャッチ・ザ・フォール！】小宮果穂",
@@ -4309,6 +4683,8 @@
     {
         "Type": "Idol",
         "Category": "코미야 카호",
+        "Order": 9,
+        "Date": "",
         "Title": "【窓辺・サイレントタイム】小宮果穂",
         "Icon": "./src/Icon Kaho P SR 04.png",
         "Link": "https://shinycolors.info/wiki/【窓辺・サイレントタイム】小宮果穂",
@@ -4326,6 +4702,8 @@
     {
         "Type": "Idol",
         "Category": "코미야 카호",
+        "Order": 9,
+        "Date": "",
         "Title": "【ヒーローインザパーク】小宮果穂",
         "Icon": "./src/Icon Kaho S SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【ヒーローインザパーク】小宮果穂",
@@ -4351,6 +4729,8 @@
     {
         "Type": "Idol",
         "Category": "코미야 카호",
+        "Order": 9,
+        "Date": "",
         "Title": "【鉄板★絶品★海の家】小宮果穂",
         "Icon": "./src/Icon Kaho S SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【鉄板★絶品★海の家】小宮果穂",
@@ -4372,6 +4752,8 @@
     {
         "Type": "Idol",
         "Category": "코미야 카호",
+        "Order": 9,
+        "Date": "",
         "Title": "【雨のち、マイヒーロー】小宮果穂",
         "Icon": "./src/Icon Kaho S SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【雨のち、マイヒーロー】小宮果穂",
@@ -4393,6 +4775,8 @@
     {
         "Type": "Idol",
         "Category": "코미야 카호",
+        "Order": 9,
+        "Date": "",
         "Title": "【ナツイロ☆アフタースクール】小宮果穂",
         "Icon": "./src/Icon Kaho S SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【ナツイロ☆アフタースクール】小宮果穂",
@@ -4414,6 +4798,8 @@
     {
         "Type": "Idol",
         "Category": "코미야 카호",
+        "Order": 9,
+        "Date": "",
         "Title": "【続！（完全）燃焼】小宮果穂",
         "Icon": "./src/Icon Kaho S SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【続！（完全）燃焼】小宮果穂",
@@ -4435,6 +4821,8 @@
     {
         "Type": "Idol",
         "Category": "코미야 카호",
+        "Order": 9,
+        "Date": "",
         "Title": "【反撃の狼煙をあげよ！】小宮果穂",
         "Icon": "./src/Icon Kaho S SSR 06.png",
         "Link": "https://shinycolors.info/wiki/【反撃の狼煙をあげよ！】小宮果穂",
@@ -4456,6 +4844,8 @@
     {
         "Type": "Idol",
         "Category": "코미야 카호",
+        "Order": 9,
+        "Date": "",
         "Title": "【放課後スノーガールズ！】小宮果穂",
         "Icon": "./src/Icon Kaho S SR 01.png",
         "Link": "https://shinycolors.info/wiki/【放課後スノーガールズ！】小宮果穂",
@@ -4473,6 +4863,8 @@
     {
         "Type": "Idol",
         "Category": "코미야 카호",
+        "Order": 9,
+        "Date": "",
         "Title": "【無敵の証！五紋章！】小宮果穂",
         "Icon": "./src/Icon Kaho S SR 02.png",
         "Link": "https://shinycolors.info/wiki/【無敵の証！五紋章！】小宮果穂",
@@ -4490,6 +4882,8 @@
     {
         "Type": "Idol",
         "Category": "코미야 카호",
+        "Order": 9,
+        "Date": "",
         "Title": "【ホーカゴ・ア・ゴーゴー！】小宮果穂",
         "Icon": "./src/Icon Kaho S SR 03.png",
         "Link": "https://shinycolors.info/wiki/【ホーカゴ・ア・ゴーゴー！】小宮果穂",
@@ -4507,6 +4901,8 @@
     {
         "Type": "Idol",
         "Category": "코미야 카호",
+        "Order": 9,
+        "Date": "",
         "Title": "【キング・アンド・ヒーロー】小宮果穂",
         "Icon": "./src/Icon Kaho S SR 04.png",
         "Link": "https://shinycolors.info/wiki/【キング・アンド・ヒーロー】小宮果穂",
@@ -4524,6 +4920,8 @@
     {
         "Type": "Idol",
         "Category": "코미야 카호",
+        "Order": 9,
+        "Date": "",
         "Title": "【283プロのヒナ】小宮果穂",
         "Icon": "./src/Icon Kaho S R 01.png",
         "Link": "https://shinycolors.info/wiki/【283プロのヒナ】小宮果穂",
@@ -4541,6 +4939,8 @@
     {
         "Type": "Idol",
         "Category": "소노다 치요코",
+        "Order": 10,
+        "Date": "",
         "Title": "【ちょこ色×きらきらロマン】園田智代子",
         "Icon": "./src/Icon Chiyoko P SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【ちょこ色×きらきらロマン】園田智代子",
@@ -4570,6 +4970,8 @@
     {
         "Type": "Idol",
         "Category": "소노다 치요코",
+        "Order": 10,
+        "Date": "",
         "Title": "【あそ→と♡ちよこれいと】園田智代子",
         "Icon": "./src/Icon Chiyoko P SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【あそ→と♡ちよこれいと】園田智代子",
@@ -4599,6 +5001,8 @@
     {
         "Type": "Idol",
         "Category": "소노다 치요코",
+        "Order": 10,
+        "Date": "",
         "Title": "【かきまぜたら＊ミルク】園田智代子",
         "Icon": "./src/Icon Chiyoko P SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【かきまぜたら＊ミルク】園田智代子",
@@ -4628,6 +5032,8 @@
     {
         "Type": "Idol",
         "Category": "소노다 치요코",
+        "Order": 10,
+        "Date": "",
         "Title": "【You're My Dream】園田智代子",
         "Icon": "./src/Icon Chiyoko P SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【You're My Dream】園田智代子",
@@ -4657,6 +5063,8 @@
     {
         "Type": "Idol",
         "Category": "소노다 치요코",
+        "Order": 10,
+        "Date": "",
         "Title": "【プリティ・スイート】園田智代子",
         "Icon": "./src/Icon Chiyoko P SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【プリティ・スイート】園田智代子",
@@ -4686,6 +5094,8 @@
     {
         "Type": "Idol",
         "Category": "소노다 치요코",
+        "Order": 10,
+        "Date": "",
         "Title": "【純真チョコレート】園田智代子",
         "Icon": "./src/Icon Chiyoko P SR 01.png",
         "Link": "https://shinycolors.info/wiki/【純真チョコレート】園田智代子",
@@ -4707,6 +5117,8 @@
     {
         "Type": "Idol",
         "Category": "소노다 치요코",
+        "Order": 10,
+        "Date": "",
         "Title": "【よろしく♡めしませっ】園田智代子",
         "Icon": "./src/Icon Chiyoko P SR 02.png",
         "Link": "https://shinycolors.info/wiki/【よろしく♡めしませっ】園田智代子",
@@ -4724,6 +5136,8 @@
     {
         "Type": "Idol",
         "Category": "소노다 치요코",
+        "Order": 10,
+        "Date": "",
         "Title": "【錯覚・Darling】園田智代子",
         "Icon": "./src/Icon Chiyoko P SR 03.png",
         "Link": "https://shinycolors.info/wiki/【錯覚・Darling】園田智代子",
@@ -4745,6 +5159,8 @@
     {
         "Type": "Idol",
         "Category": "소노다 치요코",
+        "Order": 10,
+        "Date": "",
         "Title": "【放課後★肝試しパニック】園田智代子",
         "Icon": "./src/Icon Chiyoko S SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【放課後★肝試しパニック】園田智代子",
@@ -4770,6 +5186,8 @@
     {
         "Type": "Idol",
         "Category": "소노다 치요코",
+        "Order": 10,
+        "Date": "",
         "Title": "【桜餅マスター……？】園田智代子",
         "Icon": "./src/Icon Chiyoko S SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【桜餅マスター……？】園田智代子",
@@ -4795,6 +5213,8 @@
     {
         "Type": "Idol",
         "Category": "소노다 치요코",
+        "Order": 10,
+        "Date": "",
         "Title": "【紅蘭偉魔空珠に挑め！】園田智代子",
         "Icon": "./src/Icon Chiyoko S SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【紅蘭偉魔空珠に挑め！】園田智代子",
@@ -4816,6 +5236,8 @@
     {
         "Type": "Idol",
         "Category": "소노다 치요코",
+        "Order": 10,
+        "Date": "",
         "Title": "【おあがり←くらいまっくす】園田智代子",
         "Icon": "./src/Icon Chiyoko S SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【おあがり←くらいまっくす】園田智代子",
@@ -4837,6 +5259,8 @@
     {
         "Type": "Idol",
         "Category": "소노다 치요코",
+        "Order": 10,
+        "Date": "",
         "Title": "【kimagure全力ビート！】園田智代子",
         "Icon": "./src/Icon Chiyoko S SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【kimagure全力ビート！】園田智代子",
@@ -4858,6 +5282,8 @@
     {
         "Type": "Idol",
         "Category": "소노다 치요코",
+        "Order": 10,
+        "Date": "",
         "Title": "【code:SH☆☆TING star!】園田智代子",
         "Icon": "./src/Icon Chiyoko S SSR 06.png",
         "Link": "https://shinycolors.info/wiki/【code:SH☆☆TING star!】園田智代子",
@@ -4879,6 +5305,8 @@
     {
         "Type": "Idol",
         "Category": "소노다 치요코",
+        "Order": 10,
+        "Date": "",
         "Title": "【迷走チョコロード】園田智代子",
         "Icon": "./src/Icon Chiyoko S SR 01.png",
         "Link": "https://shinycolors.info/wiki/【迷走チョコロード】園田智代子",
@@ -4900,6 +5328,8 @@
     {
         "Type": "Idol",
         "Category": "소노다 치요코",
+        "Order": 10,
+        "Date": "",
         "Title": "【Best☆Great☆サマー！】園田智代子",
         "Icon": "./src/Icon Chiyoko S SR 02.png",
         "Link": "https://shinycolors.info/wiki/【Best☆Great☆サマー！】園田智代子",
@@ -4917,6 +5347,8 @@
     {
         "Type": "Idol",
         "Category": "소노다 치요코",
+        "Order": 10,
+        "Date": "",
         "Title": "【ぐるもこ・まふ×２】園田智代子",
         "Icon": "./src/Icon Chiyoko S SR 03.png",
         "Link": "https://shinycolors.info/wiki/【ぐるもこ・まふ×２】園田智代子",
@@ -4934,6 +5366,8 @@
     {
         "Type": "Idol",
         "Category": "소노다 치요코",
+        "Order": 10,
+        "Date": "",
         "Title": "【茜色セレンディピティ】園田智代子",
         "Icon": "./src/Icon Chiyoko S SR 04.png",
         "Link": "https://shinycolors.info/wiki/【茜色セレンディピティ】園田智代子",
@@ -4951,6 +5385,8 @@
     {
         "Type": "Idol",
         "Category": "소노다 치요코",
+        "Order": 10,
+        "Date": "",
         "Title": "【283プロのヒナ】園田智代子",
         "Icon": "./src/Icon Chiyoko S R 01.png",
         "Link": "https://shinycolors.info/wiki/【283プロのヒナ】園田智代子",
@@ -4968,6 +5404,8 @@
     {
         "Type": "Idol",
         "Category": "사이죠 쥬리",
+        "Order": 11,
+        "Date": "",
         "Title": "【ラムネ色の覚悟】西城樹里",
         "Icon": "./src/Icon Juri P SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【ラムネ色の覚悟】西城樹里",
@@ -4997,6 +5435,8 @@
     {
         "Type": "Idol",
         "Category": "사이죠 쥬리",
+        "Order": 11,
+        "Date": "",
         "Title": "【とびっきりジンジャー】西城樹里",
         "Icon": "./src/Icon Juri P SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【とびっきりジンジャー】西城樹里",
@@ -5026,6 +5466,8 @@
     {
         "Type": "Idol",
         "Category": "사이죠 쥬리",
+        "Order": 11,
+        "Date": "",
         "Title": "【曲がり角のランウェイ】西城樹里",
         "Icon": "./src/Icon Juri P SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【曲がり角のランウェイ】西城樹里",
@@ -5055,6 +5497,8 @@
     {
         "Type": "Idol",
         "Category": "사이죠 쥬리",
+        "Order": 11,
+        "Date": "",
         "Title": "【誰が為シンパシー】西城樹里",
         "Icon": "./src/Icon Juri P SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【誰が為シンパシー】西城樹里",
@@ -5084,6 +5528,8 @@
     {
         "Type": "Idol",
         "Category": "사이죠 쥬리",
+        "Order": 11,
+        "Date": "",
         "Title": "【秋陽のスケッチ】西城樹里",
         "Icon": "./src/Icon Juri P SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【秋陽のスケッチ】西城樹里",
@@ -5113,6 +5559,8 @@
     {
         "Type": "Idol",
         "Category": "사이죠 쥬리",
+        "Order": 11,
+        "Date": "",
         "Title": "【I・OWE・U】西城樹里",
         "Icon": "./src/Icon Juri P SSR 06.png",
         "Link": "https://shinycolors.info/wiki/【I・OWE・U】西城樹里",
@@ -5142,6 +5590,8 @@
     {
         "Type": "Idol",
         "Category": "사이죠 쥬리",
+        "Order": 11,
+        "Date": "",
         "Title": "【バッドガールの羽ばたき】西城樹里",
         "Icon": "./src/Icon Juri P SR 01.png",
         "Link": "https://shinycolors.info/wiki/【バッドガールの羽ばたき】西城樹里",
@@ -5163,6 +5613,8 @@
     {
         "Type": "Idol",
         "Category": "사이죠 쥬리",
+        "Order": 11,
+        "Date": "",
         "Title": "【オフデーゲーム】西城樹里",
         "Icon": "./src/Icon Juri P SR 02.png",
         "Link": "https://shinycolors.info/wiki/【オフデーゲーム】西城樹里",
@@ -5184,6 +5636,8 @@
     {
         "Type": "Idol",
         "Category": "사이죠 쥬리",
+        "Order": 11,
+        "Date": "",
         "Title": "【STARTRAIN】西城樹里",
         "Icon": "./src/Icon Juri P SR 03.png",
         "Link": "https://shinycolors.info/wiki/【STARTRAIN】西城樹里",
@@ -5201,6 +5655,8 @@
     {
         "Type": "Idol",
         "Category": "사이죠 쥬리",
+        "Order": 11,
+        "Date": "",
         "Title": "【夏服にWIND YOU！】西城樹里",
         "Icon": "./src/Icon Juri P SR 04.png",
         "Link": "https://shinycolors.info/wiki/【夏服にWIND YOU！】西城樹里",
@@ -5218,6 +5674,8 @@
     {
         "Type": "Idol",
         "Category": "사이죠 쥬리",
+        "Order": 11,
+        "Date": "",
         "Title": "【未知なるFROZEN】西城樹里",
         "Icon": "./src/Icon Juri S SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【未知なるFROZEN】西城樹里",
@@ -5239,6 +5697,8 @@
     {
         "Type": "Idol",
         "Category": "사이죠 쥬리",
+        "Order": 11,
+        "Date": "",
         "Title": "【スリープオーバーベイビー】西城樹里",
         "Icon": "./src/Icon Juri S SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【スリープオーバーベイビー】西城樹里",
@@ -5260,6 +5720,8 @@
     {
         "Type": "Idol",
         "Category": "사이죠 쥬리",
+        "Order": 11,
+        "Date": "",
         "Title": "【坂道だらけのこの街で】西城樹里",
         "Icon": "./src/Icon Juri S SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【坂道だらけのこの街で】西城樹里",
@@ -5281,6 +5743,8 @@
     {
         "Type": "Idol",
         "Category": "사이죠 쥬리",
+        "Order": 11,
+        "Date": "",
         "Title": "【SPACE WHAT？】西城樹里",
         "Icon": "./src/Icon Juri S SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【SPACE WHAT？】西城樹里",
@@ -5302,6 +5766,8 @@
     {
         "Type": "Idol",
         "Category": "사이죠 쥬리",
+        "Order": 11,
+        "Date": "",
         "Title": "【モーニング・グロウリー？】西城樹里",
         "Icon": "./src/Icon Juri S SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【モーニング・グロウリー？】西城樹里",
@@ -5323,6 +5789,8 @@
     {
         "Type": "Idol",
         "Category": "사이죠 쥬리",
+        "Order": 11,
+        "Date": "",
         "Title": "【意地っ張りサンセット】西城樹里",
         "Icon": "./src/Icon Juri S SR 01.png",
         "Link": "https://shinycolors.info/wiki/【意地っ張りサンセット】西城樹里",
@@ -5344,6 +5812,8 @@
     {
         "Type": "Idol",
         "Category": "사이죠 쥬리",
+        "Order": 11,
+        "Date": "",
         "Title": "【3名様極楽旅行記】西城樹里",
         "Icon": "./src/Icon Juri S SR 02.png",
         "Link": "https://shinycolors.info/wiki/【3名様極楽旅行記】西城樹里",
@@ -5361,6 +5831,8 @@
     {
         "Type": "Idol",
         "Category": "사이죠 쥬리",
+        "Order": 11,
+        "Date": "",
         "Title": "【グッド・ラック・ボール】西城樹里",
         "Icon": "./src/Icon Juri S SR 03.png",
         "Link": "https://shinycolors.info/wiki/【グッド・ラック・ボール】西城樹里",
@@ -5378,6 +5850,8 @@
     {
         "Type": "Idol",
         "Category": "사이죠 쥬리",
+        "Order": 11,
+        "Date": "",
         "Title": "【晴れ待ちのひと時】西城樹里",
         "Icon": "./src/Icon Juri S SR 04.png",
         "Link": "https://shinycolors.info/wiki/【晴れ待ちのひと時】西城樹里",
@@ -5395,6 +5869,8 @@
     {
         "Type": "Idol",
         "Category": "사이죠 쥬리",
+        "Order": 11,
+        "Date": "",
         "Title": "【283プロのヒナ】西城樹里",
         "Icon": "./src/Icon Juri S R 01.png",
         "Link": "https://shinycolors.info/wiki/【283プロのヒナ】西城樹里",
@@ -5412,6 +5888,8 @@
     {
         "Type": "Idol",
         "Category": "모리노 린제",
+        "Order": 12,
+        "Date": "",
         "Title": "【杜野凛世の印象派】杜野凛世",
         "Icon": "./src/Icon Rinze P SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【杜野凛世の印象派】杜野凛世",
@@ -5441,6 +5919,8 @@
     {
         "Type": "Idol",
         "Category": "모리노 린제",
+        "Order": 12,
+        "Date": "",
         "Title": "【凛世花伝】杜野凛世",
         "Icon": "./src/Icon Rinze P SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【凛世花伝】杜野凛世",
@@ -5470,6 +5950,8 @@
     {
         "Type": "Idol",
         "Category": "모리노 린제",
+        "Order": 12,
+        "Date": "",
         "Title": "【水色感情】杜野凛世",
         "Icon": "./src/Icon Rinze P SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【水色感情】杜野凛世",
@@ -5499,6 +5981,8 @@
     {
         "Type": "Idol",
         "Category": "모리노 린제",
+        "Order": 12,
+        "Date": "",
         "Title": "【十二月短篇】杜野凛世",
         "Icon": "./src/Icon Rinze P SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【十二月短篇】杜野凛世",
@@ -5528,6 +6012,8 @@
     {
         "Type": "Idol",
         "Category": "모리노 린제",
+        "Order": 12,
+        "Date": "",
         "Title": "【われにかへれ】杜野凛世",
         "Icon": "./src/Icon Rinze P SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【われにかへれ】杜野凛世",
@@ -5557,6 +6043,8 @@
     {
         "Type": "Idol",
         "Category": "모리노 린제",
+        "Order": 12,
+        "Date": "",
         "Title": "【ロー・ポジション】杜野凛世",
         "Icon": "./src/Icon Rinze P SSR 06.png",
         "Link": "https://shinycolors.info/wiki/【ロー・ポジション】杜野凛世",
@@ -5586,6 +6074,8 @@
     {
         "Type": "Idol",
         "Category": "모리노 린제",
+        "Order": 12,
+        "Date": "",
         "Title": "【想ひいろは】杜野凛世",
         "Icon": "./src/Icon Rinze P SR 01.png",
         "Link": "https://shinycolors.info/wiki/【想ひいろは】杜野凛世",
@@ -5607,6 +6097,8 @@
     {
         "Type": "Idol",
         "Category": "모리노 린제",
+        "Order": 12,
+        "Date": "",
         "Title": "【凛凛、凛世】杜野凛世",
         "Icon": "./src/Icon Rinze P SR 02.png",
         "Link": "https://shinycolors.info/wiki/【凛凛、凛世】杜野凛世",
@@ -5628,6 +6120,8 @@
     {
         "Type": "Idol",
         "Category": "모리노 린제",
+        "Order": 12,
+        "Date": "",
         "Title": "【微熱風鈴】杜野凛世",
         "Icon": "./src/Icon Rinze P SR 03.png",
         "Link": "https://shinycolors.info/wiki/【微熱風鈴】杜野凛世",
@@ -5649,6 +6143,8 @@
     {
         "Type": "Idol",
         "Category": "모리노 린제",
+        "Order": 12,
+        "Date": "",
         "Title": "【ふらここのうた】杜野凛世",
         "Icon": "./src/Icon Rinze P SR 04.png",
         "Link": "https://shinycolors.info/wiki/【ふらここのうた】杜野凛世",
@@ -5666,6 +6162,8 @@
     {
         "Type": "Idol",
         "Category": "모리노 린제",
+        "Order": 12,
+        "Date": "",
         "Title": "【階段式純情昇降機】杜野凛世",
         "Icon": "./src/Icon Rinze P SR 05.png",
         "Link": "https://shinycolors.info/wiki/【階段式純情昇降機】杜野凛世",
@@ -5683,6 +6181,8 @@
     {
         "Type": "Idol",
         "Category": "모리노 린제",
+        "Order": 12,
+        "Date": "",
         "Title": "【ふれんど日和】杜野凛世",
         "Icon": "./src/Icon Rinze S SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【ふれんど日和】杜野凛世",
@@ -5708,6 +6208,8 @@
     {
         "Type": "Idol",
         "Category": "모리노 린제",
+        "Order": 12,
+        "Date": "",
         "Title": "【凛世夕町物語】杜野凛世",
         "Icon": "./src/Icon Rinze S SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【凛世夕町物語】杜野凛世",
@@ -5729,6 +6231,8 @@
     {
         "Type": "Idol",
         "Category": "모리노 린제",
+        "Order": 12,
+        "Date": "",
         "Title": "【常夏CLIMAX】杜野凛世",
         "Icon": "./src/Icon Rinze S SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【常夏CLIMAX】杜野凛世",
@@ -5750,6 +6254,8 @@
     {
         "Type": "Idol",
         "Category": "모리노 린제",
+        "Order": 12,
+        "Date": "",
         "Title": "【夜明けの晩に】杜野凛世",
         "Icon": "./src/Icon Rinze S SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【夜明けの晩に】杜野凛世",
@@ -5771,6 +6277,8 @@
     {
         "Type": "Idol",
         "Category": "모리노 린제",
+        "Order": 12,
+        "Date": "",
         "Title": "【日を食んで、夜を啜って】杜野凛世",
         "Icon": "./src/Icon Rinze S SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【日を食んで、夜を啜って】杜野凛世",
@@ -5792,6 +6300,8 @@
     {
         "Type": "Idol",
         "Category": "모리노 린제",
+        "Order": 12,
+        "Date": "",
         "Title": "【祝唄-hogiuta-】杜野凛世",
         "Icon": "./src/Icon Rinze S SSR 06.png",
         "Link": "https://shinycolors.info/wiki/【祝唄-hogiuta-】杜野凛世",
@@ -5813,6 +6323,8 @@
     {
         "Type": "Idol",
         "Category": "모리노 린제",
+        "Order": 12,
+        "Date": "",
         "Title": "【百色ふぉとぐらふ】杜野凛世",
         "Icon": "./src/Icon Rinze S SR 01.png",
         "Link": "https://shinycolors.info/wiki/【百色ふぉとぐらふ】杜野凛世",
@@ -5834,6 +6346,8 @@
     {
         "Type": "Idol",
         "Category": "모리노 린제",
+        "Order": 12,
+        "Date": "",
         "Title": "【をとめ大学】杜野凛世",
         "Icon": "./src/Icon Rinze S SR 02.png",
         "Link": "https://shinycolors.info/wiki/【をとめ大学】杜野凛世",
@@ -5851,6 +6365,8 @@
     {
         "Type": "Idol",
         "Category": "모리노 린제",
+        "Order": 12,
+        "Date": "",
         "Title": "【をとめ辞典】杜野凛世",
         "Icon": "./src/Icon Rinze S SR 03.png",
         "Link": "https://shinycolors.info/wiki/【をとめ辞典】杜野凛世",
@@ -5868,6 +6384,8 @@
     {
         "Type": "Idol",
         "Category": "모리노 린제",
+        "Order": 12,
+        "Date": "",
         "Title": "【283プロのヒナ】杜野凛世",
         "Icon": "./src/Icon Rinze S R 01.png",
         "Link": "https://shinycolors.info/wiki/【283プロのヒナ】杜野凛世",
@@ -5885,6 +6403,8 @@
     {
         "Type": "Idol",
         "Category": "아리스가와 나츠하",
+        "Order": 13,
+        "Date": "",
         "Title": "【アルティメットマーメイド】有栖川夏葉",
         "Icon": "./src/Icon Natsuha P SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【アルティメットマーメイド】有栖川夏葉",
@@ -5914,6 +6434,8 @@
     {
         "Type": "Idol",
         "Category": "아리스가와 나츠하",
+        "Order": 13,
+        "Date": "",
         "Title": "【メイドインナツハ】有栖川夏葉",
         "Icon": "./src/Icon Natsuha P SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【メイドインナツハ】有栖川夏葉",
@@ -5943,6 +6465,8 @@
     {
         "Type": "Idol",
         "Category": "아리스가와 나츠하",
+        "Order": 13,
+        "Date": "",
         "Title": "【Ring a bell】有栖川夏葉",
         "Icon": "./src/Icon Natsuha P SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【Ring a bell】有栖川夏葉",
@@ -5972,6 +6496,8 @@
     {
         "Type": "Idol",
         "Category": "아리스가와 나츠하",
+        "Order": 13,
+        "Date": "",
         "Title": "【♡AKQJ10】有栖川夏葉",
         "Icon": "./src/Icon Natsuha P SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【♡AKQJ10】有栖川夏葉",
@@ -6001,6 +6527,8 @@
     {
         "Type": "Idol",
         "Category": "아리스가와 나츠하",
+        "Order": 13,
+        "Date": "",
         "Title": "【cheer+】有栖川夏葉",
         "Icon": "./src/Icon Natsuha P SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【cheer+】有栖川夏葉",
@@ -6030,6 +6558,8 @@
     {
         "Type": "Idol",
         "Category": "아리스가와 나츠하",
+        "Order": 13,
+        "Date": "",
         "Title": "【夏は来ぬ】有栖川夏葉",
         "Icon": "./src/Icon Natsuha P SSR 06.png",
         "Link": "https://shinycolors.info/wiki/【夏は来ぬ】有栖川夏葉",
@@ -6059,6 +6589,8 @@
     {
         "Type": "Idol",
         "Category": "아리스가와 나츠하",
+        "Order": 13,
+        "Date": "",
         "Title": "【ストイックトレーニング】有栖川夏葉",
         "Icon": "./src/Icon Natsuha P SR 01.png",
         "Link": "https://shinycolors.info/wiki/【ストイックトレーニング】有栖川夏葉",
@@ -6080,6 +6612,8 @@
     {
         "Type": "Idol",
         "Category": "아리스가와 나츠하",
+        "Order": 13,
+        "Date": "",
         "Title": "【カトレアの花言葉】有栖川夏葉",
         "Icon": "./src/Icon Natsuha P SR 02.png",
         "Link": "https://shinycolors.info/wiki/【カトレアの花言葉】有栖川夏葉",
@@ -6101,6 +6635,8 @@
     {
         "Type": "Idol",
         "Category": "아리스가와 나츠하",
+        "Order": 13,
+        "Date": "",
         "Title": "【鳥籠をひらいて】有栖川夏葉",
         "Icon": "./src/Icon Natsuha P SR 03.png",
         "Link": "https://shinycolors.info/wiki/【鳥籠をひらいて】有栖川夏葉",
@@ -6122,6 +6658,8 @@
     {
         "Type": "Idol",
         "Category": "아리스가와 나츠하",
+        "Order": 13,
+        "Date": "",
         "Title": "【風がかけていくように】有栖川夏葉",
         "Icon": "./src/Icon Natsuha P SR 04.png",
         "Link": "https://shinycolors.info/wiki/【風がかけていくように】有栖川夏葉",
@@ -6139,6 +6677,8 @@
     {
         "Type": "Idol",
         "Category": "아리스가와 나츠하",
+        "Order": 13,
+        "Date": "",
         "Title": "【熱血指導！】有栖川夏葉",
         "Icon": "./src/Icon Natsuha S SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【熱血指導！】有栖川夏葉",
@@ -6164,6 +6704,8 @@
     {
         "Type": "Idol",
         "Category": "아리스가와 나츠하",
+        "Order": 13,
+        "Date": "",
         "Title": "【遊びも本気で】有栖川夏葉",
         "Icon": "./src/Icon Natsuha S SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【遊びも本気で】有栖川夏葉",
@@ -6189,6 +6731,8 @@
     {
         "Type": "Idol",
         "Category": "아리스가와 나츠하",
+        "Order": 13,
+        "Date": "",
         "Title": "【＃ナッツ・チョコジェリー】有栖川夏葉",
         "Icon": "./src/Icon Natsuha S SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【＃ナッツ・チョコジェリー】有栖川夏葉",
@@ -6210,6 +6754,8 @@
     {
         "Type": "Idol",
         "Category": "아리스가와 나츠하",
+        "Order": 13,
+        "Date": "",
         "Title": "【月刊CLIMAX】有栖川夏葉",
         "Icon": "./src/Icon Natsuha S SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【月刊CLIMAX】有栖川夏葉",
@@ -6231,6 +6777,8 @@
     {
         "Type": "Idol",
         "Category": "아리스가와 나츠하",
+        "Order": 13,
+        "Date": "",
         "Title": "【Sr×Ba×Cu＝】有栖川夏葉",
         "Icon": "./src/Icon Natsuha S SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【Sr×Ba×Cu＝】有栖川夏葉",
@@ -6252,6 +6800,8 @@
     {
         "Type": "Idol",
         "Category": "아리스가와 나츠하",
+        "Order": 13,
+        "Date": "",
         "Title": "【ビードロの翳】有栖川夏葉",
         "Icon": "./src/Icon Natsuha S SSR 06.png",
         "Link": "https://shinycolors.info/wiki/【ビードロの翳】有栖川夏葉",
@@ -6273,6 +6823,8 @@
     {
         "Type": "Idol",
         "Category": "아리스가와 나츠하",
+        "Order": 13,
+        "Date": "",
         "Title": "【虹待ちレインドロップ】有栖川夏葉",
         "Icon": "./src/Icon Natsuha S SR 01.png",
         "Link": "https://shinycolors.info/wiki/【虹待ちレインドロップ】有栖川夏葉",
@@ -6290,6 +6842,8 @@
     {
         "Type": "Idol",
         "Category": "아리스가와 나츠하",
+        "Order": 13,
+        "Date": "",
         "Title": "【紅いろは、白】有栖川夏葉",
         "Icon": "./src/Icon Natsuha S SR 02.png",
         "Link": "https://shinycolors.info/wiki/【紅いろは、白】有栖川夏葉",
@@ -6307,6 +6861,8 @@
     {
         "Type": "Idol",
         "Category": "아리스가와 나츠하",
+        "Order": 13,
+        "Date": "",
         "Title": "【スタンド・バイ】有栖川夏葉",
         "Icon": "./src/Icon Natsuha S SR 03.png",
         "Link": "https://shinycolors.info/wiki/【スタンド・バイ】有栖川夏葉",
@@ -6324,6 +6880,8 @@
     {
         "Type": "Idol",
         "Category": "아리스가와 나츠하",
+        "Order": 13,
+        "Date": "",
         "Title": "【夢追いランナバウト】有栖川夏葉",
         "Icon": "./src/Icon Natsuha S SR 04.png",
         "Link": "https://shinycolors.info/wiki/【夢追いランナバウト】有栖川夏葉",
@@ -6341,6 +6899,8 @@
     {
         "Type": "Idol",
         "Category": "아리스가와 나츠하",
+        "Order": 13,
+        "Date": "",
         "Title": "【283プロのヒナ】有栖川夏葉",
         "Icon": "./src/Icon Natsuha S R 01.png",
         "Link": "https://shinycolors.info/wiki/【283プロのヒナ】有栖川夏葉",
@@ -6358,6 +6918,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 아마나",
+        "Order": 14,
+        "Date": "",
         "Title": "【スタンバイオッケー】大崎甘奈",
         "Icon": "./src/Icon Amana P SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【スタンバイオッケー】大崎甘奈",
@@ -6387,6 +6949,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 아마나",
+        "Order": 14,
+        "Date": "",
         "Title": "【ゆらゆらアクアリウム】大崎甘奈",
         "Icon": "./src/Icon Amana P SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【ゆらゆらアクアリウム】大崎甘奈",
@@ -6416,6 +6980,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 아마나",
+        "Order": 14,
+        "Date": "",
         "Title": "【ないしょのスイーツ】大崎甘奈",
         "Icon": "./src/Icon Amana P SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【ないしょのスイーツ】大崎甘奈",
@@ -6445,6 +7011,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 아마나",
+        "Order": 14,
+        "Date": "",
         "Title": "【お散歩サンライト】大崎甘奈",
         "Icon": "./src/Icon Amana P SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【お散歩サンライト】大崎甘奈",
@@ -6474,6 +7042,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 아마나",
+        "Order": 14,
+        "Date": "",
         "Title": "【叶えて☆ゴールドフィッシュ】大崎甘奈",
         "Icon": "./src/Icon Amana P SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【叶えて☆ゴールドフィッシュ】大崎甘奈",
@@ -6503,6 +7073,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 아마나",
+        "Order": 14,
+        "Date": "",
         "Title": "【約束ペタル】大崎甘奈",
         "Icon": "./src/Icon Amana P SSR 06.png",
         "Link": "https://shinycolors.info/wiki/【約束ペタル】大崎甘奈",
@@ -6532,6 +7104,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 아마나",
+        "Order": 14,
+        "Date": "",
         "Title": "【似合うかな？】大崎甘奈",
         "Icon": "./src/Icon Amana P SR 01.png",
         "Link": "https://shinycolors.info/wiki/【似合うかな？】大崎甘奈",
@@ -6553,6 +7127,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 아마나",
+        "Order": 14,
+        "Date": "",
         "Title": "【甜花ちゃんといっしょ☆】大崎甘奈",
         "Icon": "./src/Icon Amana P SR 02.png",
         "Link": "https://shinycolors.info/wiki/【甜花ちゃんといっしょ☆】大崎甘奈",
@@ -6574,6 +7150,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 아마나",
+        "Order": 14,
+        "Date": "",
         "Title": "【ふたつの雨】大崎甘奈",
         "Icon": "./src/Icon Amana P SR 03.png",
         "Link": "https://shinycolors.info/wiki/【ふたつの雨】大崎甘奈",
@@ -6591,6 +7169,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 아마나",
+        "Order": 14,
+        "Date": "",
         "Title": "【見つけたい、だけど……】大崎甘奈",
         "Icon": "./src/Icon Amana P SR 04.png",
         "Link": "https://shinycolors.info/wiki/【見つけたい、だけど……】大崎甘奈",
@@ -6608,6 +7188,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 아마나",
+        "Order": 14,
+        "Date": "",
         "Title": "【幸せのりんご飴】大崎甘奈",
         "Icon": "./src/Icon Amana S SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【幸せのりんご飴】大崎甘奈",
@@ -6629,6 +7211,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 아마나",
+        "Order": 14,
+        "Date": "",
         "Title": "【まだ……寝ないから……】大崎甘奈",
         "Icon": "./src/Icon Amana S SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【まだ……寝ないから……】大崎甘奈",
@@ -6650,6 +7234,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 아마나",
+        "Order": 14,
+        "Date": "",
         "Title": "【お菓子なティータイム】大崎甘奈",
         "Icon": "./src/Icon Amana S SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【お菓子なティータイム】大崎甘奈",
@@ -6671,6 +7257,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 아마나",
+        "Order": 14,
+        "Date": "",
         "Title": "【ハッピーの答えはどこに？】大崎甘奈",
         "Icon": "./src/Icon Amana S SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【ハッピーの答えはどこに？】大崎甘奈",
@@ -6692,6 +7280,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 아마나",
+        "Order": 14,
+        "Date": "",
         "Title": "【Cherry Jelly】大崎甘奈",
         "Icon": "./src/Icon Amana S SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【Cherry Jelly】大崎甘奈",
@@ -6713,6 +7303,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 아마나",
+        "Order": 14,
+        "Date": "",
         "Title": "【スペンサー家の日常】大崎甘奈",
         "Icon": "./src/Icon Amana S SSR 06.png",
         "Link": "https://shinycolors.info/wiki/【スペンサー家の日常】大崎甘奈",
@@ -6734,6 +7326,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 아마나",
+        "Order": 14,
+        "Date": "",
         "Title": "【ever-】大崎甘奈",
         "Icon": "./src/Icon Amana S SSR 07.png",
         "Link": "https://shinycolors.info/wiki/【ever-】大崎甘奈",
@@ -6755,6 +7349,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 아마나",
+        "Order": 14,
+        "Date": "",
         "Title": "【レッツ☆忍び足！】大崎甘奈",
         "Icon": "./src/Icon Amana S SSR 08.png",
         "Link": "https://shinycolors.info/wiki/【レッツ☆忍び足！】大崎甘奈",
@@ -6776,6 +7372,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 아마나",
+        "Order": 14,
+        "Date": "",
         "Title": "【秘密のがんばり】大崎甘奈",
         "Icon": "./src/Icon Amana S SR 01.png",
         "Link": "https://shinycolors.info/wiki/【秘密のがんばり】大崎甘奈",
@@ -6797,6 +7395,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 아마나",
+        "Order": 14,
+        "Date": "",
         "Title": "【光の想い出】大崎甘奈",
         "Icon": "./src/Icon Amana S SR 02.png",
         "Link": "https://shinycolors.info/wiki/【光の想い出】大崎甘奈",
@@ -6814,6 +7414,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 아마나",
+        "Order": 14,
+        "Date": "",
         "Title": "【冬の日の『贈り物』】大崎甘奈",
         "Icon": "./src/Icon Amana S SR 03.png",
         "Link": "https://shinycolors.info/wiki/【冬の日の『贈り物』】大崎甘奈",
@@ -6831,6 +7433,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 아마나",
+        "Order": 14,
+        "Date": "",
         "Title": "【283プロのヒナ】大崎甘奈",
         "Icon": "./src/Icon Amana S R 01.png",
         "Link": "https://shinycolors.info/wiki/【283プロのヒナ】大崎甘奈",
@@ -6848,6 +7452,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 텐카",
+        "Order": 15,
+        "Date": "",
         "Title": "【事務所。静寂。大輪の華】大崎甜花",
         "Icon": "./src/Icon Tenka P SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【事務所。静寂。大輪の華】大崎甜花",
@@ -6877,6 +7483,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 텐카",
+        "Order": 15,
+        "Date": "",
         "Title": "【好きなものはなんですか？】大崎甜花",
         "Icon": "./src/Icon Tenka P SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【好きなものはなんですか？】大崎甜花",
@@ -6906,6 +7514,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 텐카",
+        "Order": 15,
+        "Date": "",
         "Title": "【I♡DOLL】大崎甜花",
         "Icon": "./src/Icon Tenka P SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【I♡DOLL】大崎甜花",
@@ -6935,6 +7545,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 텐카",
+        "Order": 15,
+        "Date": "",
         "Title": "【四夜一夜物語】大崎甜花",
         "Icon": "./src/Icon Tenka P SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【四夜一夜物語】大崎甜花",
@@ -6964,6 +7576,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 텐카",
+        "Order": 15,
+        "Date": "",
         "Title": "【BON・BON・DAY！】大崎甜花",
         "Icon": "./src/Icon Tenka P SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【BON・BON・DAY！】大崎甜花",
@@ -6993,6 +7607,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 텐카",
+        "Order": 15,
+        "Date": "",
         "Title": "【バス・タイムの気分で】大崎甜花",
         "Icon": "./src/Icon Tenka P SSR 06.png",
         "Link": "https://shinycolors.info/wiki/【バス・タイムの気分で】大崎甜花",
@@ -7022,6 +7638,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 텐카",
+        "Order": 15,
+        "Date": "",
         "Title": "【秘密のだらだらタイム】大崎甜花",
         "Icon": "./src/Icon Tenka P SR 01.png",
         "Link": "https://shinycolors.info/wiki/【秘密のだらだらタイム】大崎甜花",
@@ -7043,6 +7661,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 텐카",
+        "Order": 15,
+        "Date": "",
         "Title": "【シンメトリー・プールサイド】大崎甜花",
         "Icon": "./src/Icon Tenka P SR 02.png",
         "Link": "https://shinycolors.info/wiki/【シンメトリー・プールサイド】大崎甜花",
@@ -7060,6 +7680,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 텐카",
+        "Order": 15,
+        "Date": "",
         "Title": "【氷上バンビーナ】大崎甜花",
         "Icon": "./src/Icon Tenka P SR 03.png",
         "Link": "https://shinycolors.info/wiki/【氷上バンビーナ】大崎甜花",
@@ -7081,6 +7703,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 텐카",
+        "Order": 15,
+        "Date": "",
         "Title": "【お日様染めのマリーナ】大崎甜花",
         "Icon": "./src/Icon Tenka P SR 04.png",
         "Link": "https://shinycolors.info/wiki/【お日様染めのマリーナ】大崎甜花",
@@ -7102,6 +7726,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 텐카",
+        "Order": 15,
+        "Date": "",
         "Title": "【ストライク狙って】大崎甜花",
         "Icon": "./src/Icon Tenka P SR 05.png",
         "Link": "https://shinycolors.info/wiki/【ストライク狙って】大崎甜花",
@@ -7119,6 +7745,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 텐카",
+        "Order": 15,
+        "Date": "",
         "Title": "【彩りファッションドール】大崎甜花",
         "Icon": "./src/Icon Tenka S SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【彩りファッションドール】大崎甜花",
@@ -7144,6 +7772,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 텐카",
+        "Order": 15,
+        "Date": "",
         "Title": "【身支度はお任せ☆】大崎甜花",
         "Icon": "./src/Icon Tenka S SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【身支度はお任せ☆】大崎甜花",
@@ -7169,6 +7799,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 텐카",
+        "Order": 15,
+        "Date": "",
         "Title": "【かしまし、みっつの願いごと】大崎甜花",
         "Icon": "./src/Icon Tenka S SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【かしまし、みっつの願いごと】大崎甜花",
@@ -7190,6 +7822,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 텐카",
+        "Order": 15,
+        "Date": "",
         "Title": "【トゥインクル・トゥインクル】大崎甜花",
         "Icon": "./src/Icon Tenka S SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【トゥインクル・トゥインクル】大崎甜花",
@@ -7211,6 +7845,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 텐카",
+        "Order": 15,
+        "Date": "",
         "Title": "【見果てぬ先のアヴァロン】大崎甜花",
         "Icon": "./src/Icon Tenka S SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【見果てぬ先のアヴァロン】大崎甜花",
@@ -7232,6 +7868,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 텐카",
+        "Order": 15,
+        "Date": "",
         "Title": "【リトル・スターズ】大崎甜花",
         "Icon": "./src/Icon Tenka S SSR 06.png",
         "Link": "https://shinycolors.info/wiki/【リトル・スターズ】大崎甜花",
@@ -7253,6 +7891,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 텐카",
+        "Order": 15,
+        "Date": "",
         "Title": "【アイ・セーブ・ユー】大崎甜花",
         "Icon": "./src/Icon Tenka S SR 01.png",
         "Link": "https://shinycolors.info/wiki/【アイ・セーブ・ユー】大崎甜花",
@@ -7270,6 +7910,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 텐카",
+        "Order": 15,
+        "Date": "",
         "Title": "【楽園に背く】大崎甜花",
         "Icon": "./src/Icon Tenka S SR 02.png",
         "Link": "https://shinycolors.info/wiki/【楽園に背く】大崎甜花",
@@ -7287,6 +7929,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 텐카",
+        "Order": 15,
+        "Date": "",
         "Title": "【Summer for Us】大崎甜花",
         "Icon": "./src/Icon Tenka S SR 03.png",
         "Link": "https://shinycolors.info/wiki/【Summer for Us】大崎甜花",
@@ -7304,6 +7948,8 @@
     {
         "Type": "Idol",
         "Category": "오사키 텐카",
+        "Order": 15,
+        "Date": "",
         "Title": "【283プロのヒナ】大崎甜花",
         "Icon": "./src/Icon Tenka S R 01.png",
         "Link": "https://shinycolors.info/wiki/【283プロのヒナ】大崎甜花",
@@ -7321,6 +7967,8 @@
     {
         "Type": "Idol",
         "Category": "쿠와야마 치유키",
+        "Order": 16,
+        "Date": "",
         "Title": "【マイ・ピュア・ロマンス】桑山千雪",
         "Icon": "./src/Icon Chiyuki P SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【マイ・ピュア・ロマンス】桑山千雪",
@@ -7350,6 +7998,8 @@
     {
         "Type": "Idol",
         "Category": "쿠와야마 치유키",
+        "Order": 16,
+        "Date": "",
         "Title": "【シークレット・ヒロイン】桑山千雪",
         "Icon": "./src/Icon Chiyuki P SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【シークレット・ヒロイン】桑山千雪",
@@ -7379,6 +8029,8 @@
     {
         "Type": "Idol",
         "Category": "쿠와야마 치유키",
+        "Order": 16,
+        "Date": "",
         "Title": "【サマーハニー・シーズン】桑山千雪",
         "Icon": "./src/Icon Chiyuki P SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【サマーハニー・シーズン】桑山千雪",
@@ -7408,6 +8060,8 @@
     {
         "Type": "Idol",
         "Category": "쿠와야마 치유키",
+        "Order": 16,
+        "Date": "",
         "Title": "【はるかぜまち、1番地】桑山千雪",
         "Icon": "./src/Icon Chiyuki P SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【はるかぜまち、1番地】桑山千雪",
@@ -7437,6 +8091,8 @@
     {
         "Type": "Idol",
         "Category": "쿠와야마 치유키",
+        "Order": 16,
+        "Date": "",
         "Title": "【秋空と紅葉】桑山千雪",
         "Icon": "./src/Icon Chiyuki P SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【秋空と紅葉】桑山千雪",
@@ -7466,6 +8122,8 @@
     {
         "Type": "Idol",
         "Category": "쿠와야마 치유키",
+        "Order": 16,
+        "Date": "",
         "Title": "【ハッピー・アイ・スクリーム】桑山千雪",
         "Icon": "./src/Icon Chiyuki P SSR 06.png",
         "Link": "https://shinycolors.info/wiki/【ハッピー・アイ・スクリーム】桑山千雪",
@@ -7495,6 +8153,8 @@
     {
         "Type": "Idol",
         "Category": "쿠와야마 치유키",
+        "Order": 16,
+        "Date": "",
         "Title": "【マイフェイバリット】桑山千雪",
         "Icon": "./src/Icon Chiyuki P SR 01.png",
         "Link": "https://shinycolors.info/wiki/【マイフェイバリット】桑山千雪",
@@ -7516,6 +8176,8 @@
     {
         "Type": "Idol",
         "Category": "쿠와야마 치유키",
+        "Order": 16,
+        "Date": "",
         "Title": "【一夏一刻物語】桑山千雪",
         "Icon": "./src/Icon Chiyuki P SR 02.png",
         "Link": "https://shinycolors.info/wiki/【一夏一刻物語】桑山千雪",
@@ -7537,6 +8199,8 @@
     {
         "Type": "Idol",
         "Category": "쿠와야마 치유키",
+        "Order": 16,
+        "Date": "",
         "Title": "【よそゆき顔のセレナーデ】桑山千雪",
         "Icon": "./src/Icon Chiyuki P SR 03.png",
         "Link": "https://shinycolors.info/wiki/【よそゆき顔のセレナーデ】桑山千雪",
@@ -7554,6 +8218,8 @@
     {
         "Type": "Idol",
         "Category": "쿠와야마 치유키",
+        "Order": 16,
+        "Date": "",
         "Title": "【よそゆき顔のセレナーデ】桑山千雪",
         "Icon": "./src/Icon Chiyuki P SR 04.png",
         "Link": "https://shinycolors.info/wiki/【よそゆき顔のセレナーデ】桑山千雪",
@@ -7571,6 +8237,8 @@
     {
         "Type": "Idol",
         "Category": "쿠와야마 치유키",
+        "Order": 16,
+        "Date": "",
         "Title": "【先生のお時間】桑山千雪",
         "Icon": "./src/Icon Chiyuki S SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【先生のお時間】桑山千雪",
@@ -7596,6 +8264,8 @@
     {
         "Type": "Idol",
         "Category": "쿠와야마 치유키",
+        "Order": 16,
+        "Date": "",
         "Title": "【永遠のCarol】桑山千雪",
         "Icon": "./src/Icon Chiyuki S SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【永遠のCarol】桑山千雪",
@@ -7617,6 +8287,8 @@
     {
         "Type": "Idol",
         "Category": "쿠와야마 치유키",
+        "Order": 16,
+        "Date": "",
         "Title": "【トキ・メキ・タコさん】桑山千雪",
         "Icon": "./src/Icon Chiyuki S SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【トキ・メキ・タコさん】桑山千雪",
@@ -7638,6 +8310,8 @@
     {
         "Type": "Idol",
         "Category": "쿠와야마 치유키",
+        "Order": 16,
+        "Date": "",
         "Title": "【ウォーム・スノウ】桑山千雪",
         "Icon": "./src/Icon Chiyuki S SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【ウォーム・スノウ】桑山千雪",
@@ -7659,6 +8333,8 @@
     {
         "Type": "Idol",
         "Category": "쿠와야마 치유키",
+        "Order": 16,
+        "Date": "",
         "Title": "【ドゥワッチャラブ！】桑山千雪",
         "Icon": "./src/Icon Chiyuki S SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【ドゥワッチャラブ！】桑山千雪",
@@ -7680,6 +8356,8 @@
     {
         "Type": "Idol",
         "Category": "쿠와야마 치유키",
+        "Order": 16,
+        "Date": "",
         "Title": "【夏空への挑戦】桑山千雪",
         "Icon": "./src/Icon Chiyuki S SSR 06.png",
         "Link": "https://shinycolors.info/wiki/【夏空への挑戦】桑山千雪",
@@ -7701,6 +8379,8 @@
     {
         "Type": "Idol",
         "Category": "쿠와야마 치유키",
+        "Order": 16,
+        "Date": "",
         "Title": "【ブルーミングハート】桑山千雪",
         "Icon": "./src/Icon Chiyuki S SR 01.png",
         "Link": "https://shinycolors.info/wiki/【ブルーミングハート】桑山千雪",
@@ -7722,6 +8402,8 @@
     {
         "Type": "Idol",
         "Category": "쿠와야마 치유키",
+        "Order": 16,
+        "Date": "",
         "Title": "【こころに恋】桑山千雪",
         "Icon": "./src/Icon Chiyuki S SR 02.png",
         "Link": "https://shinycolors.info/wiki/【こころに恋】桑山千雪",
@@ -7739,6 +8421,8 @@
     {
         "Type": "Idol",
         "Category": "쿠와야마 치유키",
+        "Order": 16,
+        "Date": "",
         "Title": "【RELAXIN】桑山千雪",
         "Icon": "./src/Icon Chiyuki S SR 03.png",
         "Link": "https://shinycolors.info/wiki/【RELAXIN】桑山千雪",
@@ -7756,6 +8440,8 @@
     {
         "Type": "Idol",
         "Category": "쿠와야마 치유키",
+        "Order": 16,
+        "Date": "",
         "Title": "【好き、っていうのはね】桑山千雪",
         "Icon": "./src/Icon Chiyuki S SR 04.png",
         "Link": "https://shinycolors.info/wiki/【好き、っていうのはね】桑山千雪",
@@ -7773,6 +8459,8 @@
     {
         "Type": "Idol",
         "Category": "쿠와야마 치유키",
+        "Order": 16,
+        "Date": "",
         "Title": "【283プロのヒナ】桑山千雪",
         "Icon": "./src/Icon Chiyuki S R 01.png",
         "Link": "https://shinycolors.info/wiki/【283プロのヒナ】桑山千雪",
@@ -7790,6 +8478,8 @@
     {
         "Type": "Idol",
         "Category": "세리자와 아사히",
+        "Order": 17,
+        "Date": "",
         "Title": "【ジャンプ！スタッグ！！！】芹沢あさひ",
         "Icon": "./src/Icon Asahi P SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【ジャンプ！スタッグ！！！】芹沢あさひ",
@@ -7819,6 +8509,8 @@
     {
         "Type": "Idol",
         "Category": "세리자와 아사히",
+        "Order": 17,
+        "Date": "",
         "Title": "【空と青とアイツ】芹沢あさひ",
         "Icon": "./src/Icon Asahi P SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【空と青とアイツ】芹沢あさひ",
@@ -7848,6 +8540,8 @@
     {
         "Type": "Idol",
         "Category": "세리자와 아사히",
+        "Order": 17,
+        "Date": "",
         "Title": "【不機嫌なテーマパーク】芹沢あさひ",
         "Icon": "./src/Icon Asahi P SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【不機嫌なテーマパーク】芹沢あさひ",
@@ -7877,6 +8571,8 @@
     {
         "Type": "Idol",
         "Category": "세리자와 아사히",
+        "Order": 17,
+        "Date": "",
         "Title": "【Housekeeping!】芹沢あさひ",
         "Icon": "./src/Icon Asahi P SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【Housekeeping!】芹沢あさひ",
@@ -7906,6 +8602,8 @@
     {
         "Type": "Idol",
         "Category": "세리자와 아사히",
+        "Order": 17,
+        "Date": "",
         "Title": "【さかさま世界】芹沢あさひ",
         "Icon": "./src/Icon Asahi P SR 01.png",
         "Link": "https://shinycolors.info/wiki/【さかさま世界】芹沢あさひ",
@@ -7927,6 +8625,8 @@
     {
         "Type": "Idol",
         "Category": "세리자와 아사히",
+        "Order": 17,
+        "Date": "",
         "Title": "【かしゃーんとがらがら】芹沢あさひ",
         "Icon": "./src/Icon Asahi P SR 02.png",
         "Link": "https://shinycolors.info/wiki/【かしゃーんとがらがら】芹沢あさひ",
@@ -7944,6 +8644,8 @@
     {
         "Type": "Idol",
         "Category": "세리자와 아사히",
+        "Order": 17,
+        "Date": "",
         "Title": "【はり・はり】芹沢あさひ",
         "Icon": "./src/Icon Asahi P SR 03.png",
         "Link": "https://shinycolors.info/wiki/【はり・はり】芹沢あさひ",
@@ -7961,6 +8663,8 @@
     {
         "Type": "Idol",
         "Category": "세리자와 아사히",
+        "Order": 17,
+        "Date": "",
         "Title": "【プレゼン・バトン！】芹沢あさひ",
         "Icon": "./src/Icon Asahi S SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【プレゼン・バトン！】芹沢あさひ",
@@ -7982,6 +8686,8 @@
     {
         "Type": "Idol",
         "Category": "세리자와 아사히",
+        "Order": 17,
+        "Date": "",
         "Title": "【あめ、ゆき、はれ】芹沢あさひ",
         "Icon": "./src/Icon Asahi S SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【あめ、ゆき、はれ】芹沢あさひ",
@@ -8003,6 +8709,8 @@
     {
         "Type": "Idol",
         "Category": "세리자와 아사히",
+        "Order": 17,
+        "Date": "",
         "Title": "【今日の手は空を切らない】芹沢あさひ",
         "Icon": "./src/Icon Asahi S SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【今日の手は空を切らない】芹沢あさひ",
@@ -8024,6 +8732,8 @@
     {
         "Type": "Idol",
         "Category": "세리자와 아사히",
+        "Order": 17,
+        "Date": "",
         "Title": "【ゴースト・サイド！】芹沢あさひ",
         "Icon": "./src/Icon Asahi S SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【ゴースト・サイド！】芹沢あさひ",
@@ -8045,6 +8755,8 @@
     {
         "Type": "Idol",
         "Category": "세리자와 아사히",
+        "Order": 17,
+        "Date": "",
         "Title": "【腹が減っては遊びはできぬ】芹沢あさひ",
         "Icon": "./src/Icon Asahi S SR 01.png",
         "Link": "https://shinycolors.info/wiki/【腹が減っては遊びはできぬ】芹沢あさひ",
@@ -8062,6 +8774,8 @@
     {
         "Type": "Idol",
         "Category": "세리자와 아사히",
+        "Order": 17,
+        "Date": "",
         "Title": "【花火の夜に……】芹沢あさひ",
         "Icon": "./src/Icon Asahi S SR 02.png",
         "Link": "https://shinycolors.info/wiki/【花火の夜に……】芹沢あさひ",
@@ -8079,6 +8793,8 @@
     {
         "Type": "Idol",
         "Category": "세리자와 아사히",
+        "Order": 17,
+        "Date": "",
         "Title": "【頬を照らすのは】芹沢あさひ",
         "Icon": "./src/Icon Asahi S SR 03.png",
         "Link": "https://shinycolors.info/wiki/【頬を照らすのは】芹沢あさひ",
@@ -8096,6 +8812,8 @@
     {
         "Type": "Idol",
         "Category": "세리자와 아사히",
+        "Order": 17,
+        "Date": "",
         "Title": "【283プロのヒナ】芹沢あさひ",
         "Icon": "./src/Icon Asahi S R 01.png",
         "Link": "https://shinycolors.info/wiki/【283プロのヒナ】芹沢あさひ",
@@ -8113,6 +8831,8 @@
     {
         "Type": "Idol",
         "Category": "마유즈미 후유코",
+        "Order": 18,
+        "Date": "",
         "Title": "【オ♡フ♡レ♡コ】黛冬優子",
         "Icon": "./src/Icon Fuyuko P SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【オ♡フ♡レ♡コ】黛冬優子",
@@ -8142,6 +8862,8 @@
     {
         "Type": "Idol",
         "Category": "마유즈미 후유코",
+        "Order": 18,
+        "Date": "",
         "Title": "【アンシーン・ダブルキャスト】黛冬優子",
         "Icon": "./src/Icon Fuyuko P SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【アンシーン・ダブルキャスト】黛冬優子",
@@ -8171,6 +8893,8 @@
     {
         "Type": "Idol",
         "Category": "마유즈미 후유코",
+        "Order": 18,
+        "Date": "",
         "Title": "【starring F】黛冬優子",
         "Icon": "./src/Icon Fuyuko P SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【starring F】黛冬優子",
@@ -8200,6 +8924,8 @@
     {
         "Type": "Idol",
         "Category": "마유즈미 후유코",
+        "Order": 18,
+        "Date": "",
         "Title": "【ONSTAGE？】黛冬優子",
         "Icon": "./src/Icon Fuyuko P SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【ONSTAGE？】黛冬優子",
@@ -8229,6 +8955,8 @@
     {
         "Type": "Idol",
         "Category": "마유즈미 후유코",
+        "Order": 18,
+        "Date": "",
         "Title": "【ザ・冬優子イズム】黛冬優子",
         "Icon": "./src/Icon Fuyuko P SR 01.png",
         "Link": "https://shinycolors.info/wiki/【ザ・冬優子イズム】黛冬優子",
@@ -8250,6 +8978,8 @@
     {
         "Type": "Idol",
         "Category": "마유즈미 후유코",
+        "Order": 18,
+        "Date": "",
         "Title": "【水×天カイヤナイト】黛冬優子",
         "Icon": "./src/Icon Fuyuko P SR 02.png",
         "Link": "https://shinycolors.info/wiki/【水×天カイヤナイト】黛冬優子",
@@ -8267,6 +8997,8 @@
     {
         "Type": "Idol",
         "Category": "마유즈미 후유코",
+        "Order": 18,
+        "Date": "",
         "Title": "【はるさき可憐花】黛冬優子",
         "Icon": "./src/Icon Fuyuko P SR 03.png",
         "Link": "https://shinycolors.info/wiki/【はるさき可憐花】黛冬優子",
@@ -8284,6 +9016,8 @@
     {
         "Type": "Idol",
         "Category": "마유즈미 후유코",
+        "Order": 18,
+        "Date": "",
         "Title": "【スパイシーベリィデコレイト】黛冬優子",
         "Icon": "./src/Icon Fuyuko S SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【スパイシーベリィデコレイト】黛冬優子",
@@ -8305,6 +9039,8 @@
     {
         "Type": "Idol",
         "Category": "마유즈미 후유코",
+        "Order": 18,
+        "Date": "",
         "Title": "【ノー墨・勝者フェイス】黛冬優子",
         "Icon": "./src/Icon Fuyuko S SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【ノー墨・勝者フェイス】黛冬優子",
@@ -8326,6 +9062,8 @@
     {
         "Type": "Idol",
         "Category": "마유즈미 후유코",
+        "Order": 18,
+        "Date": "",
         "Title": "【＠ストーリィズ】黛冬優子",
         "Icon": "./src/Icon Fuyuko S SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【＠ストーリィズ】黛冬優子",
@@ -8347,6 +9085,8 @@
     {
         "Type": "Idol",
         "Category": "마유즈미 후유코",
+        "Order": 18,
+        "Date": "",
         "Title": "【×トリック／〇＿＿＿＿】黛冬優子",
         "Icon": "./src/Icon Fuyuko S SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【×トリック／〇＿＿＿＿】黛冬優子",
@@ -8368,6 +9108,8 @@
     {
         "Type": "Idol",
         "Category": "마유즈미 후유코",
+        "Order": 18,
+        "Date": "",
         "Title": "【One Two...♡】黛冬優子",
         "Icon": "./src/Icon Fuyuko S SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【One Two...♡】黛冬優子",
@@ -8385,6 +9127,8 @@
     {
         "Type": "Idol",
         "Category": "마유즈미 후유코",
+        "Order": 18,
+        "Date": "",
         "Title": "【(ノージャンル)グラヴィティ】黛冬優子",
         "Icon": "./src/Icon Fuyuko S SR 01.png",
         "Link": "https://shinycolors.info/wiki/【(ノージャンル)グラヴィティ】黛冬優子",
@@ -8402,6 +9146,8 @@
     {
         "Type": "Idol",
         "Category": "마유즈미 후유코",
+        "Order": 18,
+        "Date": "",
         "Title": "【283プロのヒナ】黛冬優子",
         "Icon": "./src/Icon Fuyuko S R 01.png",
         "Link": "https://shinycolors.info/wiki/【283プロのヒナ】黛冬優子",
@@ -8419,6 +9165,8 @@
     {
         "Type": "Idol",
         "Category": "이즈미 메이",
+        "Order": 19,
+        "Date": "",
         "Title": "【ちょっとあげる～】和泉愛依",
         "Icon": "./src/Icon Mei P SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【ちょっとあげる～】和泉愛依",
@@ -8448,6 +9196,8 @@
     {
         "Type": "Idol",
         "Category": "이즈미 메이",
+        "Order": 19,
+        "Date": "",
         "Title": "【メイ・ビー】和泉愛依",
         "Icon": "./src/Icon Mei P SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【メイ・ビー】和泉愛依",
@@ -8477,6 +9227,8 @@
     {
         "Type": "Idol",
         "Category": "이즈미 메이",
+        "Order": 19,
+        "Date": "",
         "Title": "【シャッターチャンス！？】和泉愛依",
         "Icon": "./src/Icon Mei P SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【シャッターチャンス！？】和泉愛依",
@@ -8506,6 +9258,8 @@
     {
         "Type": "Idol",
         "Category": "이즈미 메이",
+        "Order": 19,
+        "Date": "",
         "Title": "【今のうちは走らない】和泉愛依",
         "Icon": "./src/Icon Mei P SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【今のうちは走らない】和泉愛依",
@@ -8535,6 +9289,8 @@
     {
         "Type": "Idol",
         "Category": "이즈미 메이",
+        "Order": 19,
+        "Date": "",
         "Title": "【気になる！？染めちゃう！？】和泉愛依",
         "Icon": "./src/Icon Mei P SR 01.png",
         "Link": "https://shinycolors.info/wiki/【気になる！？染めちゃう！？】和泉愛依",
@@ -8556,6 +9312,8 @@
     {
         "Type": "Idol",
         "Category": "이즈미 메이",
+        "Order": 19,
+        "Date": "",
         "Title": "【てへっ♪】和泉愛依",
         "Icon": "./src/Icon Mei P SR 02.png",
         "Link": "https://shinycolors.info/wiki/【てへっ♪】和泉愛依",
@@ -8573,6 +9331,8 @@
     {
         "Type": "Idol",
         "Category": "이즈미 메이",
+        "Order": 19,
+        "Date": "",
         "Title": "【ご褒美、いるよね♪】和泉愛依",
         "Icon": "./src/Icon Mei P SR 03.png",
         "Link": "https://shinycolors.info/wiki/【ご褒美、いるよね♪】和泉愛依",
@@ -8590,6 +9350,8 @@
     {
         "Type": "Idol",
         "Category": "이즈미 메이",
+        "Order": 19,
+        "Date": "",
         "Title": "【なるんじゃん？】和泉愛依",
         "Icon": "./src/Icon Mei S SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【なるんじゃん？】和泉愛依",
@@ -8611,6 +9373,8 @@
     {
         "Type": "Idol",
         "Category": "이즈미 메이",
+        "Order": 19,
+        "Date": "",
         "Title": "【うち来る～！？】和泉愛依",
         "Icon": "./src/Icon Mei S SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【うち来る～！？】和泉愛依",
@@ -8632,6 +9396,8 @@
     {
         "Type": "Idol",
         "Category": "이즈미 메이",
+        "Order": 19,
+        "Date": "",
         "Title": "【エンジョイ！パーティ】和泉愛依",
         "Icon": "./src/Icon Mei S SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【エンジョイ！パーティ】和泉愛依",
@@ -8653,6 +9419,8 @@
     {
         "Type": "Idol",
         "Category": "이즈미 메이",
+        "Order": 19,
+        "Date": "",
         "Title": "【いるっしょ！】和泉愛依",
         "Icon": "./src/Icon Mei S SSR 04.png",
         "Link": "https://shinycolors.info/wiki/【いるっしょ！】和泉愛依",
@@ -8674,6 +9442,8 @@
     {
         "Type": "Idol",
         "Category": "이즈미 메이",
+        "Order": 19,
+        "Date": "",
         "Title": "【よしよし♪】和泉愛依",
         "Icon": "./src/Icon Mei S SSR 05.png",
         "Link": "https://shinycolors.info/wiki/【よしよし♪】和泉愛依",
@@ -8695,6 +9465,8 @@
     {
         "Type": "Idol",
         "Category": "이즈미 메이",
+        "Order": 19,
+        "Date": "",
         "Title": "【和泉流・書道心得】和泉愛依",
         "Icon": "./src/Icon Mei S SR 01.png",
         "Link": "https://shinycolors.info/wiki/【和泉流・書道心得】和泉愛依",
@@ -8712,6 +9484,8 @@
     {
         "Type": "Idol",
         "Category": "이즈미 메이",
+        "Order": 19,
+        "Date": "",
         "Title": "【＋『α』】和泉愛依",
         "Icon": "./src/Icon Mei S SR 02.png",
         "Link": "https://shinycolors.info/wiki/【＋『α』】和泉愛依",
@@ -8729,6 +9503,8 @@
     {
         "Type": "Idol",
         "Category": "이즈미 메이",
+        "Order": 19,
+        "Date": "",
         "Title": "【イケてた！？】和泉愛依",
         "Icon": "./src/Icon Mei S SR 03.png",
         "Link": "https://shinycolors.info/wiki/【イケてた！？】和泉愛依",
@@ -8746,6 +9522,8 @@
     {
         "Type": "Idol",
         "Category": "이즈미 메이",
+        "Order": 19,
+        "Date": "",
         "Title": "【283プロのヒナ】和泉愛依",
         "Icon": "./src/Icon Mei S R 01.png",
         "Link": "https://shinycolors.info/wiki/【283プロのヒナ】和泉愛依",
@@ -8763,6 +9541,8 @@
     {
         "Type": "Idol",
         "Category": "아사쿠라 토오루",
+        "Order": 20,
+        "Date": "",
         "Title": "【10個、光】浅倉透",
         "Icon": "./src/Icon Toru P SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【10個、光】浅倉透",
@@ -8792,6 +9572,8 @@
     {
         "Type": "Idol",
         "Category": "아사쿠라 토오루",
+        "Order": 20,
+        "Date": "",
         "Title": "【途方もない午後】浅倉透",
         "Icon": "./src/Icon Toru P SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【途方もない午後】浅倉透",
@@ -8821,6 +9603,8 @@
     {
         "Type": "Idol",
         "Category": "아사쿠라 토오루",
+        "Order": 20,
+        "Date": "",
         "Title": "【つづく、】浅倉透",
         "Icon": "./src/Icon Toru P SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【つづく、】浅倉透",
@@ -8850,6 +9634,8 @@
     {
         "Type": "Idol",
         "Category": "아사쿠라 토오루",
+        "Order": 20,
+        "Date": "",
         "Title": "【まわるものについて】浅倉透",
         "Icon": "./src/Icon Toru P SR 01.png",
         "Link": "https://shinycolors.info/wiki/【まわるものについて】浅倉透",
@@ -8867,6 +9653,8 @@
     {
         "Type": "Idol",
         "Category": "아사쿠라 토오루",
+        "Order": 20,
+        "Date": "",
         "Title": "【おかえり、ギター】浅倉透",
         "Icon": "./src/Icon Toru P SR 02.png",
         "Link": "https://shinycolors.info/wiki/【おかえり、ギター】浅倉透",
@@ -8888,6 +9676,8 @@
     {
         "Type": "Idol",
         "Category": "아사쿠라 토오루",
+        "Order": 20,
+        "Date": "",
         "Title": "【ハウ・アー・UFO】浅倉透",
         "Icon": "./src/Icon Toru S SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【ハウ・アー・UFO】浅倉透",
@@ -8909,6 +9699,8 @@
     {
         "Type": "Idol",
         "Category": "아사쿠라 토오루",
+        "Order": 20,
+        "Date": "",
         "Title": "【pooool】浅倉透",
         "Icon": "./src/Icon Toru S SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【pooool】浅倉透",
@@ -8930,6 +9722,8 @@
     {
         "Type": "Idol",
         "Category": "아사쿠라 토오루",
+        "Order": 20,
+        "Date": "",
         "Title": "【がんばれ！ ノロマ号】浅倉透",
         "Icon": "./src/Icon Toru S SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【がんばれ！ ノロマ号】浅倉透",
@@ -8951,6 +9745,8 @@
     {
         "Type": "Idol",
         "Category": "아사쿠라 토오루",
+        "Order": 20,
+        "Date": "",
         "Title": "【かっとばし党の逆襲】浅倉透",
         "Icon": "./src/Icon Toru S SR 01.png",
         "Link": "https://shinycolors.info/wiki/【かっとばし党の逆襲】浅倉透",
@@ -8968,6 +9764,8 @@
     {
         "Type": "Idol",
         "Category": "아사쿠라 토오루",
+        "Order": 20,
+        "Date": "",
         "Title": "【faaaar】浅倉透",
         "Icon": "./src/Icon Toru S SR 02.png",
         "Link": "https://shinycolors.info/wiki/【faaaar】浅倉透",
@@ -8985,6 +9783,8 @@
     {
         "Type": "Idol",
         "Category": "아사쿠라 토오루",
+        "Order": 20,
+        "Date": "",
         "Title": "【283プロのヒナ】浅倉透",
         "Icon": "./src/Icon Toru S R 01.png",
         "Link": "https://shinycolors.info/wiki/【283プロのヒナ】浅倉透",
@@ -9002,6 +9802,8 @@
     {
         "Type": "Idol",
         "Category": "히구치 마도카",
+        "Order": 21,
+        "Date": "",
         "Title": "【カラカラカラ】樋口円香",
         "Icon": "./src/Icon Madoka P SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【カラカラカラ】樋口円香",
@@ -9031,6 +9833,8 @@
     {
         "Type": "Idol",
         "Category": "히구치 마도카",
+        "Order": 21,
+        "Date": "",
         "Title": "【ギンコ・ビローバ】樋口円香",
         "Icon": "./src/Icon Madoka P SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【ギンコ・ビローバ】樋口円香",
@@ -9060,6 +9864,8 @@
     {
         "Type": "Idol",
         "Category": "히구치 마도카",
+        "Order": 21,
+        "Date": "",
         "Title": "【ダウト】樋口円香",
         "Icon": "./src/Icon Madoka P SR 01.png",
         "Link": "https://shinycolors.info/wiki/【ダウト】樋口円香",
@@ -9081,6 +9887,8 @@
     {
         "Type": "Idol",
         "Category": "히구치 마도카",
+        "Order": 21,
+        "Date": "",
         "Title": "【游魚】樋口円香",
         "Icon": "./src/Icon Madoka S SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【游魚】樋口円香",
@@ -9102,6 +9910,8 @@
     {
         "Type": "Idol",
         "Category": "히구치 마도카",
+        "Order": 21,
+        "Date": "",
         "Title": "【UNTITLED】樋口円香",
         "Icon": "./src/Icon Madoka S SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【UNTITLED】樋口円香",
@@ -9123,6 +9933,8 @@
     {
         "Type": "Idol",
         "Category": "히구치 마도카",
+        "Order": 21,
+        "Date": "",
         "Title": "【雨情】樋口円香",
         "Icon": "./src/Icon Madoka S SSR 03.png",
         "Link": "https://shinycolors.info/wiki/【雨情】樋口円香",
@@ -9144,6 +9956,8 @@
     {
         "Type": "Idol",
         "Category": "히구치 마도카",
+        "Order": 21,
+        "Date": "",
         "Title": "【閑話】樋口円香",
         "Icon": "./src/Icon Madoka S SR 01.png",
         "Link": "https://shinycolors.info/wiki/【閑話】樋口円香",
@@ -9161,6 +9975,8 @@
     {
         "Type": "Idol",
         "Category": "히구치 마도카",
+        "Order": 21,
+        "Date": "",
         "Title": "【Feb.】樋口円香",
         "Icon": "./src/Icon Madoka S SR 02.png",
         "Link": "https://shinycolors.info/wiki/【Feb.】樋口円香",
@@ -9178,6 +9994,8 @@
     {
         "Type": "Idol",
         "Category": "히구치 마도카",
+        "Order": 21,
+        "Date": "",
         "Title": "【283プロのヒナ】樋口円香",
         "Icon": "./src/Icon Madoka S R 01.png",
         "Link": "https://shinycolors.info/wiki/【283プロのヒナ】樋口円香",
@@ -9195,6 +10013,8 @@
     {
         "Type": "Idol",
         "Category": "후쿠마루 코이토",
+        "Order": 22,
+        "Date": "",
         "Title": "【ポシェットの中には】福丸小糸",
         "Icon": "./src/Icon Koito P SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【ポシェットの中には】福丸小糸",
@@ -9224,6 +10044,8 @@
     {
         "Type": "Idol",
         "Category": "후쿠마루 코이토",
+        "Order": 22,
+        "Date": "",
         "Title": "【おみくじ結びますか】福丸小糸",
         "Icon": "./src/Icon Koito P SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【おみくじ結びますか】福丸小糸",
@@ -9253,6 +10075,8 @@
     {
         "Type": "Idol",
         "Category": "후쿠마루 코이토",
+        "Order": 22,
+        "Date": "",
         "Title": "【はれのひ喫茶店】福丸小糸",
         "Icon": "./src/Icon Koito P SR 01.png",
         "Link": "https://shinycolors.info/wiki/【はれのひ喫茶店】福丸小糸",
@@ -9270,6 +10094,8 @@
     {
         "Type": "Idol",
         "Category": "후쿠마루 코이토",
+        "Order": 22,
+        "Date": "",
         "Title": "【パーティーのやくそく】福丸小糸",
         "Icon": "./src/Icon Koito S SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【パーティーのやくそく】福丸小糸",
@@ -9291,6 +10117,8 @@
     {
         "Type": "Idol",
         "Category": "후쿠마루 코이토",
+        "Order": 22,
+        "Date": "",
         "Title": "【思い出にもならない】福丸小糸",
         "Icon": "./src/Icon Koito S SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【思い出にもならない】福丸小糸",
@@ -9312,6 +10140,8 @@
     {
         "Type": "Idol",
         "Category": "후쿠마루 코이토",
+        "Order": 22,
+        "Date": "",
         "Title": "【きせつはアイスクリン】福丸小糸",
         "Icon": "./src/Icon Koito S SR 01.png",
         "Link": "https://shinycolors.info/wiki/【きせつはアイスクリン】福丸小糸",
@@ -9329,6 +10159,8 @@
     {
         "Type": "Idol",
         "Category": "후쿠마루 코이토",
+        "Order": 22,
+        "Date": "",
         "Title": "【しかえし優等生】福丸小糸",
         "Icon": "./src/Icon Koito S SR 02.png",
         "Link": "https://shinycolors.info/wiki/【しかえし優等生】福丸小糸",
@@ -9346,6 +10178,8 @@
     {
         "Type": "Idol",
         "Category": "후쿠마루 코이토",
+        "Order": 22,
+        "Date": "",
         "Title": "【283プロのヒナ】福丸小糸",
         "Icon": "./src/Icon Koito S R 01.png",
         "Link": "https://shinycolors.info/wiki/【283プロのヒナ】福丸小糸",
@@ -9363,6 +10197,8 @@
     {
         "Type": "Idol",
         "Category": "이치카와  히나나",
+        "Order": 23,
+        "Date": "",
         "Title": "【HAPPY-!NG】市川雛菜",
         "Icon": "./src/Icon Hinana P SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【HAPPY-!NG】市川雛菜",
@@ -9392,6 +10228,8 @@
     {
         "Type": "Idol",
         "Category": "이치카와  히나나",
+        "Order": 23,
+        "Date": "",
         "Title": "【♡LOG】市川雛菜",
         "Icon": "./src/Icon Hinana P SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【♡LOG】市川雛菜",
@@ -9421,6 +10259,8 @@
     {
         "Type": "Idol",
         "Category": "이치카와  히나나",
+        "Order": 23,
+        "Date": "",
         "Title": "【SS】市川雛菜",
         "Icon": "./src/Icon Hinana P SR 01.png",
         "Link": "https://shinycolors.info/wiki/【SS】市川雛菜",
@@ -9438,6 +10278,8 @@
     {
         "Type": "Idol",
         "Category": "이치카와  히나나",
+        "Order": 23,
+        "Date": "",
         "Title": "【Makeup♡Box】市川雛菜",
         "Icon": "./src/Icon Hinana P SR 02.png",
         "Link": "https://shinycolors.info/wiki/【Makeup♡Box】市川雛菜",
@@ -9459,6 +10301,8 @@
     {
         "Type": "Idol",
         "Category": "이치카와  히나나",
+        "Order": 23,
+        "Date": "",
         "Title": "【ROOKIE!】市川雛菜",
         "Icon": "./src/Icon Hinana S SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【ROOKIE!】市川雛菜",
@@ -9480,6 +10324,8 @@
     {
         "Type": "Idol",
         "Category": "이치카와  히나나",
+        "Order": 23,
+        "Date": "",
         "Title": "【Re:BIRTH】市川雛菜",
         "Icon": "./src/Icon Hinana S SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【Re:BIRTH】市川雛菜",
@@ -9501,6 +10347,8 @@
     {
         "Type": "Idol",
         "Category": "이치카와  히나나",
+        "Order": 23,
+        "Date": "",
         "Title": "【PEEPS!】市川雛菜",
         "Icon": "./src/Icon Hinana S SR 01.png",
         "Link": "https://shinycolors.info/wiki/【PEEPS!】市川雛菜",
@@ -9518,6 +10366,8 @@
     {
         "Type": "Idol",
         "Category": "이치카와  히나나",
+        "Order": 23,
+        "Date": "",
         "Title": "【283プロのヒナ】市川雛菜",
         "Icon": "./src/Icon Hinana S R 01.png",
         "Link": "https://shinycolors.info/wiki/【283プロのヒナ】市川雛菜",
@@ -9535,6 +10385,8 @@
     {
         "Type": "Idol",
         "Category": "나나쿠사 니치카",
+        "Order": 24,
+        "Date": "",
         "Title": "【♡まっクろはムウサぎ♡】七草にちか",
         "Icon": "./src/Icon Nichika P SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【♡まっクろはムウサぎ♡】七草にちか",
@@ -9564,6 +10416,8 @@
     {
         "Type": "Idol",
         "Category": "나나쿠사 니치카",
+        "Order": 24,
+        "Date": "",
         "Title": "【ヴぇりべりいかシたサマー】七草にちか",
         "Icon": "./src/Icon Nichika P SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【ヴぇりべりいかシたサマー】七草にちか",
@@ -9593,6 +10447,8 @@
     {
         "Type": "Idol",
         "Category": "나나쿠사 니치카",
+        "Order": 24,
+        "Date": "",
         "Title": "【一億回めくらいの、その夏】七草にちか",
         "Icon": "./src/Icon Nichika P SR 01.png",
         "Link": "https://shinycolors.info/wiki/【一億回めくらいの、その夏】七草にちか",
@@ -9614,6 +10470,8 @@
     {
         "Type": "Idol",
         "Category": "나나쿠사 니치카",
+        "Order": 24,
+        "Date": "",
         "Title": "【283プロのヒナ】七草にちか",
         "Icon": "./src/Icon Nichika S R 01.png",
         "Link": "https://shinycolors.info/wiki/【283プロのヒナ】七草にちか",
@@ -9631,6 +10489,8 @@
     {
         "Type": "Idol",
         "Category": "아케타 미코토",
+        "Order": 25,
+        "Date": "",
         "Title": "【ROUNDLY】緋田美琴",
         "Icon": "./src/Icon Mikoto P SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【ROUNDLY】緋田美琴",
@@ -9660,6 +10520,8 @@
     {
         "Type": "Idol",
         "Category": "아케타 미코토",
+        "Order": 25,
+        "Date": "",
         "Title": "【A】緋田美琴",
         "Icon": "./src/Icon Mikoto S SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【A】緋田美琴",
@@ -9681,6 +10543,8 @@
     {
         "Type": "Idol",
         "Category": "아케타 미코토",
+        "Order": 25,
+        "Date": "",
         "Title": "【RESONANCE】緋田美琴",
         "Icon": "./src/Icon Mikoto S SSR 02.png",
         "Link": "https://shinycolors.info/wiki/【RESONANCE】緋田美琴",
@@ -9702,6 +10566,8 @@
     {
         "Type": "Idol",
         "Category": "아케타 미코토",
+        "Order": 25,
+        "Date": "",
         "Title": "【FEEL】緋田美琴",
         "Icon": "./src/Icon Mikoto S SR 01.png",
         "Link": "https://shinycolors.info/wiki/【FEEL】緋田美琴",
@@ -9719,6 +10585,8 @@
     {
         "Type": "Idol",
         "Category": "아케타 미코토",
+        "Order": 25,
+        "Date": "",
         "Title": "【283プロのヒナ】緋田美琴",
         "Icon": "./src/Icon Mikoto S R 01.png",
         "Link": "https://shinycolors.info/wiki/【283プロのヒナ】緋田美琴",
