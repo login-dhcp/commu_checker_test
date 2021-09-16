@@ -42,18 +42,22 @@ $(document).ready(function(e) {
 });
 
 async function init() {
-    $.getJSON("commu_list.json", function(json) {
-        datasetToHTML(parse_raw(json));
-    });
-
-    // datasetToHTML(parse_raw(raw_data));
-    await sleep(20000);
+    await buildDatasetToHTML();
+    await sleep(2000);
     getStateFromUrl();
 
     await sleep(1000);
     console.log('finished');
     alert('page loading finished');
 
+}
+
+function buildDatasetToHTML() {
+    return new Promise((resolve, reject) => {
+        $.getJSON("commu_list.json", function(json) {
+            datasetToHTML(parse_raw(json));
+        });
+    })
 }
 
 function parse_raw(data) {
