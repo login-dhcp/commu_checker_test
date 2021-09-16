@@ -43,12 +43,10 @@ $(document).ready(function(e) {
 
 async function init() {
     await buildDatasetToHTML();
-    await sleep(2000);
-    getStateFromUrl();
+    await getStateFromUrl();
 
-    await sleep(1000);
-    console.log('finished');
-    alert('page loading finished');
+    await console.log('finished');
+    await alert('page loading finished');
 
 }
 
