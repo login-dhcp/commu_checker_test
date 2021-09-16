@@ -45,6 +45,8 @@ async function init() {
     $.getJSON("commu_list.json", function(json) {
         datasetToHTML(parse_raw(json));
     });
+
+    // datasetToHTML(parse_raw(raw_data));
     await sleep(1000);
     getStateFromUrl();
 
@@ -55,6 +57,24 @@ async function init() {
 
 function parse_raw(data) {
     var new_data = JSON.parse(JSON.stringify(data).replace(/\s+|\s+/g,`${replaceBlankTo}`));
+    new_data.sort(function (a, b) {
+        if (a['Type'] > b['Type']) {
+            return 1;
+        }
+        else if (a['Type'] < b['Type']) {
+            return -1;
+        }
+        else {
+            if (a['Category'] > b['Category']) {
+                return 1;
+            }
+            else if (a['Category'] < b['Category']) {
+                 return -1;
+            }
+            else return 0;
+        }
+    })
+
     return new_data;
 }
 
@@ -77,6 +97,23 @@ function commuItemToHTML(commudata) {
     commuHTML += `</span>`;
 
     return commuHTML;
+}
+
+
+function getTypeRarityfromURL(text, commuType) {
+    // example: 'https://shinycolors.info/w/images/9/9d/Icon_Mano_P_SSR_02.png';
+    if (commuType === 'Idol') {
+        var splitted = text.split('_');
+        var cardRarity = splitted[splitted.length-2];
+        var cardType = splitted[splitted.length-3];
+        var cardName = splitted[splitted.length-4];
+        return {
+            'cardRarity': cardRarity,
+            'cardType': cardType,
+            'cardName': cardName,
+        }
+    }
+        
 }
 
 function datasetToHTML(data) {
@@ -139,12 +176,23 @@ function datasetToHTML(data) {
     }
 
     // 3. add Commus
-    for (var commu of data) {
+    for (var i=0; i<data.length; i++) {
+        var commu = data[i];
         var dialogID = `dialog${idSeperator}${commu['Type']}${idSeperator}${commu['Category']}`;
         document.getElementById(dialogID).insertAdjacentHTML('beforeend', commuItemToHTML(commu));
         document.getElementById(`icon-${commu['Title']}`).addEventListener('click', function(e) {
             document.getElementById(this.id.replace('icon', 'dialog')).showModal();
         });
+
+        // 3.1. Split Commus with cardType, rarity 
+        if (i !== data.length-1 && commu['Type'] === 'Idol') {
+            var commuNext = data[i+1];
+            var dataCurrent = getTypeRarityfromURL(commu['Icon'], 'Idol');
+            var dataNext = getTypeRarityfromURL(commuNext['Icon'], 'Idol');
+            if (dataCurrent['cardType'] !== dataNext['cardType'] || dataCurrent['cardRarity'] !== dataNext['cardRarity']) {
+                document.getElementById(dialogID).insertAdjacentHTML('beforeend', '<br>');
+            }
+        }
 
         // 3.1. 각 commu checkbox에 parent dialog icon opacity 설정 + count checkbox checked num
         for (var smallCommu of commu['Commus']) {
@@ -169,8 +217,7 @@ function datasetToHTML(data) {
 
     }
 
-    // 3.1. Split Commus with cardType, rarity 
-    // TODO
+
 }
 
 function generateUrl() {
