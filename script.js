@@ -152,16 +152,26 @@ function datasetToHTML(data) {
     // 2.1. get commuCategory keys
     var commuCategories = new Set();
     for (var commu of data) {
-        var item = `${commu['Type']}|||${commu['Order']}`;
+        var item = `${commu['Type']}|||${commu['Order']}|||${commu['Category']}`;
         commuCategories.add(item);
     }
-    commuCategories = new Set(Array.from(commuCategories).sort());
+    commuCategories = Array.from(commuCategories.sort( function (a, b) {
+        var a_order = parseInt(a.split('|||')[1]);
+        var b_order = parseInt(b.split('|||')[1]);
+        if (a_order > b_order) {
+            return 1
+        }
+        else if (a_order < b_order) {
+            return -1
+        }
+        else return 0
+    }));
 
     // 2.2. make button & dialog
     for (var item of commuCategories) {
         var item_parse = item.split('|||');
         var commuType = item_parse[0];
-        var commuCategory = item_parse[1];
+        var commuCategory = item_parse[2];
         var buttonID = `btn${idSeperator}${commuType}${idSeperator}${commuCategory}`;
         var dialogID = `dialog${idSeperator}${commuType}${idSeperator}${commuCategory}`;
         var dialogIconPath = `./src/Category_${commuCategory}.png`;
