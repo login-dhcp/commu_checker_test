@@ -155,7 +155,7 @@ function datasetToHTML(data) {
         var item = `${commu['Type']}|||${commu['Order']}|||${commu['Category']}`;
         commuCategories.add(item);
     }
-    commuCategories = Array.from(commuCategories.sort( function (a, b) {
+    commuCategories = Array.from(commuCategories).sort( function (a, b) {
         var a_order = parseInt(a.split('|||')[1]);
         var b_order = parseInt(b.split('|||')[1]);
         if (a_order > b_order) {
@@ -165,7 +165,7 @@ function datasetToHTML(data) {
             return -1
         }
         else return 0
-    }));
+    });
 
     // 2.2. make button & dialog
     for (var item of commuCategories) {
