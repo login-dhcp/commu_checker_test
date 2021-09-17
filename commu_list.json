@@ -27,7 +27,19 @@
             {
                 "NameJP": "１番輝く、そのために",
                 "Link": "https://shinycolors.info/wiki/Light up the illumination/１番輝く、そのために"
-            }
+            },
+            {
+                "NameJP": "３人だから灯せたもの",
+                "Link": "https://shinycolors.info/wiki/Light up the illumination/３人だから灯せたもの"
+            },
+            {
+                "NameJP": "想いを重ねて、支えを光に",
+                "Link": "https://shinycolors.info/wiki/Light up the illumination/想いを重ねて、支えを光に"
+            },
+            {
+                "NameJP": "illumination STARS",
+                "Link": "https://shinycolors.info/wiki/Light up the illumination/illumination STARS"
+            },
         ]
     },
     {
@@ -281,6 +293,522 @@
             {
                 "NameJP": "サンタさんつかまえた",
                 "Link": "https://shinycolors.info/wiki/オペレーション・サンタ！～包囲せよ２８３プロ～/サンタさんつかまえた"
+            }
+        ]
+    },
+    {
+        "Type": "Event",
+        "Category": "Scenario",
+        "Order": 0,
+        "Date": "",
+        "Title": "新春！283式かるた大全",
+        "Icon": "./src/新春！283式かるた大全_Banner.png",
+        "Link": "https://shinycolors.info/wiki/新春！283式かるた大全",
+        "Commus": [
+            {
+                "NameJP": "あたま隠して尻隠さず",
+                "Link": "https://shinycolors.info/wiki/新春！283式かるた大全/あたま隠して尻隠さず"
+            },
+            {
+                "NameJP": "げたと焼き味噌",
+                "Link": "https://shinycolors.info/wiki/新春！283式かるた大全/げたと焼き味噌"
+            },
+            {
+                "NameJP": "おにに金棒",
+                "Link": "https://shinycolors.info/wiki/新春！283式かるた大全/おにに金棒"
+            },
+            {
+                "NameJP": "めの上のたんこぶ",
+                "Link": "https://shinycolors.info/wiki/新春！283式かるた大全/めの上のたんこぶ"
+            },
+            {
+                "NameJP": "こころざしは松の葉",
+                "Link": "https://shinycolors.info/wiki/新春！283式かるた大全/こころざしは松の葉"
+            },
+            {
+                "NameJP": "とおくの一家より近くの隣",
+                "Link": "https://shinycolors.info/wiki/新春！283式かるた大全/とおくの一家より近くの隣"
+            },
+            {
+                "NameJP": "よめ遠目笠の内",
+                "Link": "https://shinycolors.info/wiki/新春！283式かるた大全/よめ遠目笠の内"
+            },
+            {
+                "NameJP": "ろんご読みの論語知らず",
+                "Link": "https://shinycolors.info/wiki/新春！283式かるた大全/ろんご読みの論語知らず"
+            }
+        ]
+    },
+    {
+        "Type": "Event",
+        "Category": "Scenario",
+        "Order": 0,
+        "Date": "",
+        "Title": "Catch the shiny tail",
+        "Icon": "./src/Catch the shiny tail_Banner.png",
+        "Link": "https://shinycolors.info/wiki/Catch the shiny tail",
+        "Commus": [
+            {
+                "NameJP": "見えない、ヒカリの先",
+                "Link": "https://shinycolors.info/wiki/Catch the shiny tail/見えない、ヒカリの先"
+            },
+            {
+                "NameJP": "彼女の輝き",
+                "Link": "https://shinycolors.info/wiki/Catch the shiny tail/彼女の輝き"
+            },
+            {
+                "NameJP": "思いがけない到着駅",
+                "Link": "https://shinycolors.info/wiki/Catch the shiny tail/思いがけない到着駅"
+            },
+            {
+                "NameJP": "彼女のキラメキ",
+                "Link": "https://shinycolors.info/wiki/Catch the shiny tail/彼女のキラメキ"
+            },
+            {
+                "NameJP": "ふたりにはあるのに",
+                "Link": "https://shinycolors.info/wiki/Catch the shiny tail/ふたりにはあるのに"
+            },
+            {
+                "NameJP": "私の場所",
+                "Link": "https://shinycolors.info/wiki/Catch the shiny tail/私の場所"
+            },
+            {
+                "NameJP": "あのね、あるの、悩み事",
+                "Link": "https://shinycolors.info/wiki/Catch the shiny tail/あのね、あるの、悩み事"
+            },
+            {
+                "NameJP": "ヒカリの先",
+                "Link": "https://shinycolors.info/wiki/Catch the shiny tail/ヒカリの先"
+            }
+        ]
+    },
+    {
+        "Type": "Event",
+        "Category": "Scenario",
+        "Order": 0,
+        "Date": "",
+        "Title": "MAGIA L'Antica～アンティーカの5つの魔法～",
+        "Icon": "./src/MAGIA L'Antica～アンティーカの5つの魔法～_Banner.png",
+        "Link": "https://shinycolors.info/wiki/MAGIA L'Antica～アンティーカの5つの魔法～",
+        "Commus": [
+            {
+                "NameJP": "魔法のような、恋の香りを",
+                "Link": "https://shinycolors.info/wiki/MAGIA L'Antica～アンティーカの5つの魔法～/魔法のような、恋の香りを"
+            },
+            {
+                "NameJP": "碧色の妖精は乙女心を揺らす",
+                "Link": "https://shinycolors.info/wiki/MAGIA L'Antica～アンティーカの5つの魔法～/碧色の妖精は乙女心を揺らす"
+            },
+            {
+                "NameJP": "青磁色の妖精は魔法をかける",
+                "Link": "https://shinycolors.info/wiki/MAGIA L'Antica～アンティーカの5つの魔法～/青磁色の妖精は魔法をかける"
+            },
+            {
+                "NameJP": "桃色の妖精は春の風にのって",
+                "Link": "https://shinycolors.info/wiki/MAGIA L'Antica～アンティーカの5つの魔法～/桃色の妖精は春の風にのって"
+            },
+            {
+                "NameJP": "紫色の妖精は恋の夢を見るか？",
+                "Link": "https://shinycolors.info/wiki/MAGIA L'Antica～アンティーカの5つの魔法～/紫色の妖精は恋の夢を見るか？"
+            },
+            {
+                "NameJP": "妖精たちは遊び好き！",
+                "Link": "https://shinycolors.info/wiki/MAGIA L'Antica～アンティーカの5つの魔法～/妖精たちは遊び好き！"
+            },
+            {
+                "NameJP": "水縹色の妖精は風を歌う",
+                "Link": "https://shinycolors.info/wiki/MAGIA L'Antica～アンティーカの5つの魔法～/水縹色の妖精は風を歌う"
+            },
+            {
+                "NameJP": "マジ―ア・アンティーカ",
+                "Link": "https://shinycolors.info/wiki/MAGIA L'Antica～アンティーカの5つの魔法～/マジ―ア・アンティーカ"
+            }
+        ]
+    },
+    {
+        "Type": "Event",
+        "Category": "Scenario",
+        "Order": 0,
+        "Date": "",
+        "Title": "PiCNiC BASKET!",
+        "Icon": "./src/PiCNiC BASKET!_Banner.png",
+        "Link": "https://shinycolors.info/wiki/PiCNiC BASKET!",
+        "Commus": [
+            {
+                "NameJP": "レンジでチン！",
+                "Link": "https://shinycolors.info/wiki/PiCNiC BASKET!/レンジでチン！"
+            },
+            {
+                "NameJP": "キラ・キラ・ピク",
+                "Link": "https://shinycolors.info/wiki/PiCNiC BASKET!/キラ・キラ・ピク"
+            },
+            {
+                "NameJP": "だから、エールを",
+                "Link": "https://shinycolors.info/wiki/PiCNiC BASKET!/だから、エールを"
+            },
+            {
+                "NameJP": "アンティーカ・ポリシー",
+                "Link": "https://shinycolors.info/wiki/PiCNiC BASKET!/アンティーカ・ポリシー"
+            },
+            {
+                "NameJP": "上を見て歩いていれば",
+                "Link": "https://shinycolors.info/wiki/PiCNiC BASKET!/上を見て歩いていれば"
+            },
+            {
+                "NameJP": "5つの紋章",
+                "Link": "https://shinycolors.info/wiki/PiCNiC BASKET!/5つの紋章"
+            },
+            {
+                "NameJP": "（再）トレジャーハント",
+                "Link": "https://shinycolors.info/wiki/PiCNiC BASKET!/（再）トレジャーハント"
+            },
+            {
+                "NameJP": "春色の時間、そして",
+                "Link": "https://shinycolors.info/wiki/PiCNiC BASKET!/春色の時間、そして"
+            }
+        ]
+    },
+    {
+        "Type": "Event",
+        "Category": "Scenario",
+        "Order": 0,
+        "Date": "",
+        "Title": "完録、クエストロメリア！～サイコロ編～",
+        "Icon": "./src/完録、クエストロメリア！～サイコロ編～_Banner.png",
+        "Link": "https://shinycolors.info/wiki/完録、クエストロメリア！～サイコロ編～",
+        "Commus": [
+            {
+                "NameJP": "サイコロツアー、スタート！",
+                "Link": "https://shinycolors.info/wiki/完録、クエストロメリア！～サイコロ編～/サイコロツアー、スタート！"
+            },
+            {
+                "NameJP": "Keep／Problem／Try",
+                "Link": "https://shinycolors.info/wiki/完録、クエストロメリア！～サイコロ編～/Keep／Problem／Try"
+            },
+            {
+                "NameJP": "甜花は大丈夫",
+                "Link": "https://shinycolors.info/wiki/完録、クエストロメリア！～サイコロ編～/甜花は大丈夫"
+            },
+            {
+                "NameJP": "ふたりとひとりの夜",
+                "Link": "https://shinycolors.info/wiki/完録、クエストロメリア！～サイコロ編～/ふたりとひとりの夜"
+            },
+            {
+                "NameJP": "大人じゃないんだもん",
+                "Link": "https://shinycolors.info/wiki/完録、クエストロメリア！～サイコロ編～/大人じゃないんだもん"
+            },
+            {
+                "NameJP": "『プロブレム』",
+                "Link": "https://shinycolors.info/wiki/完録、クエストロメリア！～サイコロ編～/『プロブレム』"
+            },
+            {
+                "NameJP": "にっこりまで",
+                "Link": "https://shinycolors.info/wiki/完録、クエストロメリア！～サイコロ編～/にっこりまで"
+            },
+            {
+                "NameJP": "Happy Ending Story",
+                "Link": "https://shinycolors.info/wiki/完録、クエストロメリア！～サイコロ編～/Happy Ending Story"
+            }
+        ]
+    },
+    {
+        "Type": "Event",
+        "Category": "Scenario",
+        "Order": 0,
+        "Date": "",
+        "Title": "轟！-とどろき-紅蘭偉魔空珠†番外地",
+        "Icon": "./src/轟！-とどろき-紅蘭偉魔空珠†番外地_Banner.png",
+        "Link": "https://shinycolors.info/wiki/轟！-とどろき-紅蘭偉魔空珠†番外地",
+        "Commus": [
+            {
+                "NameJP": "見ない顔ですね",
+                "Link": "https://shinycolors.info/wiki/轟！-とどろき-紅蘭偉魔空珠†番外地/見ない顔ですね"
+            },
+            {
+                "NameJP": "ソノダチヨコです！",
+                "Link": "https://shinycolors.info/wiki/轟！-とどろき-紅蘭偉魔空珠†番外地/ソノダチヨコです！"
+            },
+            {
+                "NameJP": "理由なんて必要かしら？",
+                "Link": "https://shinycolors.info/wiki/轟！-とどろき-紅蘭偉魔空珠†番外地/理由なんて必要かしら？"
+            },
+            {
+                "NameJP": "校内での抗争、乱闘の一切を禁ず",
+                "Link": "https://shinycolors.info/wiki/轟！-とどろき-紅蘭偉魔空珠†番外地/校内での抗争、乱闘の一切を禁ず"
+            },
+            {
+                "NameJP": "自由への導火線",
+                "Link": "https://shinycolors.info/wiki/轟！-とどろき-紅蘭偉魔空珠†番外地/自由への導火線"
+            },
+            {
+                "NameJP": "寒すぎだよ",
+                "Link": "https://shinycolors.info/wiki/轟！-とどろき-紅蘭偉魔空珠†番外地/寒すぎだよ"
+            },
+            {
+                "NameJP": "喧嘩するには十分な理由だろ",
+                "Link": "https://shinycolors.info/wiki/轟！-とどろき-紅蘭偉魔空珠†番外地/喧嘩するには十分な理由だろ"
+            },
+            {
+                "NameJP": "覚悟しろ！",
+                "Link": "https://shinycolors.info/wiki/轟！-とどろき-紅蘭偉魔空珠†番外地/覚悟しろ！"
+            }
+        ]
+    },
+    {
+        "Type": "Event",
+        "Category": "Scenario",
+        "Order": 0,
+        "Date": "",
+        "Title": "Straylight.run()",
+        "Icon": "./src/Straylight.run()_Banner.png",
+        "Link": "https://shinycolors.info/wiki/Straylight.run()",
+        "Commus": [
+            {
+                "NameJP": "GIRL MEETS",
+                "Link": "https://shinycolors.info/wiki/Straylight.run()/GIRL MEETS"
+            },
+            {
+                "NameJP": "FREEDOM",
+                "Link": "https://shinycolors.info/wiki/Straylight.run()/FREEDOM"
+            },
+            {
+                "NameJP": "ENTER MEI！",
+                "Link": "https://shinycolors.info/wiki/Straylight.run()/ENTER MEI！"
+            },
+            {
+                "NameJP": "SING IT！！",
+                "Link": "https://shinycolors.info/wiki/Straylight.run()/SING IT！！"
+            },
+            {
+                "NameJP": "INVISIBLE",
+                "Link": "https://shinycolors.info/wiki/Straylight.run()/INVISIBLE"
+            },
+            {
+                "NameJP": "FALSE",
+                "Link": "https://shinycolors.info/wiki/Straylight.run()/FALSE"
+            },
+            {
+                "NameJP": "LIBERTY",
+                "Link": "https://shinycolors.info/wiki/Straylight.run()/LIBERTY"
+            },
+            {
+                "NameJP": "WE WILL",
+                "Link": "https://shinycolors.info/wiki/Straylight.run()/WE WILL"
+            }
+        ]
+    },
+    {
+        "Type": "Event",
+        "Category": "Scenario",
+        "Order": 0,
+        "Date": "",
+        "Title": "サマー・ミーツ・ワンダーランド",
+        "Icon": "./src/サマー・ミーツ・ワンダーランド_Banner.png",
+        "Link": "https://shinycolors.info/wiki/サマー・ミーツ・ワンダーランド",
+        "Commus": [
+            {
+                "NameJP": "朝の物語",
+                "Link": "https://shinycolors.info/wiki/サマー・ミーツ・ワンダーランド/朝の物語"
+            },
+            {
+                "NameJP": "昼の物語",
+                "Link": "https://shinycolors.info/wiki/サマー・ミーツ・ワンダーランド/昼の物語"
+            },
+            {
+                "NameJP": "夜の物語",
+                "Link": "https://shinycolors.info/wiki/サマー・ミーツ・ワンダーランド/夜の物語"
+            },
+            {
+                "NameJP": "時の物語",
+                "Link": "https://shinycolors.info/wiki/サマー・ミーツ・ワンダーランド/時の物語"
+            },
+            {
+                "NameJP": "鏡の物語",
+                "Link": "https://shinycolors.info/wiki/サマー・ミーツ・ワンダーランド/鏡の物語"
+            },
+            {
+                "NameJP": "湯の物語",
+                "Link": "https://shinycolors.info/wiki/サマー・ミーツ・ワンダーランド/湯の物語"
+            },
+            {
+                "NameJP": "銀河の冒険",
+                "Link": "https://shinycolors.info/wiki/サマー・ミーツ・ワンダーランド/銀河の冒険"
+            },
+            {
+                "NameJP": "夏休みの秘密",
+                "Link": "https://shinycolors.info/wiki/サマー・ミーツ・ワンダーランド/夏休みの秘密"
+            }
+        ]
+    },
+    {
+        "Type": "Event",
+        "Category": "Scenario",
+        "Order": 0,
+        "Date": "",
+        "Title": "十五夜「おもちをつこう」",
+        "Icon": "./src/十五夜「おもちをつこう」_Banner.png",
+        "Link": "https://shinycolors.info/wiki/十五夜「おもちをつこう」",
+        "Commus": [
+            {
+                "NameJP": "うさぎがぴょん",
+                "Link": "https://shinycolors.info/wiki/十五夜「おもちをつこう」/うさぎがぴょん"
+            },
+            {
+                "NameJP": "いっしょにつこう",
+                "Link": "https://shinycolors.info/wiki/十五夜「おもちをつこう」/いっしょにつこう"
+            },
+            {
+                "NameJP": "おいしくなあれ",
+                "Link": "https://shinycolors.info/wiki/十五夜「おもちをつこう」/おいしくなあれ"
+            },
+            {
+                "NameJP": "もうちょっとだね",
+                "Link": "https://shinycolors.info/wiki/十五夜「おもちをつこう」/もうちょっとだね"
+            },
+            {
+                "NameJP": "できたよ！",
+                "Link": "https://shinycolors.info/wiki/十五夜「おもちをつこう」/できたよ！"
+            },
+            {
+                "NameJP": "いつか、いつかは",
+                "Link": "https://shinycolors.info/wiki/十五夜「おもちをつこう」/いつか、いつかは"
+            },
+            {
+                "NameJP": "ただいま、おかえり",
+                "Link": "https://shinycolors.info/wiki/十五夜「おもちをつこう」/ただいま、おかえり"
+            },
+            {
+                "NameJP": "はじまり、はじまり",
+                "Link": "https://shinycolors.info/wiki/十五夜「おもちをつこう」/はじまり、はじまり"
+            }
+        ]
+    },
+    {
+        "Type": "Event",
+        "Category": "Scenario",
+        "Order": 0,
+        "Date": "",
+        "Title": "ミルキィウェイ61-世界と世界がまじわる夜に-",
+        "Icon": "./src/ミルキィウェイ61-世界と世界がまじわる夜に-_Banner.png",
+        "Link": "https://shinycolors.info/wiki/ミルキィウェイ61-世界と世界がまじわる夜に-",
+        "Commus": [
+            {
+                "NameJP": "お下がりくださいっ",
+                "Link": "https://shinycolors.info/wiki/ミルキィウェイ61-世界と世界がまじわる夜に-/お下がりくださいっ"
+            },
+            {
+                "NameJP": "キャラメルのバラッド",
+                "Link": "https://shinycolors.info/wiki/ミルキィウェイ61-世界と世界がまじわる夜に-/キャラメルのバラッド"
+            },
+            {
+                "NameJP": "ちょっとした荒事",
+                "Link": "https://shinycolors.info/wiki/ミルキィウェイ61-世界と世界がまじわる夜に-/ちょっとした荒事"
+            },
+            {
+                "NameJP": "ラ・ラ・ラ・ミルキィウェイ",
+                "Link": "https://shinycolors.info/wiki/ミルキィウェイ61-世界と世界がまじわる夜に-/ラ・ラ・ラ・ミルキィウェイ"
+            },
+            {
+                "NameJP": "ジャストライクキョンシーブルース",
+                "Link": "https://shinycolors.info/wiki/ミルキィウェイ61-世界と世界がまじわる夜に-/ジャストライクキョンシーブルース"
+            },
+            {
+                "NameJP": "鳴かないでベイビー",
+                "Link": "https://shinycolors.info/wiki/ミルキィウェイ61-世界と世界がまじわる夜に-/鳴かないでベイビー"
+            },
+            {
+                "NameJP": "轟・銀河暴走幸福論",
+                "Link": "https://shinycolors.info/wiki/ミルキィウェイ61-世界と世界がまじわる夜に-/轟・銀河暴走幸福論"
+            },
+            {
+                "NameJP": "ローリンストーンのように",
+                "Link": "https://shinycolors.info/wiki/ミルキィウェイ61-世界と世界がまじわる夜に-/ローリンストーンのように"
+            }
+        ]
+    },
+    {
+        "Type": "Event",
+        "Category": "Scenario",
+        "Order": 0,
+        "Date": "",
+        "Title": "Star n dew by me",
+        "Icon": "./src/Star n dew by me_Banner.png",
+        "Link": "https://shinycolors.info/wiki/Star n dew by me",
+        "Commus": [
+            {
+                "NameJP": "秋うららの物語",
+                "Link": "https://shinycolors.info/wiki/Star n dew by me/秋うららの物語"
+            },
+            {
+                "NameJP": "ガクエンサイGOGO！",
+                "Link": "https://shinycolors.info/wiki/Star n dew by me/ガクエンサイGOGO！"
+            },
+            {
+                "NameJP": "Who are you?",
+                "Link": "https://shinycolors.info/wiki/Star n dew by me/Who are you?"
+            },
+            {
+                "NameJP": "みなそこで息を止めて",
+                "Link": "https://shinycolors.info/wiki/Star n dew by me/みなそこで息を止めて"
+            },
+            {
+                "NameJP": "ううん",
+                "Link": "https://shinycolors.info/wiki/Star n dew by me/ううん"
+            },
+            {
+                "NameJP": "invent laughter",
+                "Link": "https://shinycolors.info/wiki/Star n dew by me/invent laughter"
+            },
+            {
+                "NameJP": "魚と虹のワルツを",
+                "Link": "https://shinycolors.info/wiki/Star n dew by me/魚と虹のワルツを"
+            },
+            {
+                "NameJP": "呼吸のソルフェージュ",
+                "Link": "https://shinycolors.info/wiki/Star n dew by me/呼吸のソルフェージュ"
+            }
+        ]
+    },
+    {
+        "Type": "Event",
+        "Category": "Scenario",
+        "Order": 0,
+        "Date": "",
+        "Title": "きよしこの夜、プレゼン・フォー・ユー！",
+        "Icon": "./src/きよしこの夜、プレゼン・フォー・ユー！_Banner.png",
+        "Link": "https://shinycolors.info/wiki/きよしこの夜、プレゼン・フォー・ユー！",
+        "Commus": [
+            {
+                "NameJP": "13:15 PM",
+                "Link": "https://shinycolors.info/wiki/きよしこの夜、プレゼン・フォー・ユー！/13:15 PM"
+            },
+            {
+                "NameJP": "13:32 PM",
+                "Link": "https://shinycolors.info/wiki/きよしこの夜、プレゼン・フォー・ユー！/13:32 PM"
+            },
+            {
+                "NameJP": "14:11 PM",
+                "Link": "https://shinycolors.info/wiki/きよしこの夜、プレゼン・フォー・ユー！/14:11 PM"
+            },
+            {
+                "NameJP": "14:48 PM",
+                "Link": "https://shinycolors.info/wiki/きよしこの夜、プレゼン・フォー・ユー！/14:48 PM"
+            },
+            {
+                "NameJP": "15:06 PM",
+                "Link": "https://shinycolors.info/wiki/きよしこの夜、プレゼン・フォー・ユー！/15:06 PM"
+            },
+            {
+                "NameJP": "16:57 PM",
+                "Link": "https://shinycolors.info/wiki/きよしこの夜、プレゼン・フォー・ユー！/16:57 PM"
+            },
+            {
+                "NameJP": "17:46 PM",
+                "Link": "https://shinycolors.info/wiki/きよしこの夜、プレゼン・フォー・ユー！/17:46 PM"
+            },
+            {
+                "NameJP": "added time アマクナイヨル",
+                "Link": "https://shinycolors.info/wiki/きよしこの夜、プレゼン・フォー・ユー！/added time アマクナイヨル"
             }
         ]
     },
