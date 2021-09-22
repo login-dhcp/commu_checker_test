@@ -131,10 +131,10 @@ function datasetToHTML(data) {
         var dialogCloseID = `${buttonID}_close`;
         var dialogIconPath = `./src/Type_${commuType}.png`;
         var dialogHTML = '';
-        dialogHTML += `<button id="${dialogCloseID}"></button>`;
         dialogHTML += `<input type="image" id="${buttonID}" value="${commuType}" src="${dialogIconPath}" height="40">`;
         dialogHTML += `<br>`;
         dialogHTML += `<dialog id="${dialogID}" class="customDialog">`;
+        dialogHTML += `<button id="${dialogCloseID}"></button>`;
         dialogHTML += `<span>CommuType: ${commuType}<br></span>`;
         dialogHTML += `</dialog>`;
         document.getElementById('commu_list').insertAdjacentHTML('beforeend', dialogHTML);
@@ -176,12 +176,12 @@ function datasetToHTML(data) {
         var dialogIconPath = `./src/Category_${commuCategory}.png`;
         var dialogHTML = ``;
 
-        dialogHTML += `<button id="${dialogCloseID}"></button>`;
         dialogHTML += `<input type="image" id="${buttonID}" value="${commuCategory}" src="${dialogIconPath}" height="96">`;
         dialogHTML += `<br>`;
         dialogHTML += `${commuCategory}`;
         dialogHTML += `<br>`;
         dialogHTML += `<dialog id="${dialogID}" class="customDialog">`;
+        dialogHTML += `<button id="${dialogCloseID}"></button>`;
         dialogHTML += `<span>Category: ${commuCategory}<br></span>`;
         dialogHTML += `</dialog>`;
         document.getElementById(`dialog${idSeperator}${commuType}`).insertAdjacentHTML('beforeend', dialogHTML);
