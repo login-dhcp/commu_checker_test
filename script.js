@@ -138,6 +138,7 @@ function datasetToHTML(data) {
         document.getElementById(buttonID).addEventListener('click', function(e) {
             document.getElementById(this.id.replace('btn', 'dialog')).showModal();
         });
+        // close when click outside of dialog
         document.getElementById(dialogID).addEventListener('click', function (event) {
             // https://stackoverflow.com/a/26984690
             var rect = this.getBoundingClientRect();
@@ -188,6 +189,16 @@ function datasetToHTML(data) {
         document.getElementById(`dialog${idSeperator}${commuType}`).insertAdjacentHTML('beforeend', dialogHTML);
         document.getElementById(buttonID).addEventListener('click', function(e) {
             document.getElementById(this.id.replace('btn', 'dialog')).showModal();
+        });
+        // close when click outside of dialog
+        document.getElementById(dialogID).addEventListener('click', function (event) {
+            // https://stackoverflow.com/a/26984690
+            var rect = this.getBoundingClientRect();
+            var isInDialog = (rect.top <= event.clientY && event.clientY <= rect.top + rect.height &&
+                rect.left <= event.clientX && event.clientX <= rect.left + rect.width);
+            if (!isInDialog) {
+                this.close();
+            }
         });
     }
 
