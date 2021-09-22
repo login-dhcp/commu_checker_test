@@ -134,7 +134,7 @@ function datasetToHTML(data) {
         dialogHTML += `<input type="image" id="${buttonID}" value="${commuType}" src="${dialogIconPath}" height="40">`;
         dialogHTML += `<br>`;
         dialogHTML += `<dialog id="${dialogID}" class="customDialog">`;
-        dialogHTML += `<button id="${dialogCloseID}"></button>`;
+        dialogHTML += `<button id="${dialogCloseID}" class="dialogCloseButton"></button>`;
         dialogHTML += `<span>CommuType: ${commuType}<br></span>`;
         dialogHTML += `</dialog>`;
         document.getElementById('commu_list').insertAdjacentHTML('beforeend', dialogHTML);
@@ -181,7 +181,7 @@ function datasetToHTML(data) {
         dialogHTML += `${commuCategory}`;
         dialogHTML += `<br>`;
         dialogHTML += `<dialog id="${dialogID}" class="customDialog">`;
-        dialogHTML += `<button id="${dialogCloseID}"></button>`;
+        dialogHTML += `<button id="${dialogCloseID}" class="dialogCloseButton"></button>`;
         dialogHTML += `<span>Category: ${commuCategory}<br></span>`;
         dialogHTML += `</dialog>`;
         document.getElementById(`dialog${idSeperator}${commuType}`).insertAdjacentHTML('beforeend', dialogHTML);
