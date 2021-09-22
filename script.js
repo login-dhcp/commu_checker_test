@@ -136,18 +136,7 @@ function datasetToHTML(data) {
         dialogHTML += `</dialog>`;
         document.getElementById('commu_list').insertAdjacentHTML('beforeend', dialogHTML);
         document.getElementById(buttonID).addEventListener('click', function(e) {
-            document.getElementById(this.id.replace('btn', 'dialog')).show();
-        });
-        // close when click outside of dialog
-        document.getElementById(dialogID).addEventListener('click', function (event) {
-            // https://stackoverflow.com/a/26984690
-            var rect = this.getBoundingClientRect();
-            console.log(this.id, rect, event.clientX, event.clientY);
-            var isInDialog = (rect.top <= event.clientY && event.clientY <= rect.top + rect.height &&
-                rect.left <= event.clientX && event.clientX <= rect.left + rect.width);
-            if (!isInDialog && event.target.id !== this.id) {
-                this.close();
-            }
+            document.getElementById(this.id.replace('btn', 'dialog')).showModal();
         });
     }
 
@@ -189,18 +178,7 @@ function datasetToHTML(data) {
         dialogHTML += `</dialog>`;
         document.getElementById(`dialog${idSeperator}${commuType}`).insertAdjacentHTML('beforeend', dialogHTML);
         document.getElementById(buttonID).addEventListener('click', function(e) {
-            document.getElementById(this.id.replace('btn', 'dialog')).show();
-        });
-        // close when click outside of dialog
-        document.getElementById(dialogID).addEventListener('click', function (event) {
-            // https://stackoverflow.com/a/26984690
-            var rect = this.getBoundingClientRect();
-            console.log(this.id, rect, event.clientX, event.clientY);
-            var isInDialog = (rect.top <= event.clientY && event.clientY <= rect.top + rect.height &&
-                rect.left <= event.clientX && event.clientX <= rect.left + rect.width);
-            if (!isInDialog && event.target.id !== this.id) {
-                this.close();
-            }
+            document.getElementById(this.id.replace('btn', 'dialog')).showModal();
         });
     }
 
@@ -210,18 +188,7 @@ function datasetToHTML(data) {
         var dialogID = `dialog${idSeperator}${commu['Type']}${idSeperator}${commu['Category']}`;
         document.getElementById(dialogID).insertAdjacentHTML('beforeend', commuItemToHTML(commu));
         document.getElementById(`icon-${commu['Title']}`).addEventListener('click', function(e) {
-            document.getElementById(this.id.replace('icon', 'dialog')).show();
-        });
-        // close when click outside of dialog
-        document.getElementById(dialogID).addEventListener('click', function (event) {
-            // https://stackoverflow.com/a/26984690
-            var rect = this.getBoundingClientRect();
-            console.log(this.id, rect, event.clientX, event.clientY);
-            var isInDialog = (rect.top <= event.clientY && event.clientY <= rect.top + rect.height &&
-                rect.left <= event.clientX && event.clientX <= rect.left + rect.width);
-            if (!isInDialog && event.target.id !== this.id) {
-                this.close();
-            }
+            document.getElementById(this.id.replace('icon', 'dialog')).showModal();
         });
 
         // 3.1. Split Commus with cardType, rarity 
