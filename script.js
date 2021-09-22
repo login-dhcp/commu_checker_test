@@ -84,6 +84,7 @@ function commuItemToHTML(commudata) {
                     src="${commudata['Icon']}" height="96">`;
     commuHTML += `<span id="desc${idSeperator}${commudata['Title']}">0/0</span>`
     commuHTML += `<dialog id="dialog${idSeperator}${commudata['Title']}" class="commudialog">`;
+    commuHTML += `<button id="button${idSeperator}${commudata['Title']}_close" class="dialogCloseButton"></button>`;
     commuHTML += `<a href="${commudata['Link']}" target="_blank">${commudata['Title']}<br></a>`;
     for (var commu of commudata['Commus']) {
         commuHTML += `<label><input type="checkbox" id="btn${idSeperator}${commudata['Title']}${idSeperator}${commu['NameJP']}">${commu['NameJP']}</label>`;
@@ -127,23 +128,22 @@ function datasetToHTML(data) {
     for (var commuType of commuTypes) {
         var buttonID = `btn${idSeperator}${commuType}`;
         var dialogID = `dialog${idSeperator}${commuType}`;
+        var dialogCloseID = `${buttonID}_close`;
         var dialogIconPath = `./src/Type_${commuType}.png`;
         var dialogHTML = '';
+        dialogHTML += `<button id="${dialogCloseID}"></button>`;
         dialogHTML += `<input type="image" id="${buttonID}" value="${commuType}" src="${dialogIconPath}" height="40">`;
         dialogHTML += `<br>`;
         dialogHTML += `<dialog id="${dialogID}" class="customDialog">`;
         dialogHTML += `<span>CommuType: ${commuType}<br></span>`;
-        dialogHTML += `<button id="${dialogID}_close">Okay</button>`;
         dialogHTML += `</dialog>`;
         document.getElementById('commu_list').insertAdjacentHTML('beforeend', dialogHTML);
         document.getElementById(buttonID).addEventListener('click', function(e) {
             document.getElementById(this.id.replace('btn', 'dialog')).showModal();
         });
-        // document.getElementById(dialogID).insertAdjacentHTML('beforeend', `<button id="${buttonID}_close">Okay</button>`);
-        document.getElementById(`${dialogID}_close`).addEventListener('click', function(e) {
-            document.getElementById(this.id.replace('_close', '')).close();
+        document.getElementById(`${dialogCloseID}`).addEventListener('click', function(e) {
+            document.getElementById(this.id.replace('_close', '').replace('btn', 'dialog')).close();
         });
-
     }
 
     // 2. build commuCategory dialogs
@@ -172,9 +172,11 @@ function datasetToHTML(data) {
         var commuCategory = item_parse[2];
         var buttonID = `btn${idSeperator}${commuType}${idSeperator}${commuCategory}`;
         var dialogID = `dialog${idSeperator}${commuType}${idSeperator}${commuCategory}`;
+        var dialogCloseID = `${buttonID}_close`;
         var dialogIconPath = `./src/Category_${commuCategory}.png`;
         var dialogHTML = ``;
 
+        dialogHTML += `<button id="${dialogCloseID}"></button>`;
         dialogHTML += `<input type="image" id="${buttonID}" value="${commuCategory}" src="${dialogIconPath}" height="96">`;
         dialogHTML += `<br>`;
         dialogHTML += `${commuCategory}`;
@@ -185,6 +187,9 @@ function datasetToHTML(data) {
         document.getElementById(`dialog${idSeperator}${commuType}`).insertAdjacentHTML('beforeend', dialogHTML);
         document.getElementById(buttonID).addEventListener('click', function(e) {
             document.getElementById(this.id.replace('btn', 'dialog')).showModal();
+        });
+        document.getElementById(`${dialogCloseID}`).addEventListener('click', function(e) {
+            document.getElementById(this.id.replace('_close', '').replace('btn', 'dialog')).close();
         });
     }
 
