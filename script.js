@@ -138,6 +138,11 @@ function datasetToHTML(data) {
         document.getElementById(buttonID).addEventListener('click', function(e) {
             document.getElementById(this.id.replace('btn', 'dialog')).showModal();
         });
+        document.getElementById(dialogID).insertAdjacentHTML('beforeend', `<button id="${buttonID}_close">Okay</button>`);
+        document.getElementById(`${buttonID}_close`).addEventListener('click', function(e) {
+            this.close();
+        });
+
     }
 
     // 2. build commuCategory dialogs
