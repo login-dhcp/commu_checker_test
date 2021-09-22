@@ -145,7 +145,7 @@ function datasetToHTML(data) {
             console.log(this.id, rect, event.clientX, event.clientY);
             var isInDialog = (rect.top <= event.clientY && event.clientY <= rect.top + rect.height &&
                 rect.left <= event.clientX && event.clientX <= rect.left + rect.width);
-            if (!isInDialog) {
+            if (!isInDialog && event.target.id === this.id) {
                 this.close();
             }
         });
@@ -198,7 +198,7 @@ function datasetToHTML(data) {
             console.log(this.id, rect, event.clientX, event.clientY);
             var isInDialog = (rect.top <= event.clientY && event.clientY <= rect.top + rect.height &&
                 rect.left <= event.clientX && event.clientX <= rect.left + rect.width);
-            if (!isInDialog) {
+            if (!isInDialog && event.target.id === this.id) {
                 this.close();
             }
         });
@@ -211,6 +211,17 @@ function datasetToHTML(data) {
         document.getElementById(dialogID).insertAdjacentHTML('beforeend', commuItemToHTML(commu));
         document.getElementById(`icon-${commu['Title']}`).addEventListener('click', function(e) {
             document.getElementById(this.id.replace('icon', 'dialog')).showModal();
+        });
+        // close when click outside of dialog
+        document.getElementById(dialogID).addEventListener('click', function (event) {
+            // https://stackoverflow.com/a/26984690
+            var rect = this.getBoundingClientRect();
+            console.log(this.id, rect, event.clientX, event.clientY);
+            var isInDialog = (rect.top <= event.clientY && event.clientY <= rect.top + rect.height &&
+                rect.left <= event.clientX && event.clientX <= rect.left + rect.width);
+            if (!isInDialog && event.target.id === this.id) {
+                this.close();
+            }
         });
 
         // 3.1. Split Commus with cardType, rarity 
