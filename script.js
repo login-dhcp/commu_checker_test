@@ -201,7 +201,7 @@ function datasetToHTML(data) {
         document.getElementById(`icon-${commu['Title']}`).addEventListener('click', function(e) {
             document.getElementById(this.id.replace('icon', 'dialog')).showModal();
         });
-        var commuDialogCloseID = `btn${idSeperator}${commu['Title']}_close`;
+        var commuDialogCloseID = `btn${idSeperator}${commu['Title']}${idSeperator}${commu['Category']}_close`;
         document.getElementById(`${dialogCloseID}`).addEventListener('click', function(e) {
             document.getElementById(this.id.replace('_close', '').replace('btn', 'dialog')).close();
         });
