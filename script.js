@@ -136,7 +136,7 @@ function datasetToHTML(data) {
         dialogHTML += `</dialog>`;
         document.getElementById('commu_list').insertAdjacentHTML('beforeend', dialogHTML);
         document.getElementById(buttonID).addEventListener('click', function(e) {
-            document.getElementById(this.id.replace('btn', 'dialog')).showModal();
+            document.getElementById(this.id.replace('btn', 'dialog')).show();
         });
         // close when click outside of dialog
         document.getElementById(dialogID).addEventListener('click', function (event) {
@@ -189,7 +189,7 @@ function datasetToHTML(data) {
         dialogHTML += `</dialog>`;
         document.getElementById(`dialog${idSeperator}${commuType}`).insertAdjacentHTML('beforeend', dialogHTML);
         document.getElementById(buttonID).addEventListener('click', function(e) {
-            document.getElementById(this.id.replace('btn', 'dialog')).showModal();
+            document.getElementById(this.id.replace('btn', 'dialog')).show();
         });
         // close when click outside of dialog
         document.getElementById(dialogID).addEventListener('click', function (event) {
@@ -210,7 +210,7 @@ function datasetToHTML(data) {
         var dialogID = `dialog${idSeperator}${commu['Type']}${idSeperator}${commu['Category']}`;
         document.getElementById(dialogID).insertAdjacentHTML('beforeend', commuItemToHTML(commu));
         document.getElementById(`icon-${commu['Title']}`).addEventListener('click', function(e) {
-            document.getElementById(this.id.replace('icon', 'dialog')).showModal();
+            document.getElementById(this.id.replace('icon', 'dialog')).show();
         });
         // close when click outside of dialog
         document.getElementById(dialogID).addEventListener('click', function (event) {
