@@ -63,3 +63,9 @@ span.commuIcon[data-visible="true"] {
     left: 309.188px; 
     z-index: 102;*/
 }
+
+.dialogCloseButton {
+    position: absolute;
+    right: 0px;
+    z-index: 1;
+}
