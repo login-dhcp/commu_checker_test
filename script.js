@@ -84,7 +84,7 @@ function commuItemToHTML(commudata) {
                     src="${commudata['Icon']}" height="96">`;
     commuHTML += `<span id="desc${idSeperator}${commudata['Title']}">0/0</span>`
     commuHTML += `<dialog id="dialog${idSeperator}${commudata['Title']}" class="commudialog">`;
-    commuHTML += `<button id="btn${idSeperator}${commudata['Title']}_close" class="dialogCloseButton"></button>`;
+    commuHTML += `<button id="btn${idSeperator}${commudata['Title']}_close" class="dialogCloseButton">X</button>`;
     commuHTML += `<a href="${commudata['Link']}" target="_blank">${commudata['Title']}<br></a>`;
     for (var commu of commudata['Commus']) {
         commuHTML += `<label><input type="checkbox" id="btn${idSeperator}${commudata['Title']}${idSeperator}${commu['NameJP']}">${commu['NameJP']}</label>`;
@@ -134,7 +134,7 @@ function datasetToHTML(data) {
         dialogHTML += `<input type="image" id="${buttonID}" value="${commuType}" src="${dialogIconPath}" height="40">`;
         dialogHTML += `<br>`;
         dialogHTML += `<dialog id="${dialogID}" class="customDialog">`;
-        dialogHTML += `<button id="${dialogCloseID}" class="dialogCloseButton"></button>`;
+        dialogHTML += `<button id="${dialogCloseID}" class="dialogCloseButton">X</button>`;
         dialogHTML += `<span>CommuType: ${commuType}<br></span>`;
         dialogHTML += `</dialog>`;
         document.getElementById('commu_list').insertAdjacentHTML('beforeend', dialogHTML);
@@ -181,7 +181,7 @@ function datasetToHTML(data) {
         dialogHTML += `${commuCategory}`;
         dialogHTML += `<br>`;
         dialogHTML += `<dialog id="${dialogID}" class="customDialog">`;
-        dialogHTML += `<button id="${dialogCloseID}" class="dialogCloseButton"></button>`;
+        dialogHTML += `<button id="${dialogCloseID}" class="dialogCloseButton">X</button>`;
         dialogHTML += `<span>Category: ${commuCategory}<br></span>`;
         dialogHTML += `</dialog>`;
         document.getElementById(`dialog${idSeperator}${commuType}`).insertAdjacentHTML('beforeend', dialogHTML);
