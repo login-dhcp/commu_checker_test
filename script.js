@@ -142,6 +142,7 @@ function datasetToHTML(data) {
         document.getElementById(dialogID).addEventListener('click', function (event) {
             // https://stackoverflow.com/a/26984690
             var rect = this.getBoundingClientRect();
+            console.log(this.id, rect, event.clientX, event.clientY);
             var isInDialog = (rect.top <= event.clientY && event.clientY <= rect.top + rect.height &&
                 rect.left <= event.clientX && event.clientX <= rect.left + rect.width);
             if (!isInDialog) {
@@ -194,6 +195,7 @@ function datasetToHTML(data) {
         document.getElementById(dialogID).addEventListener('click', function (event) {
             // https://stackoverflow.com/a/26984690
             var rect = this.getBoundingClientRect();
+            console.log(this.id, rect, event.clientX, event.clientY);
             var isInDialog = (rect.top <= event.clientY && event.clientY <= rect.top + rect.height &&
                 rect.left <= event.clientX && event.clientX <= rect.left + rect.width);
             if (!isInDialog) {
