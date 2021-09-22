@@ -84,7 +84,7 @@ function commuItemToHTML(commudata) {
                     src="${commudata['Icon']}" height="96">`;
     commuHTML += `<span id="desc${idSeperator}${commudata['Title']}">0/0</span>`
     commuHTML += `<dialog id="dialog${idSeperator}${commudata['Title']}" class="commudialog">`;
-    commuHTML += `<button id="button${idSeperator}${commudata['Title']}_close" class="dialogCloseButton"></button>`;
+    commuHTML += `<button id="btn${idSeperator}${commudata['Title']}_close" class="dialogCloseButton"></button>`;
     commuHTML += `<a href="${commudata['Link']}" target="_blank">${commudata['Title']}<br></a>`;
     for (var commu of commudata['Commus']) {
         commuHTML += `<label><input type="checkbox" id="btn${idSeperator}${commudata['Title']}${idSeperator}${commu['NameJP']}">${commu['NameJP']}</label>`;
@@ -200,6 +200,10 @@ function datasetToHTML(data) {
         document.getElementById(dialogID).insertAdjacentHTML('beforeend', commuItemToHTML(commu));
         document.getElementById(`icon-${commu['Title']}`).addEventListener('click', function(e) {
             document.getElementById(this.id.replace('icon', 'dialog')).showModal();
+        });
+        var commuDialogCloseID = `btn${idSeperator}${commudata['Title']}_close`;
+        document.getElementById(`${dialogCloseID}`).addEventListener('click', function(e) {
+            document.getElementById(this.id.replace('_close', '').replace('btn', 'dialog')).close();
         });
 
         // 3.1. Split Commus with cardType, rarity 
