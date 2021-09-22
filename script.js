@@ -145,7 +145,7 @@ function datasetToHTML(data) {
             console.log(this.id, rect, event.clientX, event.clientY);
             var isInDialog = (rect.top <= event.clientY && event.clientY <= rect.top + rect.height &&
                 rect.left <= event.clientX && event.clientX <= rect.left + rect.width);
-            if (!isInDialog && event.target.id === this.id) {
+            if (!isInDialog && event.target.id !== this.id) {
                 this.close();
             }
         });
@@ -198,7 +198,7 @@ function datasetToHTML(data) {
             console.log(this.id, rect, event.clientX, event.clientY);
             var isInDialog = (rect.top <= event.clientY && event.clientY <= rect.top + rect.height &&
                 rect.left <= event.clientX && event.clientX <= rect.left + rect.width);
-            if (!isInDialog && event.target.id === this.id) {
+            if (!isInDialog && event.target.id !== this.id) {
                 this.close();
             }
         });
@@ -219,7 +219,7 @@ function datasetToHTML(data) {
             console.log(this.id, rect, event.clientX, event.clientY);
             var isInDialog = (rect.top <= event.clientY && event.clientY <= rect.top + rect.height &&
                 rect.left <= event.clientX && event.clientX <= rect.left + rect.width);
-            if (!isInDialog && event.target.id === this.id) {
+            if (!isInDialog && event.target.id !== this.id) {
                 this.close();
             }
         });
