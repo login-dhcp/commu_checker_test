@@ -133,12 +133,13 @@ function datasetToHTML(data) {
         dialogHTML += `<br>`;
         dialogHTML += `<dialog id="${dialogID}" class="customDialog">`;
         dialogHTML += `<span>CommuType: ${commuType}<br></span>`;
+        dialogHTML += `<button id="${buttonID}_close">Okay</button>`;
         dialogHTML += `</dialog>`;
         document.getElementById('commu_list').insertAdjacentHTML('beforeend', dialogHTML);
         document.getElementById(buttonID).addEventListener('click', function(e) {
             document.getElementById(this.id.replace('btn', 'dialog')).showModal();
         });
-        document.getElementById(dialogID).insertAdjacentHTML('beforeend', `<button id="${buttonID}_close">Okay</button>`);
+        // document.getElementById(dialogID).insertAdjacentHTML('beforeend', `<button id="${buttonID}_close">Okay</button>`);
         document.getElementById(`${buttonID}_close`).addEventListener('click', function(e) {
             this.close();
         });
