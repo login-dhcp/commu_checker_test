@@ -83,7 +83,7 @@ function commuItemToHTML(commudata) {
                     alt="${commudata['Icon']}" 
                     src="${commudata['Icon']}" height="96">`;
     commuHTML += `<span id="desc${idSeperator}${commudata['Title']}">0/0</span>`
-    commuHTML += `<dialog id="dialog${idSeperator}${commudata['Title']}" class="commudialog">`;
+    commuHTML += `<dialog id="dialog${idSeperator}${commudata['Title']}" class="customDialog commuDialog">`;
     commuHTML += `<button id="btn${idSeperator}${commudata['Title']}_close" class="dialogCloseButton">X</button>`;
     commuHTML += `<a href="${commudata['Link']}" target="_blank">${commudata['Title']}<br></a>`;
     for (var commu of commudata['Commus']) {

@@ -66,6 +66,14 @@ span.commuIcon[data-visible="true"] {
 
 .dialogCloseButton {
     position: absolute;
-    right: 0px;
+    right: 5px;
     z-index: 1;
+}
+
+.customDialog {
+    padding: 10px 35px 10px 10px;
+}
+
+.commuDialog {
+
 }
