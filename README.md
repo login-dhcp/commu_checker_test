@@ -3,5 +3,4 @@ Spec
 * src: 09/16 shinycolors.info/wiki/ 에 있는 카드 이미지 업로드됨.
 
 TODO
-* 아이돌 별 공통 켜뮤 추가
 * UI 개선
