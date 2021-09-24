@@ -3058,6 +3058,440 @@
         "Category": "카자노 히오리",
         "Order": 2,
         "Date": "",
+        "Title": "【白いツバサ】風野灯織_W.I.N.G",
+        "Icon": "./src/Icon Hiori P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】風野灯織",
+        "Commus": [
+            {
+                "NameJP": "クールで真面目な女の子",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/クールで真面目な女の子"
+            },
+            {
+                "NameJP": "とっておきのおまじない",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/とっておきのおまじない"
+            },
+            {
+                "NameJP": "アイドル失格",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/アイドル失格"
+            },
+            {
+                "NameJP": "少しずつ進みたい",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/少しずつ進みたい"
+            },
+            {
+                "NameJP": "ファンのため、自分のため",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/ファンのため、自分のため"
+            },
+            {
+                "NameJP": "諦められない夢",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/諦められない夢"
+            },
+            {
+                "NameJP": "夢の続きはどこまでも",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/夢の続きはどこまでも"
+            },
+            {
+                "NameJP": "オーディション後①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/オーディション後①"
+            },
+            {
+                "NameJP": "オーディション後②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/オーディション後②"
+            },
+            {
+                "NameJP": "オーディション後②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/オーディション後②"
+            },
+            {
+                "NameJP": "オーディション後③",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/オーディション後③"
+            },
+            {
+                "NameJP": "シーズン1（クリア）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/シーズン1（クリア）"
+            },
+            {
+                "NameJP": "シーズン1（失敗）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/シーズン1（失敗）"
+            },
+            {
+                "NameJP": "シーズン2（クリア）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/シーズン2（クリア）"
+            },
+            {
+                "NameJP": "シーズン2（失敗）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/シーズン2（失敗）"
+            },
+            {
+                "NameJP": "シーズン3（クリア）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/シーズン3（クリア）"
+            },
+            {
+                "NameJP": "シーズン3（失敗）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/シーズン3（失敗）"
+            },
+            {
+                "NameJP": "シーズン4（クリア）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/シーズン4（クリア）"
+            },
+            {
+                "NameJP": "シーズン4（失敗）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/シーズン4（失敗）"
+            },
+            {
+                "NameJP": "準決勝前コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/準決勝前コミュ"
+            },
+            {
+                "NameJP": "準決勝後コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/準決勝後コミュ"
+            },
+            {
+                "NameJP": "決勝前コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/決勝前コミュ"
+            },
+            {
+                "NameJP": "決勝後コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/決勝後コミュ"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
+        "Title": "【白いツバサ】風野灯織_팬 감사제",
+        "Icon": "./src/Icon Hiori P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】風野灯織",
+        "Commus": [
+            {
+                "NameJP": "言ってませんでしたけど",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/감사제/言ってませんでしたけど"
+            },
+            {
+                "NameJP": "始まり、もう一度",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/감사제/始まり、もう一度"
+            },
+            {
+                "NameJP": "『頑張りたい』",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/감사제/『頑張りたい』"
+            },
+            {
+                "NameJP": "空が赤いから",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/감사제/空が赤いから"
+            },
+            {
+                "NameJP": "雲なんて吹き飛ばして",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/감사제/雲なんて吹き飛ばして"
+            },
+            {
+                "NameJP": "星たちは駆けて輝く",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/감사제/星たちは駆けて輝く"
+            },
+            {
+                "NameJP": "何度だって最高の晴れにしよう",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/감사제/何度だって最高の晴れにしよう"
+            },
+            {
+                "NameJP": "きらめきを詰めてすすむしっぽ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/감사제/きらめきを詰めてすすむしっぽ"
+            },
+            {
+                "NameJP": "リハーサル前",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/감사제/リハーサル前"
+            },
+            {
+                "NameJP": "リハーサル後",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/감사제/リハーサル後"
+            },
+            {
+                "NameJP": "感謝祭本番前（ユニット）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/감사제/感謝祭本番前（ユニット）"
+            },
+            {
+                "NameJP": "感謝祭本番前",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/감사제/感謝祭本番前"
+            },
+            {
+                "NameJP": "感謝祭本番後（通常）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/감사제/感謝祭本番後（通常）"
+            },
+            {
+                "NameJP": "感謝祭本番後（MVP）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/감사제/感謝祭本番後（MVP）"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
+        "Title": "【白いツバサ】風野灯織_G.R.A.D",
+        "Icon": "./src/Icon Hiori P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】風野灯織",
+        "Commus": [
+            {
+                "NameJP": "私も、ふたりみたいに",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/G.R.A.D/私も、ふたりみたいに"
+            },
+            {
+                "NameJP": "そこには千里の距離があるよう",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/G.R.A.D/そこには千里の距離があるよう"
+            },
+            {
+                "NameJP": "明かりがさす方へ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/G.R.A.D/明かりがさす方へ"
+            },
+            {
+                "NameJP": "今、風野灯織になる",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/G.R.A.D/今、風野灯織になる"
+            },
+            {
+                "NameJP": "ひとりだったら見付からなかった",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/G.R.A.D/ひとりだったら見付からなかった"
+            },
+            {
+                "NameJP": "そしてまた歩き出そう",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/G.R.A.D/そしてまた歩き出そう"
+            },
+            {
+                "NameJP": "予選前コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/G.R.A.D/予選前コミュ"
+            },
+            {
+                "NameJP": "予選後コミュ 勝利",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/G.R.A.D/予選後コミュ 勝利"
+            },
+            {
+                "NameJP": "予選後コミュ 敗北",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/G.R.A.D/予選後コミュ 敗北"
+            },
+            {
+                "NameJP": "敗者復活前コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/G.R.A.D/敗者復活前コミュ"
+            },
+            {
+                "NameJP": "G.R.A.D.敗退コミュ①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/G.R.A.D/G.R.A.D.敗退コミュ①"
+            },
+            {
+                "NameJP": "G.R.A.D.敗退コミュ②前",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/G.R.A.D/空はつづく"
+            },
+            {
+                "NameJP": "G.R.A.D.敗退コミュ②後",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/G.R.A.D/G.R.A.D.敗退コミュ②後"
+            },
+            {
+                "NameJP": "決勝前コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/G.R.A.D/決勝前コミュ"
+            },
+            {
+                "NameJP": "決勝後コミュ　勝利",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/G.R.A.D/決勝後コミュ　勝利"
+            },
+            {
+                "NameJP": "決勝後コミュ　敗北①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/G.R.A.D/決勝後コミュ　敗北①"
+            },
+            {
+                "NameJP": "決勝後コミュ　敗北②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/G.R.A.D/決勝後コミュ　敗北②"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
+        "Title": "【白いツバサ】風野灯織_Landing Point",
+        "Icon": "./src/Icon Hiori P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】風野灯織",
+        "Commus": [
+            {
+                "NameJP": "知らない",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Landing Point/知らない"
+            },
+            {
+                "NameJP": "そんなものはない",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Landing Point/そんなものはない"
+            },
+            {
+                "NameJP": "わからない",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Landing Point/わからない"
+            },
+            {
+                "NameJP": "本当に？",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Landing Point/本当に？"
+            },
+            {
+                "NameJP": "『ない』はずだった",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Landing Point/『ない』はずだった"
+            },
+            {
+                "NameJP": "『ない』はない",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Landing Point/『ない』はない"
+            },
+            {
+                "NameJP": "1曲目前コミュ《ユニット限定》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Landing Point/1曲目前コミュ《ユニット限定》"
+            },
+            {
+                "NameJP": "1曲目前コミュ《ユニット》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Landing Point/1曲目前コミュ《ユニット》"
+            },
+            {
+                "NameJP": "2曲目前コミュ《ユニット限定》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Landing Point/2曲目前コミュ《ユニット限定》"
+            },
+            {
+                "NameJP": "3曲目前コミュ《ユニット限定》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Landing Point/3曲目前コミュ《ユニット限定》"
+            },
+            {
+                "NameJP": "ライブ後コミュ《ユニット》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Landing Point/ライブ後コミュ《ユニット》"
+            },
+            {
+                "NameJP": "ライブ1曲目前コミュ《個人》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Landing Point/ライブ1曲目前コミュ《個人》"
+            },
+            {
+                "NameJP": "ライブ2曲目前コミュ《個人》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Landing Point/ライブ2曲目前コミュ《個人》"
+            },
+            {
+                "NameJP": "ライブ3曲目前コミュ《個人》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Landing Point/ライブ3曲目前コミュ《個人》"
+            },
+            {
+                "NameJP": "ライブ後コミュ《個人》　大成功",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Landing Point/ライブ後コミュ《個人》　大成功"
+            },
+            {
+                "NameJP": "ライブ後コミュ《個人》　成功",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Landing Point/ライブ後コミュ《個人》　成功"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
+        "Title": "【白いツバサ】風野灯織_Morning",
+        "Icon": "./src/Icon Hiori P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】風野灯織",
+        "Commus": [
+            {
+                "NameJP": "Morning①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Morning①"
+            },
+            {
+                "NameJP": "Morning②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Morning②"
+            },
+            {
+                "NameJP": "Morning③",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Morning③"
+            },
+            {
+                "NameJP": "Morning④",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Morning④"
+            },
+            {
+                "NameJP": "Morning⑤",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Morning⑤"
+            },
+            {
+                "NameJP": "Morning⑥",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Morning⑥"
+            },
+            {
+                "NameJP": "Morning⑦",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Morning⑦"
+            },
+            {
+                "NameJP": "Morning⑧",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Morning⑧"
+            },
+            {
+                "NameJP": "Morning⑨",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Morning⑨"
+            },
+            {
+                "NameJP": "Morning⑩",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Morning⑩"
+            },
+            {
+                "NameJP": "Morning⑪",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Morning⑪"
+            },
+            {
+                "NameJP": "Morning②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Morning②"
+            },
+            {
+                "NameJP": "Morning⑫",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Morning⑫"
+            },
+            {
+                "NameJP": "Morning⑬",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Morning⑬"
+            },
+            {
+                "NameJP": "Morning⑭",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Morning⑭"
+            },
+            {
+                "NameJP": "Morning⑮",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Morning⑮"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
+        "Title": "【白いツバサ】風野灯織_オーディション",
+        "Icon": "./src/Icon Hiori P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】風野灯織",
+        "Commus": [
+            {
+                "NameJP": "オーディション前①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/オーディション前①"
+            },
+            {
+                "NameJP": "オーディション前②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/オーディション前②"
+            },
+            {
+                "NameJP": "オーディション前③",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/オーディション前③"
+            },
+            {
+                "NameJP": "オーディション前④",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/オーディション前④"
+            },
+            {
+                "NameJP": "オーディション前⑤",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/オーディション前⑤"
+            },
+            {
+                "NameJP": "オーディション前⑥",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/オーディション前⑥"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "카자노 히오리",
+        "Order": 2,
+        "Date": "",
         "Title": "【みんなと結んだもの】風野灯織",
         "Icon": "./src/Icon Hiori S SSR 01.png",
         "Link": "https://shinycolors.info/wiki/【みんなと結んだもの】風野灯織",
@@ -3599,6 +4033,440 @@
             {
                 "NameJP": "いつかの未来へ",
                 "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/P/SR-4/いつかの未来へ"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
+        "Title": "【白いツバサ】八宮めぐる_W.I.N.G",
+        "Icon": "./src/Icon Meguru P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】八宮めぐる",
+        "Commus": [
+            {
+                "NameJP": "輝きはめまぐるしく",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/輝きはめまぐるしく"
+            },
+            {
+                "NameJP": "アイドルとして",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/アイドルとして"
+            },
+            {
+                "NameJP": "無限に広がる未来への",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/無限に広がる未来への"
+            },
+            {
+                "NameJP": "大切、選べないから。",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/大切、選べないから。"
+            },
+            {
+                "NameJP": "これがわたしだから",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/これがわたしだから"
+            },
+            {
+                "NameJP": "後ろは振り向かない",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/後ろは振り向かない"
+            },
+            {
+                "NameJP": "たくさんの応援を力に変えて",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/たくさんの応援を力に変えて"
+            },
+            {
+                "NameJP": "オーディション後①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/オーディション後①"
+            },
+            {
+                "NameJP": "オーディション後②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/オーディション後②"
+            },
+            {
+                "NameJP": "オーディション後②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/オーディション後②"
+            },
+            {
+                "NameJP": "オーディション後③",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/オーディション後③"
+            },
+            {
+                "NameJP": "シーズン1（クリア）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/シーズン1（クリア）"
+            },
+            {
+                "NameJP": "シーズン1（失敗）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/シーズン1（失敗）"
+            },
+            {
+                "NameJP": "シーズン2（クリア）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/シーズン2（クリア）"
+            },
+            {
+                "NameJP": "シーズン2（失敗）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/シーズン2（失敗）"
+            },
+            {
+                "NameJP": "シーズン3（クリア）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/シーズン3（クリア）"
+            },
+            {
+                "NameJP": "シーズン3（失敗）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/シーズン3（失敗）"
+            },
+            {
+                "NameJP": "シーズン4（クリア）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/シーズン4（クリア）"
+            },
+            {
+                "NameJP": "シーズン4（失敗）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/シーズン4（失敗）"
+            },
+            {
+                "NameJP": "準決勝前コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/準決勝前コミュ"
+            },
+            {
+                "NameJP": "準決勝後コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/準決勝後コミュ"
+            },
+            {
+                "NameJP": "決勝前コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/決勝前コミュ"
+            },
+            {
+                "NameJP": "決勝後コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/決勝後コミュ"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
+        "Title": "【白いツバサ】八宮めぐる_팬 감사제",
+        "Icon": "./src/Icon Meguru P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】八宮めぐる",
+        "Commus": [
+            {
+                "NameJP": "『きんいろ』の",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/감사제/『きんいろ』の"
+            },
+            {
+                "NameJP": "始まり、もう一度",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/감사제/始まり、もう一度"
+            },
+            {
+                "NameJP": "『頑張りたい』",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/감사제/『頑張りたい』"
+            },
+            {
+                "NameJP": "空が赤いから",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/감사제/空が赤いから"
+            },
+            {
+                "NameJP": "雲なんて吹き飛ばして",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/감사제/雲なんて吹き飛ばして"
+            },
+            {
+                "NameJP": "星たちは駆けて輝く",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/감사제/星たちは駆けて輝く"
+            },
+            {
+                "NameJP": "何度だって最高の晴れにしよう",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/감사제/何度だって最高の晴れにしよう"
+            },
+            {
+                "NameJP": "きらめきを詰めてすすむしっぽ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/감사제/きらめきを詰めてすすむしっぽ"
+            },
+            {
+                "NameJP": "リハーサル前",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/감사제/リハーサル前"
+            },
+            {
+                "NameJP": "リハーサル後",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/감사제/リハーサル後"
+            },
+            {
+                "NameJP": "感謝祭本番前（ユニット）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/감사제/感謝祭本番前（ユニット）"
+            },
+            {
+                "NameJP": "感謝祭本番前",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/감사제/感謝祭本番前"
+            },
+            {
+                "NameJP": "感謝祭本番後（通常）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/감사제/感謝祭本番後（通常）"
+            },
+            {
+                "NameJP": "感謝祭本番後（MVP）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/감사제/感謝祭本番後（MVP）"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
+        "Title": "【白いツバサ】八宮めぐる_G.R.A.D",
+        "Icon": "./src/Icon Meguru P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】八宮めぐる",
+        "Commus": [
+            {
+                "NameJP": "あざやかに色づいている",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/G.R.A.D/あざやかに色づいている"
+            },
+            {
+                "NameJP": "触れるものはぜんぶ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/G.R.A.D/触れるものはぜんぶ"
+            },
+            {
+                "NameJP": "そうしたいだけなの",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/G.R.A.D/そうしたいだけなの"
+            },
+            {
+                "NameJP": "ぬくもり",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/G.R.A.D/ぬくもり"
+            },
+            {
+                "NameJP": "届くところはぜんぶ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/G.R.A.D/届くところはぜんぶ"
+            },
+            {
+                "NameJP": "こころはアンダンテで",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/G.R.A.D/こころはアンダンテで"
+            },
+            {
+                "NameJP": "予選前コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/G.R.A.D/予選前コミュ"
+            },
+            {
+                "NameJP": "予選後コミュ 勝利",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/G.R.A.D/予選後コミュ 勝利"
+            },
+            {
+                "NameJP": "予選後コミュ 敗北",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/G.R.A.D/予選後コミュ 敗北"
+            },
+            {
+                "NameJP": "敗者復活前コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/G.R.A.D/敗者復活前コミュ"
+            },
+            {
+                "NameJP": "G.R.A.D.敗退コミュ①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/G.R.A.D/G.R.A.D.敗退コミュ①"
+            },
+            {
+                "NameJP": "G.R.A.D.敗退コミュ②前",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/G.R.A.D/空はつづく"
+            },
+            {
+                "NameJP": "G.R.A.D.敗退コミュ②後",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/G.R.A.D/G.R.A.D.敗退コミュ②後"
+            },
+            {
+                "NameJP": "決勝前コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/G.R.A.D/決勝前コミュ"
+            },
+            {
+                "NameJP": "決勝後コミュ　勝利",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/G.R.A.D/決勝後コミュ　勝利"
+            },
+            {
+                "NameJP": "決勝後コミュ　敗北①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/G.R.A.D/決勝後コミュ　敗北①"
+            },
+            {
+                "NameJP": "決勝後コミュ　敗北②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/G.R.A.D/決勝後コミュ　敗北②"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
+        "Title": "【白いツバサ】八宮めぐる_Landing Point",
+        "Icon": "./src/Icon Meguru P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】八宮めぐる",
+        "Commus": [
+            {
+                "NameJP": "ねぇ、ここまで来れたよ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Landing Point/ねぇ、ここまで来れたよ"
+            },
+            {
+                "NameJP": "もらってるのはいつもわたし",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Landing Point/もらってるのはいつもわたし"
+            },
+            {
+                "NameJP": "君じゃなきゃだめなんだ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Landing Point/君じゃなきゃだめなんだ"
+            },
+            {
+                "NameJP": "私じゃなくてもいいでしょう？",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Landing Point/私じゃなくてもいいでしょう？"
+            },
+            {
+                "NameJP": "わがまま、ふたりぶん",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Landing Point/わがまま、ふたりぶん"
+            },
+            {
+                "NameJP": "だって、そんな奇跡みたいな",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Landing Point/だって、そんな奇跡みたいな"
+            },
+            {
+                "NameJP": "1曲目前コミュ《ユニット限定》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Landing Point/1曲目前コミュ《ユニット限定》"
+            },
+            {
+                "NameJP": "1曲目前コミュ《ユニット》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Landing Point/1曲目前コミュ《ユニット》"
+            },
+            {
+                "NameJP": "2曲目前コミュ《ユニット限定》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Landing Point/2曲目前コミュ《ユニット限定》"
+            },
+            {
+                "NameJP": "3曲目前コミュ《ユニット限定》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Landing Point/3曲目前コミュ《ユニット限定》"
+            },
+            {
+                "NameJP": "ライブ後コミュ《ユニット》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Landing Point/ライブ後コミュ《ユニット》"
+            },
+            {
+                "NameJP": "ライブ1曲目前コミュ《個人》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Landing Point/ライブ1曲目前コミュ《個人》"
+            },
+            {
+                "NameJP": "ライブ2曲目前コミュ《個人》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Landing Point/ライブ2曲目前コミュ《個人》"
+            },
+            {
+                "NameJP": "ライブ3曲目前コミュ《個人》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Landing Point/ライブ3曲目前コミュ《個人》"
+            },
+            {
+                "NameJP": "ライブ後コミュ《個人》　大成功",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Landing Point/ライブ後コミュ《個人》　大成功"
+            },
+            {
+                "NameJP": "ライブ後コミュ《個人》　成功",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Landing Point/ライブ後コミュ《個人》　成功"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
+        "Title": "【白いツバサ】八宮めぐる_Morning",
+        "Icon": "./src/Icon Meguru P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】八宮めぐる",
+        "Commus": [
+            {
+                "NameJP": "Morning①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Morning①"
+            },
+            {
+                "NameJP": "Morning②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Morning②"
+            },
+            {
+                "NameJP": "Morning③",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Morning③"
+            },
+            {
+                "NameJP": "Morning④",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Morning④"
+            },
+            {
+                "NameJP": "Morning⑤",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Morning⑤"
+            },
+            {
+                "NameJP": "Morning⑥",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Morning⑥"
+            },
+            {
+                "NameJP": "Morning⑦",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Morning⑦"
+            },
+            {
+                "NameJP": "Morning⑧",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Morning⑧"
+            },
+            {
+                "NameJP": "Morning⑨",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Morning⑨"
+            },
+            {
+                "NameJP": "Morning⑩",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Morning⑩"
+            },
+            {
+                "NameJP": "Morning⑪",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Morning⑪"
+            },
+            {
+                "NameJP": "Morning②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Morning②"
+            },
+            {
+                "NameJP": "Morning⑫",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Morning⑫"
+            },
+            {
+                "NameJP": "Morning⑬",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Morning⑬"
+            },
+            {
+                "NameJP": "Morning⑭",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Morning⑭"
+            },
+            {
+                "NameJP": "Morning⑮",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Morning⑮"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "하치미야 메구루",
+        "Order": 3,
+        "Date": "",
+        "Title": "【白いツバサ】八宮めぐる_オーディション",
+        "Icon": "./src/Icon Meguru P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】八宮めぐる",
+        "Commus": [
+            {
+                "NameJP": "オーディション前①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/オーディション前①"
+            },
+            {
+                "NameJP": "オーディション前②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/オーディション前②"
+            },
+            {
+                "NameJP": "オーディション前③",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/オーディション前③"
+            },
+            {
+                "NameJP": "オーディション前④",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/オーディション前④"
+            },
+            {
+                "NameJP": "オーディション前⑤",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/オーディション前⑤"
+            },
+            {
+                "NameJP": "オーディション前⑥",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/オーディション前⑥"
             }
         ]
     },
