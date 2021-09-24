@@ -46,7 +46,7 @@ async function init() {
         var raw_data = json;
         await datasetToHTML(parse_raw(raw_data));
         await sleep(1000);
-        getStateFromUrl();
+        // getStateFromUrl();
     });
     
     console.log('finished');
@@ -242,7 +242,7 @@ function datasetToHTML(data) {
 
 }
 
-function generateUrl() {
+function saveState() {
     // 1. 쿼리 파라미터를 제외한 현재 URL만 취득
     var url = document.location.href;
     if (url.indexOf("?") != -1) {
@@ -264,10 +264,13 @@ function generateUrl() {
     // $(labelId).text(url);
     console.log(url);
     alert(url);
+    document.getElementById('commu_selection_state').value = url;
 }
 
-function getStateFromUrl() {
-    var url = document.location.href;
+function loadState() {
+    // var url = document.location.href;
+    var url = document.getElementById('commu_selection_state').value;
+    console.log('load', url);
     if (url.includes('?state=')) {
         var states = url.split('?state=')[1];
         states = states.split('?')[0];
