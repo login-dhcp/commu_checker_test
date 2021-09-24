@@ -1162,7 +1162,7 @@
         "Order": 0,
         "Date": "",
         "Title": "many screens",
-        "Icon": "./src/many screens_Banner.png",
+        "Icon": "./src/many_screens_Banner.png",
         "Link": "https://shinycolors.info/wiki/many screens",
         "Commus": [
             {
@@ -2009,6 +2009,440 @@
             {
                 "NameJP": "きをつけて",
                 "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/P/SR-5/きをつけて"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
+        "Title": "【白いツバサ】櫻木真乃_W.I.N.G",
+        "Icon": "./src/Icon Mano P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "公園の歌声",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/公園の歌声"
+            },
+            {
+                "NameJP": "自信のありか",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/自信のありか"
+            },
+            {
+                "NameJP": "ありのままで",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/ありのままで"
+            },
+            {
+                "NameJP": "頑張りすぎ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/頑張りすぎ"
+            },
+            {
+                "NameJP": "自分を信じて",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/自分を信じて"
+            },
+            {
+                "NameJP": "未来へ羽ばたく",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/未来へ羽ばたく"
+            },
+            {
+                "NameJP": "これからも飛んでいきたい",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/これからも飛んでいきたい"
+            },
+            {
+                "NameJP": "オーディション後①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/オーディション後①"
+            },
+            {
+                "NameJP": "オーディション後②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/オーディション後②"
+            },
+            {
+                "NameJP": "オーディション後②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/オーディション後②"
+            },
+            {
+                "NameJP": "オーディション後③",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/オーディション後③"
+            },
+            {
+                "NameJP": "シーズン1（クリア）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/シーズン1（クリア）"
+            },
+            {
+                "NameJP": "シーズン1（失敗）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/シーズン1（失敗）"
+            },
+            {
+                "NameJP": "シーズン2（クリア）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/シーズン2（クリア）"
+            },
+            {
+                "NameJP": "シーズン2（失敗）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/シーズン2（失敗）"
+            },
+            {
+                "NameJP": "シーズン3（クリア）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/シーズン3（クリア）"
+            },
+            {
+                "NameJP": "シーズン3（失敗）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/シーズン3（失敗）"
+            },
+            {
+                "NameJP": "シーズン4（クリア）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/シーズン4（クリア）"
+            },
+            {
+                "NameJP": "シーズン4（失敗）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/シーズン4（失敗）"
+            },
+            {
+                "NameJP": "準決勝前コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/準決勝前コミュ"
+            },
+            {
+                "NameJP": "準決勝後コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/準決勝後コミュ"
+            },
+            {
+                "NameJP": "決勝前コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/決勝前コミュ"
+            },
+            {
+                "NameJP": "決勝後コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/決勝後コミュ"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
+        "Title": "【白いツバサ】櫻木真乃_팬 감사제",
+        "Icon": "./src/Icon Mano P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "あんをつつむあったかい気持ち",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/감사제/あんをつつむあったかい気持ち"
+            },
+            {
+                "NameJP": "始まり、もう一度",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/감사제/始まり、もう一度"
+            },
+            {
+                "NameJP": "『頑張りたい』",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/감사제/『頑張りたい』"
+            },
+            {
+                "NameJP": "空が赤いから",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/감사제/空が赤いから"
+            },
+            {
+                "NameJP": "雲なんて吹き飛ばして",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/감사제/雲なんて吹き飛ばして"
+            },
+            {
+                "NameJP": "星たちは駆けて輝く",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/감사제/星たちは駆けて輝く"
+            },
+            {
+                "NameJP": "何度だって最高の晴れにしよう",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/감사제/何度だって最高の晴れにしよう"
+            },
+            {
+                "NameJP": "きらめきを詰めてすすむしっぽ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/감사제/きらめきを詰めてすすむしっぽ"
+            },
+            {
+                "NameJP": "リハーサル前",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/감사제/リハーサル前"
+            },
+            {
+                "NameJP": "リハーサル後",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/감사제/リハーサル後"
+            },
+            {
+                "NameJP": "感謝祭本番前（ユニット）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/감사제/感謝祭本番前（ユニット）"
+            },
+            {
+                "NameJP": "感謝祭本番前",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/감사제/感謝祭本番前"
+            },
+            {
+                "NameJP": "感謝祭本番後（通常）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/감사제/感謝祭本番後（通常）"
+            },
+            {
+                "NameJP": "感謝祭本番後（MVP）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/감사제/感謝祭本番後（MVP）"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
+        "Title": "【白いツバサ】櫻木真乃_G.R.A.D",
+        "Icon": "./src/Icon Mano P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "つづく空のはじまり",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/G.R.A.D/つづく空のはじまり"
+            },
+            {
+                "NameJP": "跳ねるように進む",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/G.R.A.D/跳ねるように進む"
+            },
+            {
+                "NameJP": "足元、ぐるりとゆがんで",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/G.R.A.D/足元、ぐるりとゆがんで"
+            },
+            {
+                "NameJP": "それでも……",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/G.R.A.D/それでも……"
+            },
+            {
+                "NameJP": "とまる歩みに",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/G.R.A.D/とまる歩みに"
+            },
+            {
+                "NameJP": "空はつづく",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/G.R.A.D/空はつづく"
+            },
+            {
+                "NameJP": "予選前コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/G.R.A.D/予選前コミュ"
+            },
+            {
+                "NameJP": "予選後コミュ 勝利",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/G.R.A.D/予選後コミュ 勝利"
+            },
+            {
+                "NameJP": "予選後コミュ 敗北",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/G.R.A.D/予選後コミュ 敗北"
+            },
+            {
+                "NameJP": "敗者復活前コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/G.R.A.D/敗者復活前コミュ"
+            },
+            {
+                "NameJP": "G.R.A.D.敗退コミュ①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/G.R.A.D/G.R.A.D.敗退コミュ①"
+            },
+            {
+                "NameJP": "G.R.A.D.敗退コミュ②前",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/G.R.A.D/空はつづく"
+            },
+            {
+                "NameJP": "G.R.A.D.敗退コミュ②後",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/G.R.A.D/G.R.A.D.敗退コミュ②後"
+            },
+            {
+                "NameJP": "決勝前コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/G.R.A.D/決勝前コミュ"
+            },
+            {
+                "NameJP": "決勝後コミュ　勝利",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/G.R.A.D/決勝後コミュ　勝利"
+            },
+            {
+                "NameJP": "決勝後コミュ　敗北①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/G.R.A.D/決勝後コミュ　敗北①"
+            },
+            {
+                "NameJP": "決勝後コミュ　敗北②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/G.R.A.D/決勝後コミュ　敗北②"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
+        "Title": "【白いツバサ】櫻木真乃_Landing Point",
+        "Icon": "./src/Icon Mano P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "降りつもる羽のように",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Landing Point/降りつもる羽のように"
+            },
+            {
+                "NameJP": "迷って、欲しがって",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Landing Point/迷って、欲しがって"
+            },
+            {
+                "NameJP": "不思議の夜の森",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Landing Point/不思議の夜の森"
+            },
+            {
+                "NameJP": "暗がりから、つかんで",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Landing Point/暗がりから、つかんで"
+            },
+            {
+                "NameJP": "鮮やかに茜さす",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Landing Point/鮮やかに茜さす"
+            },
+            {
+                "NameJP": "降りそそぐ羽のように",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Landing Point/降りそそぐ羽のように"
+            },
+            {
+                "NameJP": "1曲目前コミュ《ユニット限定》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Landing Point/1曲目前コミュ《ユニット限定》"
+            },
+            {
+                "NameJP": "1曲目前コミュ《ユニット》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Landing Point/1曲目前コミュ《ユニット》"
+            },
+            {
+                "NameJP": "2曲目前コミュ《ユニット限定》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Landing Point/2曲目前コミュ《ユニット限定》"
+            },
+            {
+                "NameJP": "3曲目前コミュ《ユニット限定》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Landing Point/3曲目前コミュ《ユニット限定》"
+            },
+            {
+                "NameJP": "ライブ後コミュ《ユニット》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Landing Point/ライブ後コミュ《ユニット》"
+            },
+            {
+                "NameJP": "ライブ1曲目前コミュ《個人》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Landing Point/ライブ1曲目前コミュ《個人》"
+            },
+            {
+                "NameJP": "ライブ2曲目前コミュ《個人》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Landing Point/ライブ2曲目前コミュ《個人》"
+            },
+            {
+                "NameJP": "ライブ3曲目前コミュ《個人》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Landing Point/ライブ3曲目前コミュ《個人》"
+            },
+            {
+                "NameJP": "ライブ後コミュ《個人》　大成功",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Landing Point/ライブ後コミュ《個人》　大成功"
+            },
+            {
+                "NameJP": "ライブ後コミュ《個人》　成功",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Landing Point/ライブ後コミュ《個人》　成功"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
+        "Title": "【白いツバサ】櫻木真乃_Morning",
+        "Icon": "./src/Icon Mano P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "Morning①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Morning①"
+            },
+            {
+                "NameJP": "Morning②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Morning②"
+            },
+            {
+                "NameJP": "Morning③",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Morning③"
+            },
+            {
+                "NameJP": "Morning④",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Morning④"
+            },
+            {
+                "NameJP": "Morning⑤",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Morning⑤"
+            },
+            {
+                "NameJP": "Morning⑥",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Morning⑥"
+            },
+            {
+                "NameJP": "Morning⑦",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Morning⑦"
+            },
+            {
+                "NameJP": "Morning⑧",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Morning⑧"
+            },
+            {
+                "NameJP": "Morning⑨",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Morning⑨"
+            },
+            {
+                "NameJP": "Morning⑩",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Morning⑩"
+            },
+            {
+                "NameJP": "Morning⑪",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Morning⑪"
+            },
+            {
+                "NameJP": "Morning②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Morning②"
+            },
+            {
+                "NameJP": "Morning⑫",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Morning⑫"
+            },
+            {
+                "NameJP": "Morning⑬",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Morning⑬"
+            },
+            {
+                "NameJP": "Morning⑭",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Morning⑭"
+            },
+            {
+                "NameJP": "Morning⑮",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Morning⑮"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "사쿠라기 마노",
+        "Order": 1,
+        "Date": "",
+        "Title": "【白いツバサ】櫻木真乃_オーディション",
+        "Icon": "./src/Icon Mano P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】櫻木真乃",
+        "Commus": [
+            {
+                "NameJP": "オーディション前①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/オーディション前①"
+            },
+            {
+                "NameJP": "オーディション前②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/オーディション前②"
+            },
+            {
+                "NameJP": "オーディション前③",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/オーディション前③"
+            },
+            {
+                "NameJP": "オーディション前④",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/オーディション前④"
+            },
+            {
+                "NameJP": "オーディション前⑤",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/オーディション前⑤"
+            },
+            {
+                "NameJP": "オーディション前⑥",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/オーディション前⑥"
             }
         ]
     },
