@@ -2017,7 +2017,7 @@
         "Category": "사쿠라기 마노",
         "Order": 1,
         "Date": "",
-        "Title": "【白いツバサ】櫻木真乃_W.I.N.G",
+        "Title": "【白いツバサ】櫻木真乃_WING",
         "Icon": "./src/Icon Mano P R 01.png",
         "Link": "https://shinycolors.info/wiki/【白いツバサ】櫻木真乃",
         "Commus": [
@@ -2112,6 +2112,30 @@
             {
                 "NameJP": "決勝後コミュ",
                 "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/決勝後コミュ"
+            },
+            {
+                "NameJP": "オーディション前①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/オーディション前①"
+            },
+            {
+                "NameJP": "オーディション前②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/オーディション前②"
+            },
+            {
+                "NameJP": "オーディション前③",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/オーディション前③"
+            },
+            {
+                "NameJP": "オーディション前④",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/オーディション前④"
+            },
+            {
+                "NameJP": "オーディション前⑤",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/オーディション前⑤"
+            },
+            {
+                "NameJP": "オーディション前⑥",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/W.I.N.G/オーディション前⑥"
             }
         ]
     },
@@ -2187,7 +2211,7 @@
         "Category": "사쿠라기 마노",
         "Order": 1,
         "Date": "",
-        "Title": "【白いツバサ】櫻木真乃_G.R.A.D",
+        "Title": "【白いツバサ】櫻木真乃_GRAD",
         "Icon": "./src/Icon Mano P R 01.png",
         "Link": "https://shinycolors.info/wiki/【白いツバサ】櫻木真乃",
         "Commus": [
@@ -2408,41 +2432,6 @@
             {
                 "NameJP": "Morning⑮",
                 "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/Morning⑮"
-            }
-        ]
-    },
-    {
-        "Type": "Idol",
-        "Category": "사쿠라기 마노",
-        "Order": 1,
-        "Date": "",
-        "Title": "【白いツバサ】櫻木真乃_オーディション",
-        "Icon": "./src/Icon Mano P R 01.png",
-        "Link": "https://shinycolors.info/wiki/【白いツバサ】櫻木真乃",
-        "Commus": [
-            {
-                "NameJP": "オーディション前①",
-                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/オーディション前①"
-            },
-            {
-                "NameJP": "オーディション前②",
-                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/オーディション前②"
-            },
-            {
-                "NameJP": "オーディション前③",
-                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/オーディション前③"
-            },
-            {
-                "NameJP": "オーディション前④",
-                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/オーディション前④"
-            },
-            {
-                "NameJP": "オーディション前⑤",
-                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/オーディション前⑤"
-            },
-            {
-                "NameJP": "オーディション前⑥",
-                "Link": "https://shinycolors.info/wiki/커뮤니케이션:사쿠라기 마노/공통/オーディション前⑥"
             }
         ]
     },
@@ -3058,7 +3047,7 @@
         "Category": "카자노 히오리",
         "Order": 2,
         "Date": "",
-        "Title": "【白いツバサ】風野灯織_W.I.N.G",
+        "Title": "【白いツバサ】風野灯織_WING",
         "Icon": "./src/Icon Hiori P R 01.png",
         "Link": "https://shinycolors.info/wiki/【白いツバサ】風野灯織",
         "Commus": [
@@ -3153,6 +3142,30 @@
             {
                 "NameJP": "決勝後コミュ",
                 "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/決勝後コミュ"
+            },
+            {
+                "NameJP": "オーディション前①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/オーディション前①"
+            },
+            {
+                "NameJP": "オーディション前②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/オーディション前②"
+            },
+            {
+                "NameJP": "オーディション前③",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/オーディション前③"
+            },
+            {
+                "NameJP": "オーディション前④",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/オーディション前④"
+            },
+            {
+                "NameJP": "オーディション前⑤",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/オーディション前⑤"
+            },
+            {
+                "NameJP": "オーディション前⑥",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/W.I.N.G/オーディション前⑥"
             }
         ]
     },
@@ -3228,7 +3241,7 @@
         "Category": "카자노 히오리",
         "Order": 2,
         "Date": "",
-        "Title": "【白いツバサ】風野灯織_G.R.A.D",
+        "Title": "【白いツバサ】風野灯織_GRAD",
         "Icon": "./src/Icon Hiori P R 01.png",
         "Link": "https://shinycolors.info/wiki/【白いツバサ】風野灯織",
         "Commus": [
@@ -3449,41 +3462,6 @@
             {
                 "NameJP": "Morning⑮",
                 "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/Morning⑮"
-            }
-        ]
-    },
-    {
-        "Type": "Idol",
-        "Category": "카자노 히오리",
-        "Order": 2,
-        "Date": "",
-        "Title": "【白いツバサ】風野灯織_オーディション",
-        "Icon": "./src/Icon Hiori P R 01.png",
-        "Link": "https://shinycolors.info/wiki/【白いツバサ】風野灯織",
-        "Commus": [
-            {
-                "NameJP": "オーディション前①",
-                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/オーディション前①"
-            },
-            {
-                "NameJP": "オーディション前②",
-                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/オーディション前②"
-            },
-            {
-                "NameJP": "オーディション前③",
-                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/オーディション前③"
-            },
-            {
-                "NameJP": "オーディション前④",
-                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/オーディション前④"
-            },
-            {
-                "NameJP": "オーディション前⑤",
-                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/オーディション前⑤"
-            },
-            {
-                "NameJP": "オーディション前⑥",
-                "Link": "https://shinycolors.info/wiki/커뮤니케이션:카자노 히오리/공통/オーディション前⑥"
             }
         ]
     },
@@ -4041,7 +4019,7 @@
         "Category": "하치미야 메구루",
         "Order": 3,
         "Date": "",
-        "Title": "【白いツバサ】八宮めぐる_W.I.N.G",
+        "Title": "【白いツバサ】八宮めぐる_WING",
         "Icon": "./src/Icon Meguru P R 01.png",
         "Link": "https://shinycolors.info/wiki/【白いツバサ】八宮めぐる",
         "Commus": [
@@ -4136,6 +4114,30 @@
             {
                 "NameJP": "決勝後コミュ",
                 "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/決勝後コミュ"
+            },
+                        {
+                "NameJP": "オーディション前①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/オーディション前①"
+            },
+            {
+                "NameJP": "オーディション前②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/オーディション前②"
+            },
+            {
+                "NameJP": "オーディション前③",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/オーディション前③"
+            },
+            {
+                "NameJP": "オーディション前④",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/オーディション前④"
+            },
+            {
+                "NameJP": "オーディション前⑤",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/オーディション前⑤"
+            },
+            {
+                "NameJP": "オーディション前⑥",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/W.I.N.G/オーディション前⑥"
             }
         ]
     },
@@ -4211,7 +4213,7 @@
         "Category": "하치미야 메구루",
         "Order": 3,
         "Date": "",
-        "Title": "【白いツバサ】八宮めぐる_G.R.A.D",
+        "Title": "【白いツバサ】八宮めぐる_GRAD",
         "Icon": "./src/Icon Meguru P R 01.png",
         "Link": "https://shinycolors.info/wiki/【白いツバサ】八宮めぐる",
         "Commus": [
@@ -4432,41 +4434,6 @@
             {
                 "NameJP": "Morning⑮",
                 "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/Morning⑮"
-            }
-        ]
-    },
-    {
-        "Type": "Idol",
-        "Category": "하치미야 메구루",
-        "Order": 3,
-        "Date": "",
-        "Title": "【白いツバサ】八宮めぐる_オーディション",
-        "Icon": "./src/Icon Meguru P R 01.png",
-        "Link": "https://shinycolors.info/wiki/【白いツバサ】八宮めぐる",
-        "Commus": [
-            {
-                "NameJP": "オーディション前①",
-                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/オーディション前①"
-            },
-            {
-                "NameJP": "オーディション前②",
-                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/オーディション前②"
-            },
-            {
-                "NameJP": "オーディション前③",
-                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/オーディション前③"
-            },
-            {
-                "NameJP": "オーディション前④",
-                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/オーディション前④"
-            },
-            {
-                "NameJP": "オーディション前⑤",
-                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/オーディション前⑤"
-            },
-            {
-                "NameJP": "オーディション前⑥",
-                "Link": "https://shinycolors.info/wiki/커뮤니케이션:하치미야 메구루/공통/オーディション前⑥"
             }
         ]
     },
@@ -4974,6 +4941,429 @@
             {
                 "NameJP": "うちのこと",
                 "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/P/SR-4/うちのこと"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "츠키오카 코가네",
+        "Order": 4,
+        "Date": "",
+        "Title": "【白いツバサ】月岡恋鐘_WING",
+        "Icon": "./src/Icon Kogane P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】月岡恋鐘",
+        "Commus": [
+            {
+                "NameJP": "長崎生まれの無敵ガール",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/長崎生まれの無敵ガール"
+            },
+            {
+                "NameJP": "うちならできるたい！",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/うちならできるたい！"
+            },
+            {
+                "NameJP": "ひとりのステージ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/ひとりのステージ"
+            },
+            {
+                "NameJP": "めげないハート",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/めげないハート"
+            },
+            {
+                "NameJP": "一歩先へ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/一歩先へ"
+            },
+            {
+                "NameJP": "負けん",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/負けん"
+            },
+            {
+                "NameJP": "うちばい、月岡恋鐘ばい～！",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/うちばい、月岡恋鐘ばい～！"
+            },
+            {
+                "NameJP": "オーディション後①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/オーディション後①"
+            },
+            {
+                "NameJP": "オーディション後②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/オーディション後②"
+            },
+            {
+                "NameJP": "オーディション後②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/オーディション後②"
+            },
+            {
+                "NameJP": "オーディション後③",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/オーディション後③"
+            },
+            {
+                "NameJP": "シーズン1（クリア）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/シーズン1（クリア）"
+            },
+            {
+                "NameJP": "シーズン1（失敗）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/シーズン1（失敗）"
+            },
+            {
+                "NameJP": "シーズン2（クリア）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/シーズン2（クリア）"
+            },
+            {
+                "NameJP": "シーズン2（失敗）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/シーズン2（失敗）"
+            },
+            {
+                "NameJP": "シーズン3（クリア）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/シーズン3（クリア）"
+            },
+            {
+                "NameJP": "シーズン3（失敗）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/シーズン3（失敗）"
+            },
+            {
+                "NameJP": "シーズン4（クリア）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/シーズン4（クリア）"
+            },
+            {
+                "NameJP": "シーズン4（失敗）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/シーズン4（失敗）"
+            },
+            {
+                "NameJP": "準決勝前コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/準決勝前コミュ"
+            },
+            {
+                "NameJP": "準決勝後コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/準決勝後コミュ"
+            },
+            {
+                "NameJP": "決勝前コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/決勝前コミュ"
+            },
+            {
+                "NameJP": "決勝後コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/決勝後コミュ"
+            },
+            {
+                "NameJP": "オーディション前①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/オーディション前①"
+            },
+            {
+                "NameJP": "オーディション前②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/オーディション前②"
+            },
+            {
+                "NameJP": "オーディション前③",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/オーディション前③"
+            },
+            {
+                "NameJP": "オーディション前④",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/オーディション前④"
+            },
+            {
+                "NameJP": "オーディション前⑤",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/オーディション前⑤"
+            },
+            {
+                "NameJP": "オーディション前⑥",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/W.I.N.G/オーディション前⑥"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "츠키오카 코가네",
+        "Order": 4,
+        "Date": "",
+        "Title": "【白いツバサ】月岡恋鐘_팬 감사제",
+        "Icon": "./src/Icon Kogane P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】月岡恋鐘",
+        "Commus": [
+            {
+                "NameJP": "ろまん、ど～ぞ♡",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/감사제/ろまん、ど～ぞ♡"
+            },
+            {
+                "NameJP": "ミユア・ノ・レゾレソ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/감사제/ミユア・ノ・レゾレソ"
+            },
+            {
+                "NameJP": "デイナ・シイ・パンシ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/감사제/デイナ・シイ・パンシ"
+            },
+            {
+                "NameJP": "モテク・ナ・デココ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/감사제/モテク・ナ・デココ"
+            },
+            {
+                "NameJP": "ヤケン・イウトヨ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/감사제/ヤケン・イウトヨ"
+            },
+            {
+                "NameJP": "ねえ、アンティーカ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/감사제/ねえ、アンティーカ"
+            },
+            {
+                "NameJP": "──うん、アンティーカ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/감사제/──うん、アンティーカ"
+            },
+            {
+                "NameJP": "宇宙、ど～ぞ♡",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/감사제/宇宙、ど～ぞ♡"
+            },
+            {
+                "NameJP": "リハーサル前",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/감사제/リハーサル前"
+            },
+            {
+                "NameJP": "リハーサル後",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/감사제/リハーサル後"
+            },
+            {
+                "NameJP": "感謝祭本番前（ユニット）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/감사제/感謝祭本番前（ユニット）"
+            },
+            {
+                "NameJP": "感謝祭本番前",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/감사제/感謝祭本番前"
+            },
+            {
+                "NameJP": "感謝祭本番後（通常）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/감사제/感謝祭本番後（通常）"
+            },
+            {
+                "NameJP": "感謝祭本番後（MVP）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/감사제/感謝祭本番後（MVP）"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "츠키오카 코가네",
+        "Order": 4,
+        "Date": "",
+        "Title": "【白いツバサ】月岡恋鐘_GRAD",
+        "Icon": "./src/Icon Kogane P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】月岡恋鐘",
+        "Commus": [
+            {
+                "NameJP": "２８３プロの無敵ガール",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/G.R.A.D/２８３プロの無敵ガール"
+            },
+            {
+                "NameJP": "うちなら平気ばい！",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/G.R.A.D/うちなら平気ばい！"
+            },
+            {
+                "NameJP": "ひとりのオーディション",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/G.R.A.D/ひとりのオーディション"
+            },
+            {
+                "NameJP": "みえないルート",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/G.R.A.D/みえないルート"
+            },
+            {
+                "NameJP": "もう一歩先へ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/G.R.A.D/もう一歩先へ"
+            },
+            {
+                "NameJP": "月岡恋鐘（L'Antica）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/G.R.A.D/月岡恋鐘（L'Antica）"
+            },
+            {
+                "NameJP": "予選前コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/G.R.A.D/予選前コミュ"
+            },
+            {
+                "NameJP": "予選後コミュ 勝利",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/G.R.A.D/予選後コミュ 勝利"
+            },
+            {
+                "NameJP": "予選後コミュ 敗北",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/G.R.A.D/予選後コミュ 敗北"
+            },
+            {
+                "NameJP": "敗者復活前コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/G.R.A.D/敗者復活前コミュ"
+            },
+            {
+                "NameJP": "G.R.A.D.敗退コミュ①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/G.R.A.D/G.R.A.D.敗退コミュ①"
+            },
+            {
+                "NameJP": "G.R.A.D.敗退コミュ②前",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/G.R.A.D/空はつづく"
+            },
+            {
+                "NameJP": "G.R.A.D.敗退コミュ②後",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/G.R.A.D/G.R.A.D.敗退コミュ②後"
+            },
+            {
+                "NameJP": "決勝前コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/G.R.A.D/決勝前コミュ"
+            },
+            {
+                "NameJP": "決勝後コミュ　勝利",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/G.R.A.D/決勝後コミュ　勝利"
+            },
+            {
+                "NameJP": "決勝後コミュ　敗北①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/G.R.A.D/決勝後コミュ　敗北①"
+            },
+            {
+                "NameJP": "決勝後コミュ　敗北②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/G.R.A.D/決勝後コミュ　敗北②"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "츠키오카 코가네",
+        "Order": 4,
+        "Date": "",
+        "Title": "【白いツバサ】月岡恋鐘_Landing Point",
+        "Icon": "./src/Icon Kogane P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】月岡恋鐘",
+        "Commus": [
+            {
+                "NameJP": "ジャンプアップ！",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Landing Point/ジャンプアップ！"
+            },
+            {
+                "NameJP": "頑張らんば～",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Landing Point/頑張らんば～"
+            },
+            {
+                "NameJP": "ブラッシュアップ！",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Landing Point/ブラッシュアップ！"
+            },
+            {
+                "NameJP": "むらくも",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Landing Point/むらくも"
+            },
+            {
+                "NameJP": "いつでもそこに",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Landing Point/いつでもそこに"
+            },
+            {
+                "NameJP": "月は裏側を見せない",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Landing Point/月は裏側を見せない"
+            },
+            {
+                "NameJP": "1曲目前コミュ《ユニット限定》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Landing Point/1曲目前コミュ《ユニット限定》"
+            },
+            {
+                "NameJP": "1曲目前コミュ《ユニット》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Landing Point/1曲目前コミュ《ユニット》"
+            },
+            {
+                "NameJP": "2曲目前コミュ《ユニット限定》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Landing Point/2曲目前コミュ《ユニット限定》"
+            },
+            {
+                "NameJP": "3曲目前コミュ《ユニット限定》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Landing Point/3曲目前コミュ《ユニット限定》"
+            },
+            {
+                "NameJP": "ライブ後コミュ《ユニット》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Landing Point/ライブ後コミュ《ユニット》"
+            },
+            {
+                "NameJP": "ライブ1曲目前コミュ《個人》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Landing Point/ライブ1曲目前コミュ《個人》"
+            },
+            {
+                "NameJP": "ライブ2曲目前コミュ《個人》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Landing Point/ライブ2曲目前コミュ《個人》"
+            },
+            {
+                "NameJP": "ライブ3曲目前コミュ《個人》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Landing Point/ライブ3曲目前コミュ《個人》"
+            },
+            {
+                "NameJP": "ライブ後コミュ《個人》　大成功",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Landing Point/ライブ後コミュ《個人》　大成功"
+            },
+            {
+                "NameJP": "ライブ後コミュ《個人》　成功",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Landing Point/ライブ後コミュ《個人》　成功"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "츠키오카 코가네",
+        "Order": 4,
+        "Date": "",
+        "Title": "【白いツバサ】月岡恋鐘_Morning",
+        "Icon": "./src/Icon Kogane P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】月岡恋鐘",
+        "Commus": [
+            {
+                "NameJP": "Morning①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Morning①"
+            },
+            {
+                "NameJP": "Morning②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Morning②"
+            },
+            {
+                "NameJP": "Morning③",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Morning③"
+            },
+            {
+                "NameJP": "Morning④",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Morning④"
+            },
+            {
+                "NameJP": "Morning⑤",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Morning⑤"
+            },
+            {
+                "NameJP": "Morning⑥",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Morning⑥"
+            },
+            {
+                "NameJP": "Morning⑦",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Morning⑦"
+            },
+            {
+                "NameJP": "Morning⑧",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Morning⑧"
+            },
+            {
+                "NameJP": "Morning⑨",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Morning⑨"
+            },
+            {
+                "NameJP": "Morning⑩",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Morning⑩"
+            },
+            {
+                "NameJP": "Morning⑪",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Morning⑪"
+            },
+            {
+                "NameJP": "Morning②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Morning②"
+            },
+            {
+                "NameJP": "Morning⑫",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Morning⑫"
+            },
+            {
+                "NameJP": "Morning⑬",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Morning⑬"
+            },
+            {
+                "NameJP": "Morning⑭",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Morning⑭"
+            },
+            {
+                "NameJP": "Morning⑮",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:츠키오카 코가네/공통/Morning⑮"
             }
         ]
     },
@@ -5500,6 +5890,429 @@
             {
                 "NameJP": "やさしいラーメンやさん",
                 "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/P/SR-4/やさしいラーメンやさん"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "타나카 마미미",
+        "Order": 5,
+        "Date": "",
+        "Title": "【白いツバサ】田中摩美々_WING",
+        "Icon": "./src/Icon Mamimi P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】田中摩美々",
+        "Commus": [
+            {
+                "NameJP": "My hidden heart",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/My hidden heart"
+            },
+            {
+                "NameJP": "満ち欠けマイペース",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/満ち欠けマイペース"
+            },
+            {
+                "NameJP": "あまのじゃく",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/あまのじゃく"
+            },
+            {
+                "NameJP": "私に足りないもの",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/私に足りないもの"
+            },
+            {
+                "NameJP": "たぶん大切だから",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/たぶん大切だから"
+            },
+            {
+                "NameJP": "その瞳が目指す場所",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/その瞳が目指す場所"
+            },
+            {
+                "NameJP": "My real heart",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/My real heart"
+            },
+            {
+                "NameJP": "オーディション後①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/オーディション後①"
+            },
+            {
+                "NameJP": "オーディション後②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/オーディション後②"
+            },
+            {
+                "NameJP": "オーディション後②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/オーディション後②"
+            },
+            {
+                "NameJP": "オーディション後③",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/オーディション後③"
+            },
+            {
+                "NameJP": "シーズン1（クリア）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/シーズン1（クリア）"
+            },
+            {
+                "NameJP": "シーズン1（失敗）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/シーズン1（失敗）"
+            },
+            {
+                "NameJP": "シーズン2（クリア）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/シーズン2（クリア）"
+            },
+            {
+                "NameJP": "シーズン2（失敗）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/シーズン2（失敗）"
+            },
+            {
+                "NameJP": "シーズン3（クリア）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/シーズン3（クリア）"
+            },
+            {
+                "NameJP": "シーズン3（失敗）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/シーズン3（失敗）"
+            },
+            {
+                "NameJP": "シーズン4（クリア）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/シーズン4（クリア）"
+            },
+            {
+                "NameJP": "シーズン4（失敗）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/シーズン4（失敗）"
+            },
+            {
+                "NameJP": "準決勝前コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/準決勝前コミュ"
+            },
+            {
+                "NameJP": "準決勝後コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/準決勝後コミュ"
+            },
+            {
+                "NameJP": "決勝前コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/決勝前コミュ"
+            },
+            {
+                "NameJP": "決勝後コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/決勝後コミュ"
+            },
+            {
+                "NameJP": "オーディション前①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/オーディション前①"
+            },
+            {
+                "NameJP": "オーディション前②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/オーディション前②"
+            },
+            {
+                "NameJP": "オーディション前③",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/オーディション前③"
+            },
+            {
+                "NameJP": "オーディション前④",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/オーディション前④"
+            },
+            {
+                "NameJP": "オーディション前⑤",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/オーディション前⑤"
+            },
+            {
+                "NameJP": "オーディション前⑥",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/W.I.N.G/オーディション前⑥"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "타나카 마미미",
+        "Order": 5,
+        "Date": "",
+        "Title": "【白いツバサ】田中摩美々_팬 감사제",
+        "Icon": "./src/Icon Mamimi P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】田中摩美々",
+        "Commus": [
+            {
+                "NameJP": "暑苦しいヒト",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/감사제/暑苦しいヒト"
+            },
+            {
+                "NameJP": "ミユア・ノ・レゾレソ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/감사제/ミユア・ノ・レゾレソ"
+            },
+            {
+                "NameJP": "デイナ・シイ・パンシ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/감사제/デイナ・シイ・パンシ"
+            },
+            {
+                "NameJP": "モテク・ナ・デココ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/감사제/モテク・ナ・デココ"
+            },
+            {
+                "NameJP": "ヤケン・イウトヨ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/감사제/ヤケン・イウトヨ"
+            },
+            {
+                "NameJP": "ねえ、アンティーカ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/감사제/ねえ、アンティーカ"
+            },
+            {
+                "NameJP": "──うん、アンティーカ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/감사제/──うん、アンティーカ"
+            },
+            {
+                "NameJP": "宇宙、ど～ぞ♡",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/감사제/宇宙、ど～ぞ♡"
+            },
+            {
+                "NameJP": "リハーサル前",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/감사제/リハーサル前"
+            },
+            {
+                "NameJP": "リハーサル後",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/감사제/リハーサル後"
+            },
+            {
+                "NameJP": "感謝祭本番前（ユニット）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/감사제/感謝祭本番前（ユニット）"
+            },
+            {
+                "NameJP": "感謝祭本番前",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/감사제/感謝祭本番前"
+            },
+            {
+                "NameJP": "感謝祭本番後（通常）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/감사제/感謝祭本番後（通常）"
+            },
+            {
+                "NameJP": "感謝祭本番後（MVP）",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/감사제/感謝祭本番後（MVP）"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "타나카 마미미",
+        "Order": 5,
+        "Date": "",
+        "Title": "【白いツバサ】田中摩美々_GRAD",
+        "Icon": "./src/Icon Mamimi P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】田中摩美々",
+        "Commus": [
+            {
+                "NameJP": "ミス・ミスティー・ガール",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/G.R.A.D/ミス・ミスティー・ガール"
+            },
+            {
+                "NameJP": "What's going on?",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/G.R.A.D/What's going on?"
+            },
+            {
+                "NameJP": "化けの皮 3,2,1",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/G.R.A.D/化けの皮 3,2,1"
+            },
+            {
+                "NameJP": "透明色だった、みたいに",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/G.R.A.D/透明色だった、みたいに"
+            },
+            {
+                "NameJP": "ザ・グレイテスト・エスケイプ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/G.R.A.D/ザ・グレイテスト・エスケイプ"
+            },
+            {
+                "NameJP": "SUKI・YAKI",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/G.R.A.D/SUKI・YAKI"
+            },
+            {
+                "NameJP": "予選前コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/G.R.A.D/予選前コミュ"
+            },
+            {
+                "NameJP": "予選後コミュ 勝利",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/G.R.A.D/予選後コミュ 勝利"
+            },
+            {
+                "NameJP": "予選後コミュ 敗北",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/G.R.A.D/予選後コミュ 敗北"
+            },
+            {
+                "NameJP": "敗者復活前コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/G.R.A.D/敗者復活前コミュ"
+            },
+            {
+                "NameJP": "G.R.A.D.敗退コミュ①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/G.R.A.D/G.R.A.D.敗退コミュ①"
+            },
+            {
+                "NameJP": "G.R.A.D.敗退コミュ②前",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/G.R.A.D/空はつづく"
+            },
+            {
+                "NameJP": "G.R.A.D.敗退コミュ②後",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/G.R.A.D/G.R.A.D.敗退コミュ②後"
+            },
+            {
+                "NameJP": "決勝前コミュ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/G.R.A.D/決勝前コミュ"
+            },
+            {
+                "NameJP": "決勝後コミュ　勝利",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/G.R.A.D/決勝後コミュ　勝利"
+            },
+            {
+                "NameJP": "決勝後コミュ　敗北①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/G.R.A.D/決勝後コミュ　敗北①"
+            },
+            {
+                "NameJP": "決勝後コミュ　敗北②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/G.R.A.D/決勝後コミュ　敗北②"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "타나카 마미미",
+        "Order": 5,
+        "Date": "",
+        "Title": "【白いツバサ】田中摩美々_Landing Point",
+        "Icon": "./src/Icon Mamimi P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】田中摩美々",
+        "Commus": [
+            {
+                "NameJP": "capacity-game-over?",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Landing Point/capacity-game-over?"
+            },
+            {
+                "NameJP": "私だけ",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Landing Point/私だけ"
+            },
+            {
+                "NameJP": "超HEAVY21グラム級",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Landing Point/超HEAVY21グラム級"
+            },
+            {
+                "NameJP": "Any way",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Landing Point/Any way"
+            },
+            {
+                "NameJP": "再・生",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Landing Point/再・生"
+            },
+            {
+                "NameJP": "いつも通りにして最上の日々",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Landing Point/いつも通りにして最上の日々"
+            },
+            {
+                "NameJP": "1曲目前コミュ《ユニット限定》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Landing Point/1曲目前コミュ《ユニット限定》"
+            },
+            {
+                "NameJP": "1曲目前コミュ《ユニット》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Landing Point/1曲目前コミュ《ユニット》"
+            },
+            {
+                "NameJP": "2曲目前コミュ《ユニット限定》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Landing Point/2曲目前コミュ《ユニット限定》"
+            },
+            {
+                "NameJP": "3曲目前コミュ《ユニット限定》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Landing Point/3曲目前コミュ《ユニット限定》"
+            },
+            {
+                "NameJP": "ライブ後コミュ《ユニット》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Landing Point/ライブ後コミュ《ユニット》"
+            },
+            {
+                "NameJP": "ライブ1曲目前コミュ《個人》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Landing Point/ライブ1曲目前コミュ《個人》"
+            },
+            {
+                "NameJP": "ライブ2曲目前コミュ《個人》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Landing Point/ライブ2曲目前コミュ《個人》"
+            },
+            {
+                "NameJP": "ライブ3曲目前コミュ《個人》",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Landing Point/ライブ3曲目前コミュ《個人》"
+            },
+            {
+                "NameJP": "ライブ後コミュ《個人》　大成功",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Landing Point/ライブ後コミュ《個人》　大成功"
+            },
+            {
+                "NameJP": "ライブ後コミュ《個人》　成功",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Landing Point/ライブ後コミュ《個人》　成功"
+            }
+        ]
+    },
+    {
+        "Type": "Idol",
+        "Category": "타나카 마미미",
+        "Order": 5,
+        "Date": "",
+        "Title": "【白いツバサ】田中摩美々_Morning",
+        "Icon": "./src/Icon Mamimi P R 01.png",
+        "Link": "https://shinycolors.info/wiki/【白いツバサ】田中摩美々",
+        "Commus": [
+            {
+                "NameJP": "Morning①",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Morning①"
+            },
+            {
+                "NameJP": "Morning②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Morning②"
+            },
+            {
+                "NameJP": "Morning③",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Morning③"
+            },
+            {
+                "NameJP": "Morning④",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Morning④"
+            },
+            {
+                "NameJP": "Morning⑤",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Morning⑤"
+            },
+            {
+                "NameJP": "Morning⑥",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Morning⑥"
+            },
+            {
+                "NameJP": "Morning⑦",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Morning⑦"
+            },
+            {
+                "NameJP": "Morning⑧",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Morning⑧"
+            },
+            {
+                "NameJP": "Morning⑨",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Morning⑨"
+            },
+            {
+                "NameJP": "Morning⑩",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Morning⑩"
+            },
+            {
+                "NameJP": "Morning⑪",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Morning⑪"
+            },
+            {
+                "NameJP": "Morning②",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Morning②"
+            },
+            {
+                "NameJP": "Morning⑫",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Morning⑫"
+            },
+            {
+                "NameJP": "Morning⑬",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Morning⑬"
+            },
+            {
+                "NameJP": "Morning⑭",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Morning⑭"
+            },
+            {
+                "NameJP": "Morning⑮",
+                "Link": "https://shinycolors.info/wiki/커뮤니케이션:타나카 마미미/공통/Morning⑮"
             }
         ]
     },
