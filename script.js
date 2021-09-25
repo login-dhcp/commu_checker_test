@@ -234,9 +234,12 @@ function datasetToHTML(data) {
 
                 var span_ID = `desc${idSeperator}${commuTitle}`;
                 document.getElementById(span_ID).innerHTML = `${checked}/${all}`;
-            })
+            });
         }
-
+        var span_ID = `desc${idSeperator}${commu['Title']}`;
+        var all = document.querySelectorAll(`input[id^="btn${idSeperator}${commu['Title']}"]`).length;
+        var checked = document.querySelectorAll(`input[id^="btn${idSeperator}${commu['Title']}"]:checked`).length;
+        document.getElementById(span_ID).innerHTML = `${checked}/${all}`;
     }
 
 
