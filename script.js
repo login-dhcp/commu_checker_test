@@ -45,8 +45,6 @@ async function init() {
     $.getJSON("commu_list.json", async function(json) {
         var raw_data = json;
         await datasetToHTML(parse_raw(raw_data));
-        await sleep(1000);
-        // getStateFromUrl();
     });
     
     console.log('finished');
@@ -75,20 +73,24 @@ function parse_raw(data) {
     return new_data;
 }
 
-function commuItemToHTML(commudata) {
+function commuItemToHTML(commu) {
+    var parentID = `${commu['Type']}${idSeperator}${commu['Category']}`;
+    var commuID = `${parentID}${idSeperator}${commu['Title']}`;
+
     var commuHTML = '';
     commuHTML += `<span class="commuItem">\n`;
-    commuHTML += `<span class="commuIcon" id="div${idSeperator}${commudata['Title']}" data-visible=false>\n`;
-    commuHTML += `<img id="icon${idSeperator}${commudata['Title']}" 
-                    alt="${commudata['Icon']}" 
-                    src="${commudata['Icon']}" height="96">`;
-    commuHTML += `<span id="desc${idSeperator}${commudata['Title']}">0/0</span>`
-    commuHTML += `<dialog id="dialog${idSeperator}${commudata['Title']}" class="customDialog commuDialog">`;
-    commuHTML += `<button id="btn${idSeperator}${commudata['Title']}_close" class="dialogCloseButton">X</button>`;
-    commuHTML += `<a href="${commudata['Link']}" target="_blank">${commudata['Title']}<br></a>`;
-    for (var commu of commudata['Commus']) {
-        commuHTML += `<label><input type="checkbox" id="btn${idSeperator}${commudata['Title']}${idSeperator}${commu['NameJP']}">${commu['NameJP']}</label>`;
-        commuHTML += `&nbsp;<a href="${commu['Link']}" target="_blank">링크<br></a>`
+    commuHTML += `<span class="commuIcon" id="div${idSeperator}${commuID}" data-visible=false>\n`;
+    commuHTML += `<img id="icon${idSeperator}${commuID}" 
+                    alt="${commu['Icon']}" 
+                    src="${commu['Icon']}" height="96">`;
+    commuHTML += `<span id="desc${idSeperator}${commuID}">0/0</span>`;
+    commuHTML += `<dialog id="dialog${idSeperator}${commuID}" class="customDialog commuDialog">`;
+    commuHTML += `<button id="btn${idSeperator}${commuID}${idSeperator}close" class="dialogCloseButton">X</button>`;
+    commuHTML += `<a href="${commu['Link']}" target="_blank">${commu['Title']}<br></a>`;
+    for (var smallCommu of commu['Commus']) {
+        commuHTML += `<label><input type="checkbox" id="btn${idSeperator}${commuID}${idSeperator}${smallCommu['NameJP']}">`;
+        commuHTML += `${smallCommu['NameJP']}</label>`;
+        commuHTML += `&nbsp;<a href="${smallCommu['Link']}" target="_blank">링크<br></a>`
     }
     commuHTML += `</dialog>`;
     commuHTML += `</span>`;
@@ -128,7 +130,7 @@ function datasetToHTML(data) {
     for (var commuType of commuTypes) {
         var buttonID = `btn${idSeperator}${commuType}`;
         var dialogID = `dialog${idSeperator}${commuType}`;
-        var dialogCloseID = `${buttonID}_close`;
+        var dialogCloseID = `${buttonID}${idSeperator}close`;
         var dialogIconPath = `./src/Type_${commuType}.png`;
         var dialogHTML = '';
         dialogHTML += `<input type="image" id="${buttonID}" value="${commuType}" src="${dialogIconPath}" height="40">`;
@@ -142,7 +144,7 @@ function datasetToHTML(data) {
             document.getElementById(this.id.replace('btn', 'dialog')).showModal();
         });
         document.getElementById(`${dialogCloseID}`).addEventListener('click', function(e) {
-            document.getElementById(this.id.replace('_close', '').replace('btn', 'dialog')).close();
+            document.getElementById(this.id.replace(`${idSeperator}close`, '').replace('btn', 'dialog')).close();
         });
     }
 
@@ -170,12 +172,14 @@ function datasetToHTML(data) {
         var item_parse = item.split('|||');
         var commuType = item_parse[0];
         var commuCategory = item_parse[2];
-        var buttonID = `btn${idSeperator}${commuType}${idSeperator}${commuCategory}`;
-        var dialogID = `dialog${idSeperator}${commuType}${idSeperator}${commuCategory}`;
-        var dialogCloseID = `${buttonID}_close`;
+        var categoryID = `${commuType}${idSeperator}${commuCategory}`;
+        var buttonID = `btn${idSeperator}${categoryID}`;
+        var dialogID = `dialog${idSeperator}${categoryID}`;
+        var dialogCloseID = `${buttonID}${idSeperator}close`;
         var dialogIconPath = `./src/Category_${commuCategory}.png`;
         var dialogHTML = ``;
-
+        dialogHTML += `<span id=div${idSeperator}${categoryID} data-visible=false>`;
+        dialogHTML += `<span id="desc${idSeperator}${categoryID}">0%</span>`;
         dialogHTML += `<input type="image" id="${buttonID}" value="${commuCategory}" src="${dialogIconPath}" height="96">`;
         dialogHTML += `<br>`;
         dialogHTML += `${commuCategory}`;
@@ -184,26 +188,29 @@ function datasetToHTML(data) {
         dialogHTML += `<button id="${dialogCloseID}" class="dialogCloseButton">X</button>`;
         dialogHTML += `<span>Category: ${commuCategory}<br></span>`;
         dialogHTML += `</dialog>`;
+        dialogHTML += `</span>`;
         document.getElementById(`dialog${idSeperator}${commuType}`).insertAdjacentHTML('beforeend', dialogHTML);
         document.getElementById(buttonID).addEventListener('click', function(e) {
             document.getElementById(this.id.replace('btn', 'dialog')).showModal();
         });
         document.getElementById(`${dialogCloseID}`).addEventListener('click', function(e) {
-            document.getElementById(this.id.replace('_close', '').replace('btn', 'dialog')).close();
+            document.getElementById(this.id.replace(`${idSeperator}close`, '').replace('btn', 'dialog')).close();
         });
     }
 
     // 3. add Commus
     for (var i=0; i<data.length; i++) {
         var commu = data[i];
-        var dialogID = `dialog${idSeperator}${commu['Type']}${idSeperator}${commu['Category']}`;
+        var parentID = `${commu['Type']}${idSeperator}${commu['Category']}`;
+        var dialogID = `dialog${idSeperator}${parentID}`;
+        var commuID = `${parentID}${idSeperator}${commu['Title']}`;
         document.getElementById(dialogID).insertAdjacentHTML('beforeend', commuItemToHTML(commu));
-        document.getElementById(`icon-${commu['Title']}`).addEventListener('click', function(e) {
+        document.getElementById(`icon${idSeperator}${commuID}`).addEventListener('click', function(e) {
             document.getElementById(this.id.replace('icon', 'dialog')).showModal();
         });
-        var commuDialogCloseID = `btn${idSeperator}${commu['Title']}_close`;
+        var commuDialogCloseID = `btn${idSeperator}${commuID}${idSeperator}close`;
         document.getElementById(`${commuDialogCloseID}`).addEventListener('click', function(e) {
-            document.getElementById(this.id.replace('_close', '').replace('btn', 'dialog')).close();
+            document.getElementById(this.id.replace(`${idSeperator}close`, '').replace('btn', 'dialog')).close();
         });
 
         // 3.1. Split Commus with cardType, rarity 
@@ -216,33 +223,45 @@ function datasetToHTML(data) {
             }
         }
 
-        // 3.1. 각 commu checkbox에 parent dialog icon opacity 설정 + count checkbox checked num
+        // 3.2. 각 commu checkbox에 parent dialog icon opacity 설정 + count checkbox checked num
         for (var smallCommu of commu['Commus']) {
-            var smallCommuID = `btn${idSeperator}${commu['Title']}${idSeperator}${smallCommu['NameJP']}`;
+            var smallCommuID = `btn${idSeperator}${commuID}${idSeperator}${smallCommu['NameJP']}`;
             document.getElementById(smallCommuID).addEventListener('change', function() {
-                var commuTitle = this.id.split(`${idSeperator}`)[1]; // 0 for btn, 1 for title
-                var divID = `div${idSeperator}${commuTitle}`;
-
-                var all = document.querySelectorAll(`input[id^=btn${idSeperator}${commuTitle}]`).length;
-                var checked = document.querySelectorAll(`input[id^=btn${idSeperator}${commuTitle}]:checked`).length;
+                var metaDataSplitted = this.id.split(`${idSeperator}`);
+                var metaData = {
+                    'Type': metaDataSplitted[1],
+                    'Category': metaDataSplitted[2],
+                    'Title': metaDataSplitted[3],
+                    'NameJP': metaDataSplitted[4]
+                };
+                var commuID = `${metaData['Type']}${idSeperator}${metaData['Category']}${idSeperator}${metaData['Title']}`;
+                var all = document.querySelectorAll(`input[id^=btn${idSeperator}${commuID}]`).length;
+                var checked = document.querySelectorAll(`input[id^=btn${idSeperator}${commuID}]:checked`).length;
 
                 if (checked === all) {
-                    document.getElementById(divID).dataset.visible = true;
+                    document.getElementById(`div${idSeperator}${commuID}`).dataset.visible = true;
                 } else {
-                    document.getElementById(divID).dataset.visible = false;
+                    document.getElementById(`div${idSeperator}${commuID}`).dataset.visible = false;
                 }
 
-                var span_ID = `desc${idSeperator}${commuTitle}`;
+                var span_ID = `desc${idSeperator}${commuID}`;
                 document.getElementById(span_ID).innerHTML = `${checked}/${all}`;
+                
+                // 3.3. 각 commu checkbox에 commuCategory percentage 설정
+                var categoryID = `${metaData['Type']}${idSeperator}${metaData['Category']}`;
+                var all = document.querySelectorAll(`input[id^=btn${idSeperator}${categoryID}]`).length;
+                var checked = document.querySelectorAll(`input[id^=btn${idSeperator}${categoryID}]:checked`).length;
+
+                var span_ID = `desc${idSeperator}${categoryID}`;
+                document.getElementById(span_ID).innerHTML = parseFloat(checked/all*100).toFixed(2)+"%";
             });
+
         }
-        var span_ID = `desc${idSeperator}${commu['Title']}`;
-        var all = document.querySelectorAll(`input[id^="btn${idSeperator}${commu['Title']}"]`).length;
-        var checked = document.querySelectorAll(`input[id^="btn${idSeperator}${commu['Title']}"]:checked`).length;
+        var span_ID = `desc${idSeperator}${commuID}`;
+        var all = document.querySelectorAll(`input[id^="btn${idSeperator}${commuID}"]`).length;
+        var checked = document.querySelectorAll(`input[id^="btn${idSeperator}${commuID}"]:checked`).length;
         document.getElementById(span_ID).innerHTML = `${checked}/${all}`;
     }
-
-
 }
 
 function saveState() {
